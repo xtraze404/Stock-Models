@@ -1,0 +1,35 @@
+{
+ "t": "DMAC",
+ "name": "DiaMedica Therapeutics Inc",
+ "query": "DiaMedica Therapeutics",
+ "n_studies": 7,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Thrombosis / cardiovascular",
+   "area": "Cardiovascular",
+   "rate_class": "area",
+   "stage": 2.5,
+   "pos": 0.2087,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2030,
+   "drugs": [
+    "Recombinant human tissue kallikrein"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT05065216"
+   ],
+   "lead_title": "Treatment of Acute Ischemic Stroke (ReMEDy2 Trial)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Kidney disease"
+ ]
+}

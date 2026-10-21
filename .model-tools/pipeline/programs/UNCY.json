@@ -1,0 +1,35 @@
+{
+ "t": "UNCY",
+ "name": "Unicycive Therapeutics Inc",
+ "query": "Unicycive Therapeutics",
+ "n_studies": 1,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Kidney disease",
+   "area": "Other",
+   "rate_class": "area",
+   "stage": 3.5,
+   "pos": 0.884,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2027,
+   "drugs": [
+    "Oxylanthanum Carbonate"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06218290"
+   ],
+   "lead_title": "A Study to Assess the Tolerability of Oxylanthanum Carbonate in Patients With Chronic Kidney Disease on Dialysis",
+   "niche": false,
+   "reg": "NDA resubmission (OLC, hyperphosphatemia) with PDUFA Jun 29, 2026; outcome not found"
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [],
+ "overrides": true
+}

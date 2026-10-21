@@ -1,0 +1,33 @@
+{
+ "t": "CMND",
+ "name": "Clearmind Medicine Inc",
+ "query": "Clearmind Medicine",
+ "n_studies": 1,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Anxiety / PTSD / addiction",
+   "area": "Psychiatry",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0999,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "CMND-100"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-12-31",
+   "lead_ncts": [
+    "NCT05913752"
+   ],
+   "lead_title": "A First in Human Study of CMND-100 in Healthy and Alcohol Use Disorder (AUD) Subjects",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

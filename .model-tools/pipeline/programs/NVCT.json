@@ -1,0 +1,37 @@
+{
+ "t": "NVCT",
+ "name": "Nuvectis Pharma Inc",
+ "query": "Nuvectis Pharma",
+ "n_studies": 4,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Lung cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "NXP900",
+    "Lorlatinib",
+    "Osimertinib"
+   ],
+   "n_trials": 3,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT07315113",
+    "NCT05873686",
+    "NCT07784959"
+   ],
+   "lead_title": "Study of NXP900 With Osimertinib in Subjects With Advanced, EGFR-Mutated Non-Small Cell Lung Cancer",
+   "niche": true
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

@@ -1,0 +1,33 @@
+{
+ "t": "YARW",
+ "name": "Yarrow Bioscience, Inc.",
+ "query": "Yarrow Bioscience",
+ "n_studies": 1,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Rare autoimmune",
+   "area": "Autoimmune",
+   "rate_class": "rare",
+   "stage": 2.0,
+   "pos": 0.2521,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Experimental: YB-101"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-12",
+   "lead_ncts": [
+    "NCT07682896"
+   ],
+   "lead_title": "Evaluation of YB-101 for Safety, Tolerability, Pharmacokinetics, and Efficacy in Graves' Disease",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

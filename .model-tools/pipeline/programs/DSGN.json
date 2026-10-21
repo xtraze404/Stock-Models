@@ -1,0 +1,58 @@
+{
+ "t": "DSGN",
+ "name": "Design Therapeutics, Inc.",
+ "query": "Design Therapeutics",
+ "n_studies": 5,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Muscular dystrophy / SMA",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 1.5,
+   "pos": 0.207,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "DT-216",
+    "DT-216P2"
+   ],
+   "n_trials": 4,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT06874010",
+    "NCT05285540",
+    "NCT05573698"
+   ],
+   "lead_title": "A Multiple Ascending Dose Study of DT-216P2 in Patients With Friedreich's Ataxia",
+   "niche": false
+  },
+  {
+   "bucket": "Eye disease (other)",
+   "area": "Ophthalmology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1656,
+   "peak": 600,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "DT-168"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-12",
+   "lead_ncts": [
+    "NCT07024693"
+   ],
+   "lead_title": "DT-168 in Keratoplasty Patients With Fuchs Endothelial Corneal Dystrophy",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

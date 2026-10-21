@@ -1,0 +1,36 @@
+{
+ "t": "NERV",
+ "name": "Minerva Neurosciences, Inc",
+ "query": "Minerva Neurosciences",
+ "n_studies": 7,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Schizophrenia / psychosis",
+   "area": "Psychiatry",
+   "rate_class": "chronic",
+   "stage": 3.0,
+   "pos": 0.551,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Roluperidone 64 mg",
+    "Olanzapine 10 MG",
+    "Roluperidone"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-12",
+   "lead_ncts": [
+    "NCT07565428",
+    "NCT06107803"
+   ],
+   "lead_title": "Study to Evaluate Efficacy and Safety of Roluperidone in Adult Subjects With Negative Symptoms and Stable Positive Sympt",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

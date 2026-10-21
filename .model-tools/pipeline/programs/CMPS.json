@@ -1,0 +1,57 @@
+{
+ "t": "CMPS",
+ "name": "Compass Pathways PLC",
+ "query": "Compass Pathways",
+ "n_studies": 16,
+ "n_used": 6,
+ "programs": [
+  {
+   "bucket": "Depression / mood",
+   "area": "Psychiatry",
+   "rate_class": "chronic",
+   "stage": 3.0,
+   "pos": 0.551,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Psilocybin"
+   ],
+   "n_trials": 5,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05624268",
+    "NCT05711940",
+    "NCT03775200"
+   ],
+   "lead_title": "Efficacy, Safety, and Tolerability of COMP360 in Participants With TRD",
+   "niche": false
+  },
+  {
+   "bucket": "Anxiety / PTSD / addiction",
+   "area": "Psychiatry",
+   "rate_class": "area",
+   "stage": 2.5,
+   "pos": 0.2658,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2030,
+   "drugs": [
+    "COMP360 psilocybin"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-11",
+   "lead_ncts": [
+    "NCT07570654"
+   ],
+   "lead_title": "Redefine Study: A Study Evaluating the Efficacy, Safety, and Tolerability of COMP360 in Participants With Post-traumatic",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

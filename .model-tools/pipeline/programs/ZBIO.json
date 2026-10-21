@@ -1,0 +1,107 @@
+{
+ "t": "ZBIO",
+ "name": "Zenas BioPharma, Inc.",
+ "query": "Zenas BioPharma",
+ "n_studies": 10,
+ "n_used": 8,
+ "programs": [
+  {
+   "bucket": "Rare autoimmune",
+   "area": "Autoimmune",
+   "rate_class": "rare",
+   "stage": 3.5,
+   "pos": 0.936,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2027,
+   "drugs": [
+    "Obexelimab",
+    "ZB001 for injection"
+   ],
+   "n_trials": 3,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05662241",
+    "NCT05786573",
+    "NCT05776121"
+   ],
+   "lead_title": "A Phase 3 Study of Obexelimab in Patients With IgG4-Related Disease",
+   "niche": false,
+   "reg": "BLA accepted Aug 2026, PDUFA May 27, 2027"
+  },
+  {
+   "bucket": "Multiple sclerosis",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4604,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Orelabrutinib",
+    "Obexelimab"
+   ],
+   "n_trials": 3,
+   "next_readout": "2030-06",
+   "lead_ncts": [
+    "NCT07067463",
+    "NCT07299019",
+    "NCT06564311"
+   ],
+   "lead_title": "A Study of Orelabrutinib in Patients With Primary Progressive Multiple Sclerosis",
+   "niche": false
+  },
+  {
+   "bucket": "Lupus / Sjogren's",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1929,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Obexelimab"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06559163"
+   ],
+   "lead_title": "A Study of Obexelimab in Patients With Systemic Lupus Erythematosus",
+   "niche": false
+  },
+  {
+   "bucket": "Rheumatoid / spondyloarthritis",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.1065,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "ZB002"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05638854"
+   ],
+   "lead_title": "A Study to Evaluate Safety and Pharmacokinetics of ZB002 in Healthy Participants and Participants With Rheumatoid Arthri",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [],
+ "overrides": true
+}

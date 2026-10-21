@@ -1,0 +1,36 @@
+{
+ "t": "ATOS",
+ "name": "Atossa Therapeutics Inc",
+ "query": "Atossa Therapeutics",
+ "n_studies": 9,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Breast cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Z-Endoxifen",
+    "(Z)-endoxifen",
+    "goserelin"
+   ],
+   "n_trials": 2,
+   "next_readout": "2026-11",
+   "lead_ncts": [
+    "NCT05068388",
+    "NCT05607004"
+   ],
+   "lead_title": "Effect of Oral (Z)-Endoxifen in Premenopausal Women With Measurable Breast Density",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

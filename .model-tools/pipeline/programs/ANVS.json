@@ -1,0 +1,60 @@
+{
+ "t": "ANVS",
+ "name": "Annovis Bio Inc",
+ "query": "Annovis Bio",
+ "n_studies": 8,
+ "n_used": 7,
+ "programs": [
+  {
+   "bucket": "Alzheimer's disease",
+   "area": "Neurology",
+   "rate_class": "chronic",
+   "stage": 3.0,
+   "pos": 0.551,
+   "peak": 4000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "buntanetap/posiphen",
+    "Posiphen",
+    "Buntanetap/Posiphen"
+   ],
+   "n_trials": 5,
+   "next_readout": "2027-12",
+   "lead_ncts": [
+    "NCT06709014",
+    "NCT05686044",
+    "NCT07757204"
+   ],
+   "lead_title": "A Double-blind Dual Study Assessing Safety and Efficacy of Buntanetap in Participants With Early AD",
+   "niche": false
+  },
+  {
+   "bucket": "Parkinson's disease",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4604,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "buntanetap/posiphen"
+   ],
+   "n_trials": 2,
+   "next_readout": "2029-09",
+   "lead_ncts": [
+    "NCT05357989",
+    "NCT07284784"
+   ],
+   "lead_title": "A Double-blind Study to Investigate Efficacy and Safety of Buntanetap Compared With Placebo in Participants With Early P",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

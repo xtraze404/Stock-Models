@@ -1,0 +1,61 @@
+{
+ "t": "CELC",
+ "name": "Celcuity Inc.",
+ "query": "Celcuity",
+ "n_studies": 11,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Breast cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 4,
+   "pos": 1.0,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2026,
+   "drugs": [
+    "Gedatolisib",
+    "Palbociclib"
+   ],
+   "n_trials": 3,
+   "next_readout": "2029-03-31",
+   "lead_ncts": [
+    "NCT05501886",
+    "NCT06757634",
+    "NCT02684032"
+   ],
+   "lead_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced",
+   "niche": false,
+   "reg": "Approved Jul 14, 2026 (Revtorpyk, gedatolisib) for HR+/HER2- PIK3CA wild-type advanced breast cancer"
+  },
+  {
+   "bucket": "Prostate cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "Gedatolisib",
+    "Darolutamide"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-01",
+   "lead_ncts": [
+    "NCT06190899"
+   ],
+   "lead_title": "Gedatolisib in Combination With Darolutamide in Metastatic Castration-Resistant Prostate Cancer",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [],
+ "overrides": true
+}

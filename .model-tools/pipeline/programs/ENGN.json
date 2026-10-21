@@ -1,0 +1,34 @@
+{
+ "t": "ENGN",
+ "name": "enGene Therapeutics Inc.",
+ "query": "enGene",
+ "n_studies": 1,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Bladder / urothelial cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "EG-70 (phase 1)",
+    "EG-70 (phase 2) Master Protocol"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-04-30",
+   "lead_ncts": [
+    "NCT04752722"
+   ],
+   "lead_title": "LEGEND Study: EG-70 in NMIBC Patients BCG-Unresponsive and High-Risk NMIBC Incompletely Treated With BCG or BCG-Na\u00efve",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

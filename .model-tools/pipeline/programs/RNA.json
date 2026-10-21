@@ -1,0 +1,33 @@
+{
+ "t": "RNA",
+ "name": "Atrium Therapeutics Inc",
+ "query": "Atrium Therapeutics",
+ "n_studies": 1,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Cardiomyopathy",
+   "area": "Cardiovascular",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0676,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "ATR 1072"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-05",
+   "lead_ncts": [
+    "NCT07738107"
+   ],
+   "lead_title": "ATR 1072 in Participants With PRKAG2 Syndrome",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

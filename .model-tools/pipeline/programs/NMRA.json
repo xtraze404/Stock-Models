@@ -1,0 +1,58 @@
+{
+ "t": "NMRA",
+ "name": "Neumora Therapeutics Inc",
+ "query": "Neumora Therapeutics",
+ "n_studies": 7,
+ "n_used": 6,
+ "programs": [
+  {
+   "bucket": "Depression / mood",
+   "area": "Psychiatry",
+   "rate_class": "chronic",
+   "stage": 3.0,
+   "pos": 0.551,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "NMRA-335140",
+    "NMRA-335140 80 mg"
+   ],
+   "n_trials": 5,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06029426",
+    "NCT06058039",
+    "NCT06058013"
+   ],
+   "lead_title": "Study to Evaluate the Effects of Oral NMRA-335140 Versus Placebo in Participants With Major Depressive Disorder",
+   "niche": false
+  },
+  {
+   "bucket": "Alzheimer's disease",
+   "area": "Neurology",
+   "rate_class": "chronic",
+   "stage": 1.0,
+   "pos": 0.0585,
+   "peak": 4000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "NMRA-323511"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06546995"
+   ],
+   "lead_title": "Study to Evaluate the Effects of NMRA-323511 Among Healthy Elderly and Adults With Agitation Associated With Dementia Du",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

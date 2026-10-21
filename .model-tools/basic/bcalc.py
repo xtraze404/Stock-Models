@@ -54,7 +54,7 @@ for name, r in re.findall(r'<sheet name="([^"]+)"[^>]*r:id="(rId\d+)"', wbx):
     t = rid[r].lstrip("/")
     sheets["xl/" + t if not t.startswith("xl/") else t] = name.replace("&amp;", "&")
 
-if L["kind"] == "DCF":
+if L["kind"] in ("DCF", "rNPV"):
     run = lambda inp, out: val(xl.calculate(inputs=inp, outputs=[out])[out])
     # data tables, computed the way Excel does
     for path, sname in sheets.items():
@@ -91,6 +91,31 @@ if L["kind"] == "DCF":
     OUT["scen"] = {n: {k: g("Assumptions", f"{col}{30 + j}") for k, col in (("ev", "B"), ("eq", "C"), ("ps", "D"), ("up", "E"))}
                    for j, n in enumerate(("Bear", "Base", "Bull"))}
     OUT["sens"] = [[g("Assumptions", f"{cl(2 + i)}{37 + j}") for i in range(5)] for j in range(5)]
+if L["kind"] == "rNPV":
+    OUT["npv"] = {k: g("NPV", f"B{r}") for k, r in (("pv_contrib", 19), ("pv_burn", 20), ("pv_tax", 21), ("ops", 22),
+                                                    ("eq", 25), ("ps", 27), ("up", 29))}
+    r0, r1 = L["pipe"]["prog_rows"]
+    OUT["programs"] = [{"pv": g("Pipeline", f"L{r}"), "pos": g("Pipeline", f"H{r}"), "peak": g("Pipeline", f"G{r}")}
+                       for r in range(r0, r1 + 1)]
+    OUT["rev"] = [g("NPV", f"{cl(3 + i)}4") for i in range(len(L["pipe"]["years"]))]
+    # price-implied peak-sales multiplier (base case, everything else held)
+    tgt, PK, PS = L["price"], X("Assumptions", "C11"), X("NPV", "B27")
+    f = lambda m: run({PK: m}, PS) - tgt
+    lo, hi = 0.0, 30.0
+    flo, fhi = f(lo), f(hi)
+    if flo > 0:
+        OUT["implied_peak"] = "below 0x"
+    elif fhi < 0:
+        OUT["implied_peak"] = ">30x"
+    else:
+        for _ in range(30):
+            mid = (lo + hi) / 2
+            if f(mid) > 0:
+                hi = mid
+            else:
+                lo = mid
+        OUT["implied_peak"] = (lo + hi) / 2
+if L["kind"] == "DCF":
     OUT["npv"] = {k: g("NPV", f"B{r}") for k, r in (("pv_fcf", 19), ("tfcf", 20), ("tv", 21), ("pv_tv", 22), ("ev", 23),
                                                     ("eq", 26), ("ps", 28), ("up", 30), ("tv_pct", 31))}
     N_ = len(L["fyears"])

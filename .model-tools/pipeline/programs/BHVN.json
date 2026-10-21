@@ -1,0 +1,199 @@
+{
+ "t": "BHVN",
+ "name": "Biohaven Ltd.",
+ "query": "Biohaven",
+ "n_studies": 42,
+ "n_used": 18,
+ "programs": [
+  {
+   "bucket": "Obesity",
+   "area": "Metabolic",
+   "rate_class": "chronic",
+   "stage": 2.0,
+   "pos": 0.1273,
+   "peak": 6000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Taldefgrobep Alfa"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT07281495"
+   ],
+   "lead_title": "Taldefgrobep Alfa in Adults With Overweight and Obesity",
+   "niche": false
+  },
+  {
+   "bucket": "Muscular dystrophy / SMA",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 3.0,
+   "pos": 0.5653,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "taldefgrobep alfa",
+    "troriluzole"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT03701399",
+    "NCT05337553"
+   ],
+   "lead_title": "Troriluzole in Adult Participants With Spinocerebellar Ataxia",
+   "niche": false
+  },
+  {
+   "bucket": "Depression / mood",
+   "area": "Psychiatry",
+   "rate_class": "chronic",
+   "stage": 2.5,
+   "pos": 0.2648,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2030,
+   "drugs": [
+    "BHV-7000"
+   ],
+   "n_trials": 3,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06419582",
+    "NCT06419608",
+    "NCT06423781"
+   ],
+   "lead_title": "BHV-7000 Acute Treatment of Bipolar Mania",
+   "niche": false
+  },
+  {
+   "bucket": "Rare autoimmune",
+   "area": "Autoimmune",
+   "rate_class": "rare",
+   "stage": 3.0,
+   "pos": 0.5653,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "BHV-1400",
+    "BHV-1300"
+   ],
+   "n_trials": 4,
+   "next_readout": "2027-07",
+   "lead_ncts": [
+    "NCT07661056",
+    "NCT07642050",
+    "NCT07054684"
+   ],
+   "lead_title": "Study to Determine if BHV-1300 is Effective and Safe in Adults With Graves' Disease",
+   "niche": false
+  },
+  {
+   "bucket": "Parkinson's disease",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 2.5,
+   "pos": 0.2383,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2030,
+   "drugs": [
+    "BHV-8000 10mg",
+    "BHV-8000 20 mg"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-08",
+   "lead_ncts": [
+    "NCT06976268"
+   ],
+   "lead_title": "A Study to Determine if BHV-8000 is Effective, Safe and Tolerable as a Treatment for Adults Living With Early Parkinson'",
+   "niche": false
+  },
+  {
+   "bucket": "Epilepsy",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 2.5,
+   "pos": 0.2383,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2030,
+   "drugs": [
+    "BHV-7000"
+   ],
+   "n_trials": 3,
+   "next_readout": "2026-10",
+   "lead_ncts": [
+    "NCT06309966",
+    "NCT06132893",
+    "NCT06443463"
+   ],
+   "lead_title": "Study to Determine if BHV-7000 is Effective and Safe in Adults With Refractory Focal Onset Epilepsy",
+   "niche": false
+  },
+  {
+   "bucket": "Migraine / pain",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1234,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "BHV-2100"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06603623"
+   ],
+   "lead_title": "Efficacy and Safety Trial of BHV-2100 for the Acute Treatment of Migraine",
+   "niche": false
+  },
+  {
+   "bucket": "Multiple myeloma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "BHV-1100 plus cytokine induced memory-like (CIML) NK cells plus IVIG and low dose IL-2"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04634435"
+   ],
+   "lead_title": "Autologous Memory-like NK Cell Therapy With BHV-1100 and Low Dose IL-2 in Multiple Myeloma Patients",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [
+  "Solid tumors (basket)"
+ ],
+ "stale_programs": []
+}

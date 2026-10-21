@@ -1,0 +1,37 @@
+{
+ "t": "ATNM",
+ "name": "Actinium Pharmaceuticals Inc",
+ "query": "Actinium Pharmaceuticals",
+ "n_studies": 9,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Leukemia",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "131I-apamistamab",
+    "Fludarabine",
+    "Lintuzumab-Ac225"
+   ],
+   "n_trials": 3,
+   "next_readout": "2029-02",
+   "lead_ncts": [
+    "NCT02665065",
+    "NCT07157514",
+    "NCT03867682"
+   ],
+   "lead_title": "Study of Iomab-B vs. Conventional Care in Older Subjects With Active, Relapsed or Refractory Acute Myeloid Leukemia",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

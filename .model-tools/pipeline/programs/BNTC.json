@@ -1,0 +1,34 @@
+{
+ "t": "BNTC",
+ "name": "Benitec Biopharma Inc",
+ "query": "Benitec Biopharma",
+ "n_studies": 2,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Muscular dystrophy / SMA",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 1.5,
+   "pos": 0.207,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "BB-301: Dose escalation phase 1b cohort 1",
+    "BB-301: Dose escalation phase 1b cohort 2"
+   ],
+   "n_trials": 1,
+   "next_readout": "2030-11",
+   "lead_ncts": [
+    "NCT06185673"
+   ],
+   "lead_title": "A Study to Evaluate the Safety and Clinical Activity of Intramuscular Doses of BB-301 Administered to Subjects With Ocul",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

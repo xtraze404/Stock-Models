@@ -1,0 +1,35 @@
+{
+ "t": "LONA",
+ "name": "LeonaBio Inc",
+ "query": "LeonaBio",
+ "n_studies": 9,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Breast cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Lasofoxifene in combination with abemaciclib"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-04",
+   "lead_ncts": [
+    "NCT05696626"
+   ],
+   "lead_title": "Evaluation of Lasofoxifene Combined With Abemaciclib Compared With Fulvestrant Combined With Abemaciclib in Locally Adva",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Alzheimer's disease"
+ ]
+}

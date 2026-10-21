@@ -1,0 +1,33 @@
+{
+ "t": "KROS",
+ "name": "Keros Therapeutics, Inc.",
+ "query": "Keros Therapeutics",
+ "n_studies": 3,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Muscular dystrophy / SMA",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 2.0,
+   "pos": 0.2521,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "KER-065"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-08-26",
+   "lead_ncts": [
+    "NCT07704099"
+   ],
+   "lead_title": "Safety and Efficacy of KER-065 in Participants With Duchenne Muscular Dystrophy",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

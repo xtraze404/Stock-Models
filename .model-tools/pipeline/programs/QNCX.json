@@ -1,0 +1,31 @@
+{
+ "t": "QNCX",
+ "name": "Quince Therapeutics, Inc.",
+ "query": "Quince Therapeutics",
+ "n_studies": 10,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Muscular dystrophy / SMA",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 3.0,
+   "pos": 0.5653,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06193200"
+   ],
+   "lead_title": "Evaluate the Neurological Effects of EryDex on Subjects With A-T",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

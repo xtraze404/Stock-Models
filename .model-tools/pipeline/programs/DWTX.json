@@ -1,0 +1,34 @@
+{
+ "t": "DWTX",
+ "name": "Dogwood Therapeutics Inc",
+ "query": "Dogwood Therapeutics",
+ "n_studies": 1,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Migraine / pain",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1234,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Halneuron",
+    "Halneuron (Open Label Extension)"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT06848348"
+   ],
+   "lead_title": "Efficacy and Safety Study of Halneuron in the Treatment of Chemotherapy-Induced Neuropathic Pain",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

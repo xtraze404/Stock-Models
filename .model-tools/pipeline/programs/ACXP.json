@@ -1,0 +1,35 @@
+{
+ "t": "ACXP",
+ "name": "Acurx Pharmaceuticals Inc",
+ "query": "Acurx Pharmaceuticals",
+ "n_studies": 2,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Bacterial / fungal infections",
+   "area": "Infectious disease",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.2283,
+   "peak": 500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Ibezapolstat",
+    "Vancomycin"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-09-29",
+   "lead_ncts": [
+    "NCT04247542",
+    "NCT07513285"
+   ],
+   "lead_title": "ACX-362E [Ibezapolstat] for Oral Treatment of Clostridioides Difficile Infection",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

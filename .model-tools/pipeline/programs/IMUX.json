@@ -1,0 +1,39 @@
+{
+ "t": "IMUX",
+ "name": "Immunic, Inc.",
+ "query": "Immunic",
+ "n_studies": 8,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Multiple sclerosis",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4604,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "IMU-838 tablets",
+    "IMU-838 (30 mg/day)",
+    "IMU-838 (45 mg/day)"
+   ],
+   "n_trials": 4,
+   "next_readout": "2026-11",
+   "lead_ncts": [
+    "NCT05134441",
+    "NCT05201638",
+    "NCT03846219"
+   ],
+   "lead_title": "Study to Evaluate the Efficacy, Safety, and Tolerability of IMU-838 in Patients With Relapsing Multiple Sclerosis",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Vaccines / respiratory viruses"
+ ]
+}

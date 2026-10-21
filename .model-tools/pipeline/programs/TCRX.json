@@ -1,0 +1,59 @@
+{
+ "t": "TCRX",
+ "name": "TScan Therapeutics Inc",
+ "query": "TScan Therapeutics",
+ "n_studies": 9,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Leukemia",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "SOC + TSC-101",
+    "SOC + TSC-100",
+    "TSC-101"
+   ],
+   "n_trials": 2,
+   "next_readout": "2029-06",
+   "lead_ncts": [
+    "NCT07702578",
+    "NCT05473910"
+   ],
+   "lead_title": "A Study of T-Cell Receptor Engineered Donor T Cells in Subjects Undergoing Allogeneic Peripheral Blood Stem Cell Transpl",
+   "niche": false
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "TSC-204-A0201",
+    "TSC-204-C0702"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-12-30",
+   "lead_ncts": [
+    "NCT05973487"
+   ],
+   "lead_title": "A Basket Study of Customized Autologous TCR-T Cell Therapies in Patients With Locally Advanced (Unresectable) or Metasta",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

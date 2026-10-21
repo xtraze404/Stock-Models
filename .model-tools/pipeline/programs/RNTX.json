@@ -1,0 +1,36 @@
+{
+ "t": "RNTX",
+ "name": "Rein Therapeutics Inc",
+ "query": "Rein Therapeutics",
+ "n_studies": 4,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Idiopathic pulmonary fibrosis",
+   "area": "Respiratory",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.135,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "LTI-03",
+    "Caveolin-1-Scaffolding-Protein-Derived Peptide (LTI-03)"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-09-30",
+   "lead_ncts": [
+    "NCT06968845",
+    "NCT04233814",
+    "NCT05954988"
+   ],
+   "lead_title": "A Phase 2 Study of LTI-03 in Patients With Idiopathic Pulmonary Fibrosis",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

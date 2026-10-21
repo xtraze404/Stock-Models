@@ -1,0 +1,60 @@
+{
+ "t": "DFTX",
+ "name": "Definium Therapeutics Inc",
+ "query": "Definium Therapeutics",
+ "n_studies": 9,
+ "n_used": 8,
+ "programs": [
+  {
+   "bucket": "Depression / mood",
+   "area": "Psychiatry",
+   "rate_class": "chronic",
+   "stage": 3.0,
+   "pos": 0.551,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "DT120"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-09",
+   "lead_ncts": [
+    "NCT06941844",
+    "NCT07592689"
+   ],
+   "lead_title": "A Phase 3 Trial of DT120 for Major Depressive Disorder (Emerge)",
+   "niche": false
+  },
+  {
+   "bucket": "Anxiety / PTSD / addiction",
+   "area": "Psychiatry",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.5135,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "MM120",
+    "DT120",
+    "DT402 (R-enantiomer of 3,4-methylenedioxymethamphetamine (MDMA))"
+   ],
+   "n_trials": 6,
+   "next_readout": "2027-08",
+   "lead_ncts": [
+    "NCT06741228",
+    "NCT06809595",
+    "NCT05407064"
+   ],
+   "lead_title": "A Phase 3 Trial of DT120 for Generalized Anxiety Disorder (Voyage)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

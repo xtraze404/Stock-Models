@@ -1,0 +1,77 @@
+{
+ "t": "CNTX",
+ "name": "Context Therapeutics Inc",
+ "query": "Context Therapeutics",
+ "n_studies": 9,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Breast cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "CT-202"
+   ],
+   "n_trials": 1,
+   "next_readout": "2030-01",
+   "lead_ncts": [
+    "NCT07545122"
+   ],
+   "lead_title": "A Phase 1a/1b, First-Time-in-Human Study of CT-202, a Nectin-4 Directed Bispecific Antibody, in Participants With Recurr",
+   "niche": false
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "CT-95"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT06756035"
+   ],
+   "lead_title": "CT-95 in Advanced Cancers Associated With Mesothelin Expression",
+   "niche": false
+  },
+  {
+   "bucket": "Ovarian cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "CTIM-76"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-05-31",
+   "lead_ncts": [
+    "NCT06515613"
+   ],
+   "lead_title": "A Phase 1 Study of CTIM-76 in Patients With Recurring Ovarian Cancer and Other Advanced Solid Tumors",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

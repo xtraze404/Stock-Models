@@ -1,0 +1,13 @@
+{
+ "t": "LGVN",
+ "name": "Longeveron Inc",
+ "query": "Longeveron",
+ "n_studies": 10,
+ "n_used": 2,
+ "programs": [],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Alzheimer's disease",
+  "Vaccines / respiratory viruses"
+ ]
+}

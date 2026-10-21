@@ -1,0 +1,36 @@
+{
+ "t": "AVLN",
+ "name": "Avalyn Pharma Inc",
+ "query": "Avalyn Pharma",
+ "n_studies": 3,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Idiopathic pulmonary fibrosis",
+   "area": "Respiratory",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.135,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "AP01",
+    "AP02"
+   ],
+   "n_trials": 3,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT07194382",
+    "NCT06329401",
+    "NCT06951217"
+   ],
+   "lead_title": "AURA-IPF: A Randomized Phase 2 Study to Evaluate the Safety and Efficacy of AP02 (Nintedanib Solution) in IPF",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

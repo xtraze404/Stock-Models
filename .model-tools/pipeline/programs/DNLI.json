@@ -1,0 +1,91 @@
+{
+ "t": "DNLI",
+ "name": "Denali Therapeutics Inc.",
+ "query": "Denali Therapeutics",
+ "n_studies": 26,
+ "n_used": 11,
+ "programs": [
+  {
+   "bucket": "Alzheimer's disease",
+   "area": "Neurology",
+   "rate_class": "chronic",
+   "stage": 1.5,
+   "pos": 0.0863,
+   "peak": 4000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "DNL593",
+    "DNL921",
+    "DNL628"
+   ],
+   "n_trials": 3,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT05262023",
+    "NCT07328451",
+    "NCT07758595"
+   ],
+   "lead_title": "A Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of DNL593 in Healthy Participants a",
+   "niche": false
+  },
+  {
+   "bucket": "Rare metabolic / lysosomal",
+   "area": "Metabolic",
+   "rate_class": "rare",
+   "stage": 2.5,
+   "pos": 0.3776,
+   "peak": 700,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2030,
+   "drugs": [
+    "tividenofusp alfa",
+    "DNL952",
+    "DNL126"
+   ],
+   "n_trials": 5,
+   "next_readout": "2027-06",
+   "lead_ncts": [
+    "NCT06075537",
+    "NCT05371613",
+    "NCT06181136"
+   ],
+   "lead_title": "An Extension Study of the Long-Term Safety, Tolerability, and Efficacy of Tividenofusp Alfa (DNL310) in Participants Wit",
+   "niche": false
+  },
+  {
+   "bucket": "Parkinson's disease",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1234,
+   "peak": 1500,
+   "owned": true,
+   "partners": [
+    "Biogen"
+   ],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "BIIB122",
+    "BIIB122 225 mg"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-03",
+   "lead_ncts": [
+    "NCT05348785",
+    "NCT06602193"
+   ],
+   "lead_title": "A Study to Learn About the Safety of BIIB122 Tablets and Whether They Can Slow the Worsening of Early-Stage Parkinson's ",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "ALS"
+ ]
+}

@@ -24,3 +24,12 @@ __pycache__/
 .model-tools/recover/
 *.log
 logs_*.txt
+
+# refresh_daily.py run logs, staging and lock
+.model-tools/runs/
+.model-tools/.refresh.lock
+
+# pipeline downloads (re-fetchable) and local backup copies
+.model-tools/pipeline/raw/
+.model-tools/pipeline/sec/
+*.pre_rnpv

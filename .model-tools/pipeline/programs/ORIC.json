@@ -1,0 +1,103 @@
+{
+ "t": "ORIC",
+ "name": "ORIC Pharmaceuticals, Inc.",
+ "query": "ORIC Pharmaceuticals",
+ "n_studies": 10,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Prostate cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "ORIC-944",
+    "Apalutamide (Erleada\u2122) 60 mg or 240 mg tablets",
+    "Rinzimetostat"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-06",
+   "lead_ncts": [
+    "NCT07723248",
+    "NCT05413421"
+   ],
+   "lead_title": "A Study to Learn About the Investigational Drug Rinzimetostat (ORIC-944) in Patients With mCRPC Who Were Previously Trea",
+   "niche": false
+  },
+  {
+   "bucket": "Multiple myeloma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "ORIC-533"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05227144"
+   ],
+   "lead_title": "Study of ORIC-533 in Relapsed or Refractory Multiple Myeloma",
+   "niche": false
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "ORIC-114"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05315700"
+   ],
+   "lead_title": "Study of ORIC-114 in Patients With Advanced Solid Tumors Harboring an EGFR or HER2 Alteration",
+   "niche": false
+  },
+  {
+   "bucket": "Lung cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "ORIC-114 Dose 1 + amivantamab",
+    "ORIC-114 Dose 2 + amivantamab"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT06816992"
+   ],
+   "lead_title": "ORIC-114 in Combination With Subcutaneous Amivantamab in Patients With EGFR Exon20 Insertion Mutant NSCLC",
+   "niche": true
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

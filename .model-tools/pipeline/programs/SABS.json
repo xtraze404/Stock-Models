@@ -1,0 +1,36 @@
+{
+ "t": "SABS",
+ "name": "SAB Biotherapeutics, Inc.",
+ "query": "SAB Biotherapeutics",
+ "n_studies": 9,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Type 2 diabetes",
+   "area": "Metabolic",
+   "rate_class": "chronic",
+   "stage": 2.0,
+   "pos": 0.1273,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "High Dose SAB-142",
+    "Low Dose SAB-142"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-11",
+   "lead_ncts": [
+    "NCT07187531"
+   ],
+   "lead_title": "SAFety and Efficacy of Human Anti-thymocyte ImmunoGlobUlin SAB-142 ARresting Progression of Type 1 Diabetes",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Vaccines / respiratory viruses"
+ ]
+}

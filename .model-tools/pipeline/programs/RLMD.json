@@ -1,0 +1,34 @@
+{
+ "t": "RLMD",
+ "name": "Relmada Therapeutics Inc",
+ "query": "Relmada Therapeutics",
+ "n_studies": 11,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Bladder / urothelial cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [],
+   "n_trials": 2,
+   "next_readout": "2027-11",
+   "lead_ncts": [
+    "NCT07464145",
+    "NCT06663137"
+   ],
+   "lead_title": "A Study of NDV-01 (Sustained-release Gemcitabine-docetaxel) in Participants With Non-muscle Invasive Bladder Cancer",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Depression / mood"
+ ]
+}

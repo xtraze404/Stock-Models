@@ -1,0 +1,12 @@
+{
+ "t": "NRSN",
+ "name": "Neurosense Therapeutics Ltd",
+ "query": "Neurosense Therapeutics",
+ "n_studies": 6,
+ "n_used": 3,
+ "programs": [],
+ "dropped_programs": [],
+ "stale_programs": [
+  "ALS"
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "t": "SION",
+ "name": "Sionna Therapeutics, Inc.",
+ "query": "Sionna Therapeutics",
+ "n_studies": 2,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Cystic fibrosis / bronchiectasis",
+   "area": "Respiratory",
+   "rate_class": "rare",
+   "stage": 2.0,
+   "pos": 0.2521,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "SION-719",
+    "SION-451",
+    "SION-2222"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT07108153",
+    "NCT07035990"
+   ],
+   "lead_title": "Proof-of-concept Study to Evaluate the Safety, Tolerability, Pharmacodynamics, and Pharmacokinetics of SION-719 When Add",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

@@ -1,0 +1,37 @@
+{
+ "t": "NEUP",
+ "name": "Neuphoria Therapeutics Inc",
+ "query": "Bionomics",
+ "n_studies": 8,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Anxiety / PTSD / addiction",
+   "area": "Psychiatry",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.5135,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "225 mg BNC210",
+    "675 mg BNC210",
+    "BNC210"
+   ],
+   "n_trials": 3,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06510504",
+    "NCT05193409",
+    "NCT04951076"
+   ],
+   "lead_title": "Efficacy of BNC210 in Acute, As-needed Treatment of Anxiety in Social Anxiety Disorder - 1",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

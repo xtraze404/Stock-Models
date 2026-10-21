@@ -1,0 +1,89 @@
+{
+ "t": "ALDX",
+ "name": "Aldeyra Therapeutics Inc",
+ "query": "Aldeyra Therapeutics",
+ "n_studies": 35,
+ "n_used": 18,
+ "programs": [
+  {
+   "bucket": "Lymphoma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "ICM ADX-2191 injection",
+    "Monthly ADX-2191 injection"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT07402876"
+   ],
+   "lead_title": "A Clinical Trial Evaluating Patients With Primary Vitreoretinal Lymphoma",
+   "niche": false
+  },
+  {
+   "bucket": "Eye disease (other)",
+   "area": "Ophthalmology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4664,
+   "peak": 600,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Reproxalap Ophthalmic Solution (0.25%)",
+    "Reproxalap ophthalmic solution (0.25%)",
+    "Xiidra\u00ae (5% lifitegrast ophthalmic solution)"
+   ],
+   "n_trials": 9,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05062330",
+    "NCT04735393",
+    "NCT06389214"
+   ],
+   "lead_title": "The TRANQUILITY 2 Trial: A Phase 3 Clinical Trial to Assess the Efficacy and Safety in Subjects With Dry Eye Disease",
+   "niche": false
+  },
+  {
+   "bucket": "Anxiety / PTSD / addiction",
+   "area": "Psychiatry",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1376,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "ADX-629"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06685692"
+   ],
+   "lead_title": "A Clinical Trial Investigating the Safety and Efficacy of Subjects With Alcohol Associated Hepatitis (Part 1)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Atopic dermatitis",
+  "Psoriasis",
+  "Vaccines / respiratory viruses",
+  "Eosinophilic / allergy",
+  "Inherited retinal disease",
+  "Asthma / COPD"
+ ]
+}

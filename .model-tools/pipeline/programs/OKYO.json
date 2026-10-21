@@ -1,0 +1,35 @@
+{
+ "t": "OKYO",
+ "name": "OKYO Pharma Ltd",
+ "query": "OKYO Pharma",
+ "n_studies": 3,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Migraine / pain",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4604,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Urcosimod ophthalmic solution is a preservative-free topical ophthalmic product; supplied in unit dose ampoules; administered QID for 12-weeks."
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-05",
+   "lead_ncts": [
+    "NCT07838506"
+   ],
+   "lead_title": "Phase 3, Multi-Center, Randomized, Double-Masked, Placebo-Controlled Study Assessing the Safety and Efficacy of Urcosimo",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Eye disease (other)"
+ ]
+}

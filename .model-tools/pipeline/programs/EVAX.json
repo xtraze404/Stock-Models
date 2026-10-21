@@ -1,0 +1,33 @@
+{
+ "t": "EVAX",
+ "name": "Evaxion A/S",
+ "query": "Evaxion",
+ "n_studies": 2,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Melanoma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "EVX-01"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05309421"
+   ],
+   "lead_title": "A Single Arm Trial Evaluating the Efficacy and Safety of EVX-01 in Combination With Pembrolizumab in Adults With Unresec",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

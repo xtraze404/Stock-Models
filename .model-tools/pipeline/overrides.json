@@ -1,0 +1,322 @@
+{
+ "_note": "Hand-checked regulatory facts (2026-10-21) applied on top of ClinicalTrials.gov. stage 4 = approved/marketed, 3.5 = NDA/BLA under review (or resubmitting after a CMC-only CRL).",
+ "CELC": {
+  "set": {
+   "Breast cancer": {
+    "stage": 4,
+    "launch": 2026,
+    "reg": "Approved Jul 14, 2026 (Revtorpyk, gedatolisib) for HR+/HER2- PIK3CA wild-type advanced breast cancer"
+   }
+  }
+ },
+ "RCKT": {
+  "add": [
+   {
+    "bucket": "LAD-I (Kresladi)",
+    "area": "Hematology",
+    "rate_class": "rare",
+    "stage": 4,
+    "peak": 150,
+    "owned": true,
+    "launch": 2026,
+    "drugs": [
+     "Kresladi (marnetegragene autotemcel)"
+    ],
+    "reg": "Accelerated approval Mar 2026 for severe LAD-I; priority review voucher granted"
+   }
+  ]
+ },
+ "IRD": {
+  "set": {
+   "Eye disease (other)": {
+    "stage": 4,
+    "launch": 2024,
+    "owned": false,
+    "partners": [
+     "Viatris"
+    ],
+    "reg": "Ryzumvi (phentolamine) approved for mydriasis reversal; presbyopia sNDA PDUFA Oct 17, 2026; Viatris holds US rights"
+   }
+  }
+ },
+ "ACHV": {
+  "set": {
+   "Anxiety / PTSD / addiction": {
+    "stage": 3.5,
+    "launch": 2027,
+    "reg": "CRL Jun 2026 (manufacturing only, no efficacy/safety issues); resubmission planned Q4 2026"
+   }
+  }
+ },
+ "CING": {
+  "set": {
+   "Anxiety / PTSD / addiction": {
+    "stage": 3.5,
+    "launch": 2027,
+    "reg": "CRL May 31, 2026 (CMC only); resubmission expected"
+   }
+  }
+ },
+ "SRRK": {
+  "set": {
+   "Muscular dystrophy / SMA": {
+    "stage": 3.5,
+    "launch": 2027,
+    "reg": "BLA resubmitted Mar 2026, PDUFA Sep 30, 2026; no decision announced in SEC filings through Oct 20"
+   }
+  }
+ },
+ "DYN": {
+  "set": {
+   "Muscular dystrophy / SMA": {
+    "stage": 3.5,
+    "launch": 2027,
+    "reg": "BLA under priority review, PDUFA Jan 21, 2027"
+   }
+  }
+ },
+ "IMNM": {
+  "set": {
+   "Sarcoma / GIST": {
+    "stage": 3.5,
+    "launch": 2027,
+    "reg": "NDA for AL102 (varegacestat) in desmoid tumors, PDUFA Apr 28, 2027"
+   }
+  }
+ },
+ "ZBIO": {
+  "set": {
+   "Rare autoimmune": {
+    "stage": 3.5,
+    "launch": 2027,
+    "reg": "BLA accepted Aug 2026, PDUFA May 27, 2027"
+   }
+  }
+ },
+ "CGEM": {
+  "set": {
+   "Lung cancer": {
+    "stage": 3.5,
+    "launch": 2027,
+    "drugs": [
+     "zipalertinib (CLN-081)"
+    ],
+    "reg": "NDA for zipalertinib (EGFR exon 20 NSCLC, with Taiho), PDUFA Feb 27, 2027; Cullinan shares US profits 50/50 with Taiho (economics set to 20% of sales)",
+    "share": 0.2
+   }
+  }
+ },
+ "APMD": {
+  "set": {
+   "Movement / sleep disorders": {
+    "stage": 3.5,
+    "launch": 2027,
+    "peak": 1500,
+    "reg": "NDA for AD109 in obstructive sleep apnea, PDUFA Feb 28, 2027"
+   }
+  }
+ },
+ "UNCY": {
+  "set": {
+   "Kidney disease": {
+    "stage": 3.5,
+    "launch": 2027,
+    "reg": "NDA resubmission (OLC, hyperphosphatemia) with PDUFA Jun 29, 2026; outcome not found"
+   }
+  }
+ },
+ "GRCE": {
+  "drop": [
+   "Muscular dystrophy / SMA"
+  ],
+  "add": [
+   {
+    "bucket": "Subarachnoid hemorrhage (GTx-104)",
+    "area": "Neurology",
+    "rate_class": "rare",
+    "stage": 3.5,
+    "peak": 300,
+    "owned": true,
+    "launch": 2027,
+    "drugs": [
+     "GTx-104 (IV nimodipine)"
+    ],
+    "reg": "NDA PDUFA Apr 23, 2026; outcome not found"
+   }
+  ]
+ },
+ "ZYME": {
+  "add": [
+   {
+    "bucket": "HER2+ biliary / gastric cancer (Ziihera)",
+    "area": "Oncology",
+    "rate_class": "area",
+    "stage": 4,
+    "peak": 1500,
+    "owned": false,
+    "partners": [
+     "Jazz",
+     "BeOne"
+    ],
+    "launch": 2024,
+    "drugs": [
+     "Ziihera (zanidatamab)"
+    ],
+    "reg": "Approved (biliary tract cancer); 1L gastric sBLA PDUFA Aug 25, 2026; royalties from Jazz and BeOne"
+   }
+  ]
+ },
+ "CRSP": {
+  "set": {
+   "Sickle cell / thalassemia": {
+    "stage": 4,
+    "launch": 2024,
+    "share": 0.16,
+    "drugs": [
+     "Casgevy (exa-cel)"
+    ],
+    "reg": "Casgevy approved (SCD, TDT); label expanded to ages 2+ in Jul 2026; CRISPR shares 40% of program profits with Vertex"
+   }
+  }
+ },
+ "VERA": {
+  "set": {
+   "Rare autoimmune": {
+    "stage": 4,
+    "launch": 2026,
+    "peak": 2000,
+    "drugs": [
+     "Trutakna (atacicept)"
+    ],
+    "reg": "TRUTAKNA (atacicept) has FDA accelerated approval in IgA nephropathy; the company's only approved product"
+   }
+  }
+ },
+ "OMER": {
+  "set": {
+   "Transplant / GVHD": {
+    "stage": 4,
+    "launch": 2026,
+    "peak": 500,
+    "drugs": [
+     "Yartemlea (narsoplimab)"
+    ],
+    "reg": "YARTEMLEA (narsoplimab) approved Dec 23, 2025 for transplant-associated TMA"
+   }
+  }
+ },
+ "GERN": {
+  "set": {
+   "Myelofibrosis / MDS / MPN": {
+    "stage": 4,
+    "launch": 2024,
+    "drugs": [
+     "Rytelo (imetelstat)"
+    ],
+    "reg": "RYTELO (imetelstat) approved in lower-risk MDS; myelofibrosis Phase 3 ongoing"
+   }
+  }
+ },
+ "HUMA": {
+  "set": {
+   "Hemophilia / bleeding": {
+    "stage": 4,
+    "launch": 2025,
+    "peak": 300,
+    "drugs": [
+     "Symvess (acellular tissue engineered vessel)"
+    ],
+    "reg": "Symvess approved Dec 2024 for extremity vascular trauma; dialysis-access program (Kidney disease) still in Phase 3"
+   }
+  }
+ },
+ "OTLK": {
+  "set": {
+   "Retinal disease (AMD / DME)": {
+    "stage": 4,
+    "launch": 2026,
+    "peak": 800,
+    "drugs": [
+     "Lytenava (bevacizumab-vikg)"
+    ],
+    "reg": "LYTENAVA approved Jul 24, 2026 for wet AMD (ophthalmic bevacizumab)"
+   }
+  }
+ },
+ "TNXP": {
+  "set": {
+   "Migraine / pain": {
+    "stage": 4,
+    "launch": 2025,
+    "peak": 800,
+    "drugs": [
+     "Tonmya (TNX-102 SL)"
+    ],
+    "reg": "TONMYA approved for fibromyalgia (first new fibromyalgia medicine in 15+ years)"
+   }
+  }
+ },
+ "LENZ": {
+  "set": {
+   "Eye disease (other)": {
+    "stage": 4,
+    "launch": 2025,
+    "peak": 1000,
+    "drugs": [
+     "Vizz (aceclidine)"
+    ],
+    "reg": "VIZZ approved Jul 2025 for presbyopia; launched"
+   }
+  }
+ },
+ "SPRO": {
+  "set": {
+   "Bacterial / fungal infections": {
+    "stage": 4,
+    "launch": 2026,
+    "owned": false,
+    "partners": [
+     "GSK"
+    ],
+    "drugs": [
+     "Utebzi (tebipenem HBr)"
+    ],
+    "reg": "Utebzi approved Jun 17, 2026 for complicated UTI; GSK commercializes (Spero receives milestones and royalties)"
+   }
+  }
+ },
+ "SLGL": {
+  "set": {
+   "Dermatology (other)": {
+    "stage": 4,
+    "launch": 2022,
+    "peak": 300,
+    "owned": false,
+    "partners": [
+     "Galderma"
+    ],
+    "drugs": [
+     "Epsolay (encapsulated benzoyl peroxide)"
+    ],
+    "reg": "Epsolay approved for rosacea; commercialized by a partner"
+   }
+  }
+ },
+ "TXMD": {
+  "set": {
+   "Women's health": {
+    "stage": 4,
+    "launch": 2019,
+    "peak": 200,
+    "owned": false,
+    "partners": [
+     "Mayne Pharma"
+    ],
+    "drugs": [
+     "Annovera (segesterone/EE ring)"
+    ],
+    "reg": "Approved women's health products licensed to Mayne Pharma (royalties)"
+   }
+  }
+ }
+}

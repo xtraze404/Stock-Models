@@ -1,0 +1,13 @@
+{
+ "t": "KZIA",
+ "name": "Kazia Therapeutics Ltd",
+ "query": "Kazia Therapeutics",
+ "n_studies": 14,
+ "n_used": 2,
+ "programs": [],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Brain cancer",
+  "Solid tumors (basket)"
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "t": "ANNX",
+ "name": "Annexon, Inc.",
+ "query": "Annexon",
+ "n_studies": 16,
+ "n_used": 10,
+ "programs": [
+  {
+   "bucket": "Myasthenia gravis / neuromuscular",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 3.0,
+   "pos": 0.5653,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "ANX005",
+    "Tanruprubart",
+    "Intravenous immunoglobulin"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-05-31",
+   "lead_ncts": [
+    "NCT04701164",
+    "NCT07020819",
+    "NCT04035135"
+   ],
+   "lead_title": "Efficacy and Safety of ANX005 in Subjects With Guillain-Barr\u00e9 Syndrome",
+   "niche": false
+  },
+  {
+   "bucket": "Geographic atrophy",
+   "area": "Ophthalmology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4664,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Vonaprument",
+    "ANX007"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-07-31",
+   "lead_ncts": [
+    "NCT06510816",
+    "NCT07807969",
+    "NCT04656561"
+   ],
+   "lead_title": "A Study Investigating the Efficacy and Safety of Intravitreal (IVT) Injections of Vonaprument (Formerly ANX007) in Parti",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "ALS",
+  "Rare autoimmune",
+  "Lupus / Sjogren's",
+  "Huntington's disease"
+ ]
+}

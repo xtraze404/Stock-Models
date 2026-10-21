@@ -1,0 +1,80 @@
+{
+ "t": "MRKR",
+ "name": "Marker Therapeutics Inc",
+ "query": "Marker Therapeutics",
+ "n_studies": 9,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Pancreatic cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "MT-601 dose 200 million cells",
+    "MT-601 dose 400 million cells"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-07-16",
+   "lead_ncts": [
+    "NCT06549751"
+   ],
+   "lead_title": "MT-601 Administered To Patients With Locally Advanced Unresectable or Metastatic Pancreatic Cancer",
+   "niche": false
+  },
+  {
+   "bucket": "Lymphoma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "MT-601"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-02-28",
+   "lead_ncts": [
+    "NCT05798897"
+   ],
+   "lead_title": "Safety and Preliminary Efficacy of MT-601 in Patients With Relapsed/Refractory Lymphoma",
+   "niche": false
+  },
+  {
+   "bucket": "Leukemia",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "MT-401-OTS"
+   ],
+   "n_trials": 1,
+   "next_readout": "2029-09",
+   "lead_ncts": [
+    "NCT06552416"
+   ],
+   "lead_title": "Safety of MT-401-OTS in Patients With Relapsed AML or MDS",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Breast cancer"
+ ]
+}

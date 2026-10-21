@@ -1,0 +1,105 @@
+{
+ "t": "TYRA",
+ "name": "Tyra Biosciences, Inc.",
+ "query": "Tyra Biosciences",
+ "n_studies": 7,
+ "n_used": 6,
+ "programs": [
+  {
+   "bucket": "Endocrine (rare)",
+   "area": "Endocrine",
+   "rate_class": "rare",
+   "stage": 2.0,
+   "pos": 0.2521,
+   "peak": 700,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "TYRA-300 0.125 mg/kg",
+    "TYRA-300 0.25 mg/kg"
+   ],
+   "n_trials": 1,
+   "next_readout": "2030-01",
+   "lead_ncts": [
+    "NCT06842355"
+   ],
+   "lead_title": "A Study of TYRA-300 in Children With Achondroplasia: BEACH301",
+   "niche": false
+  },
+  {
+   "bucket": "Bladder / urothelial cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 480,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "TYRA-300 60mg",
+    "TYRA-300 50mg",
+    "Dabogratinib (TYRA-300) 60mg"
+   ],
+   "n_trials": 3,
+   "next_readout": "2026-11",
+   "lead_ncts": [
+    "NCT06995677",
+    "NCT07265947",
+    "NCT05544552"
+   ],
+   "lead_title": "Efficacy and Safety of TYRA-300 in Participants With FGFR3 Altered Low Grade, Intermediate Risk Non-Muscle Invasive Blad",
+   "niche": true
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 600,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "TYRA-430"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-01",
+   "lead_ncts": [
+    "NCT06915753"
+   ],
+   "lead_title": "Safety and Preliminary Anti-Tumor Activity of TYRA-430 in Advanced Hepatocellular Carcinoma and Other Solid Tumors With ",
+   "niche": true
+  },
+  {
+   "bucket": "Liver cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 480,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "Phase 1 Part A - dose escalation TYRA-200 taken once daily by mouth in 28-day cycles",
+    "Phase 1 Part B - dose expansion TYRA-200 taken once daily by mouth in 28-day cycles"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-03",
+   "lead_ncts": [
+    "NCT06160752"
+   ],
+   "lead_title": "Safety and Anti-Tumor Activity of TYRA-200 in Advanced Cholangiocarcinoma With Activating FGFR2 Gene Alterations",
+   "niche": true
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

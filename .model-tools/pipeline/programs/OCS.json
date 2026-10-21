@@ -1,0 +1,57 @@
+{
+ "t": "OCS",
+ "name": "Oculis Holding AG",
+ "query": "Oculis",
+ "n_studies": 11,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Retinal disease (AMD / DME)",
+   "area": "Ophthalmology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4664,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06172257",
+    "NCT05066997"
+   ],
+   "lead_title": "A Pivotal Safety and Efficacy Study of OCS-01 Eye Drops in Participants With Diabetic Macular Edema (DIAMOND 2)",
+   "niche": false
+  },
+  {
+   "bucket": "Eye disease (other)",
+   "area": "Ophthalmology",
+   "rate_class": "area",
+   "stage": 2.5,
+   "pos": 0.2779,
+   "peak": 600,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2030,
+   "drugs": [
+    "licaminlimab"
+   ],
+   "n_trials": 2,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT07548632",
+    "NCT05896670"
+   ],
+   "lead_title": "A Clinical Study Evaluating Licaminlimab for Dry Eye Disease",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Migraine / pain"
+ ]
+}

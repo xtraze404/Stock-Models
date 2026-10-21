@@ -1,0 +1,82 @@
+{
+ "t": "AURA",
+ "name": "Aura Biosciences, Inc.",
+ "query": "Aura Biosciences",
+ "n_studies": 9,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Melanoma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Bel-sar",
+    "AU-011",
+    "Light-activated AU-011"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-11-15",
+   "lead_ncts": [
+    "NCT06007690",
+    "NCT04417530",
+    "NCT03052127"
+   ],
+   "lead_title": "A Phase 3 Randomized, Masked, Controlled Trial to Evaluate Efficacy and Safety of Belzupacap Sarotalocan (AU-011) Treatm",
+   "niche": false
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "AU-011"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-11-30",
+   "lead_ncts": [
+    "NCT06643884"
+   ],
+   "lead_title": "Suprachoroidal Administration in Subjects With Metastases to the Choroid",
+   "niche": false
+  },
+  {
+   "bucket": "Bladder / urothelial cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "AU-011",
+    "AU-011 in Combination with Medical Laser Adminstration"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-03",
+   "lead_ncts": [
+    "NCT05483868"
+   ],
+   "lead_title": "A Phase 1, Open-label Trial of Belzupacap Sarotalocan (AU-011) in Bladder Cancer",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

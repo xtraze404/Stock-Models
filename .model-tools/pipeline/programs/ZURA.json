@@ -1,0 +1,56 @@
+{
+ "t": "ZURA",
+ "name": "Zura Bio Ltd",
+ "query": "Zura Bio",
+ "n_studies": 2,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Hidradenitis / alopecia / vitiligo",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1929,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Tibulizumab Dose A",
+    "Tibulizumab Dose B"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06993610"
+   ],
+   "lead_title": "Tibulizumab Skin Healing and Inflammation Evaluation for Lasting Defense",
+   "niche": false
+  },
+  {
+   "bucket": "Rare autoimmune",
+   "area": "Autoimmune",
+   "rate_class": "rare",
+   "stage": 2.0,
+   "pos": 0.2521,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Tibulizumab"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-05",
+   "lead_ncts": [
+    "NCT06843239"
+   ],
+   "lead_title": "Tibulizumab Systemic Sclerosis Understanding and Response Evaluation (TibuSURE)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

@@ -1,0 +1,62 @@
+{
+ "t": "STRO",
+ "name": "Sutro Biopharma Inc",
+ "query": "Sutro Biopharma",
+ "n_studies": 9,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Gastric / esophageal cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "STRO-004",
+    "STRO-006"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-12",
+   "lead_ncts": [
+    "NCT07227168",
+    "NCT07807345"
+   ],
+   "lead_title": "A Study of STRO-004 in Adults With Refractory/Recurrent Metastatic Cancer",
+   "niche": false
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": false,
+   "partners": [
+    "Tasly Pharmaceutical Group Co., Ltd"
+   ],
+   "share": 0.12,
+   "launch": 2032,
+   "drugs": [
+    "STRO-002"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06238687"
+   ],
+   "lead_title": "A Study of STRO-002 in Chinese Adults With Epithelial Ovarian Cancer and Other Advanced Malignant Solid Tumors",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Lymphoma",
+  "Ovarian cancer"
+ ]
+}

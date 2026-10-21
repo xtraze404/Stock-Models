@@ -1,0 +1,57 @@
+{
+ "t": "DNTH",
+ "name": "Dianthus Therapeutics Inc",
+ "query": "Dianthus Therapeutics",
+ "n_studies": 4,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Myasthenia gravis / neuromuscular",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 3.0,
+   "pos": 0.5653,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Claseprubart"
+   ],
+   "n_trials": 2,
+   "next_readout": "2028-12",
+   "lead_ncts": [
+    "NCT07647510",
+    "NCT06282159"
+   ],
+   "lead_title": "A Phase 3 Study to Evaluate Claseprubart in Adults With Generalized Myasthenia Gravis (EMERGE)",
+   "niche": false
+  },
+  {
+   "bucket": "Migraine / pain",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4604,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Claseprubart"
+   ],
+   "n_trials": 2,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT06858579",
+    "NCT06537999"
+   ],
+   "lead_title": "A Study to Evaluate the Efficacy and Safety of DNTH103 in Adults With Chronic Inflammatory Demyelinating Polyneuropathy ",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

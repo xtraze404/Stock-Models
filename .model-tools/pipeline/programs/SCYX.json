@@ -1,0 +1,12 @@
+{
+ "t": "SCYX",
+ "name": "SCYNEXIS Inc",
+ "query": "SCYNEXIS",
+ "n_studies": 18,
+ "n_used": 6,
+ "programs": [],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Bacterial / fungal infections"
+ ]
+}

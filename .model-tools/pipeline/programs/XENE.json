@@ -1,0 +1,61 @@
+{
+ "t": "XENE",
+ "name": "Xenon Pharmaceuticals Inc.",
+ "query": "Xenon Pharmaceuticals",
+ "n_studies": 23,
+ "n_used": 11,
+ "programs": [
+  {
+   "bucket": "Depression / mood",
+   "area": "Psychiatry",
+   "rate_class": "chronic",
+   "stage": 3.0,
+   "pos": 0.551,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Azetukalner",
+    "XEN1101 10 mg",
+    "XEN1101 20 mg"
+   ],
+   "n_trials": 6,
+   "next_readout": "2026-10",
+   "lead_ncts": [
+    "NCT06775379",
+    "NCT06922110",
+    "NCT07076407"
+   ],
+   "lead_title": "A Randomized Study of Azetukalner Versus Placebo in Major Depressive Disorder",
+   "niche": false
+  },
+  {
+   "bucket": "Epilepsy",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4604,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "XEN1101"
+   ],
+   "n_trials": 5,
+   "next_readout": "2027-04",
+   "lead_ncts": [
+    "NCT05614063",
+    "NCT05667142",
+    "NCT05716100"
+   ],
+   "lead_title": "A Randomized Study of XEN1101 Versus Placebo in Focal-Onset Seizures",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

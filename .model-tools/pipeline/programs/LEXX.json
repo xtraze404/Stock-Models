@@ -1,0 +1,34 @@
+{
+ "t": "LEXX",
+ "name": "Lexaria Bioscience Corp",
+ "query": "Lexaria Bioscience",
+ "n_studies": 3,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Type 2 diabetes",
+   "area": "Metabolic",
+   "rate_class": "chronic",
+   "stage": 1.0,
+   "pos": 0.0585,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "Arm 1 - DehydraTECH-CBD alone",
+    "Arm 5- Tirzepatide"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06648031"
+   ],
+   "lead_title": "Comparison of the Safety, Efficacy and Pharmacokinetics of DehydraTECH -CBD and DehydraTECH-GLP1 Agonists Alone or in Co",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

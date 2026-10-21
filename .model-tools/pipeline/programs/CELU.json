@@ -1,0 +1,12 @@
+{
+ "t": "CELU",
+ "name": "Celularity Inc",
+ "query": "Celularity",
+ "n_studies": 17,
+ "n_used": 1,
+ "programs": [],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Solid tumors (basket)"
+ ]
+}

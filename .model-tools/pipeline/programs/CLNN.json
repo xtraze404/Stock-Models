@@ -1,0 +1,62 @@
+{
+ "t": "CLNN",
+ "name": "Clene Inc",
+ "query": "Clene",
+ "n_studies": 13,
+ "n_used": 6,
+ "programs": [
+  {
+   "bucket": "Multiple sclerosis",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 2.5,
+   "pos": 0.2383,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2030,
+   "drugs": [
+    "CNM-Au8",
+    "gold nanocrystals"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04626921",
+    "NCT03993171"
+   ],
+   "lead_title": "A Multi-Center, Open-Label Long-Term Extension Study of CNM-Au8 In Patients With Stable Relapsing Multiple Sclerosis",
+   "niche": false
+  },
+  {
+   "bucket": "ALS",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 2.0,
+   "pos": 0.2521,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "CNMAu8",
+    "CNM-Au8"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04098406",
+    "NCT05299658"
+   ],
+   "lead_title": "Therapeutic Nanocatalysis to Slow Disease Progression of Amyotrophic Lateral Sclerosis (ALS)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Parkinson's disease",
+  "Vaccines / respiratory viruses"
+ ]
+}

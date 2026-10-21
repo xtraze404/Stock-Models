@@ -1,0 +1,36 @@
+{
+ "t": "XFOR",
+ "name": "X4 Pharmaceuticals, Inc.",
+ "query": "X4 Pharmaceuticals",
+ "n_studies": 12,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Rare hematology",
+   "area": "Hematology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.715,
+   "peak": 700,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Mavorixafor"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-09",
+   "lead_ncts": [
+    "NCT06056297",
+    "NCT04154488"
+   ],
+   "lead_title": "A Study of Mavorixafor in Participants With Congenital and Acquired Primary Autoimmune and Idiopathic Chronic Neutropeni",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Kidney cancer"
+ ]
+}

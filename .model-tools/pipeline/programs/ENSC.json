@@ -1,0 +1,35 @@
+{
+ "t": "ENSC",
+ "name": "Ensysce Biosciences Inc",
+ "query": "Ensysce Biosciences",
+ "n_studies": 9,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Migraine / pain",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4604,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "PF614",
+    "PF614 capsule"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06602271",
+    "NCT06629402"
+   ],
+   "lead_title": "PF614 Analgesic Activity in Acute Postoperative Pain (PF614-301)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

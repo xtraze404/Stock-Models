@@ -1,0 +1,37 @@
+{
+ "t": "SGP",
+ "name": "SpyGlass Pharma, Inc.",
+ "query": "SpyGlass Pharma",
+ "n_studies": 6,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Eye disease (other)",
+   "area": "Ophthalmology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4664,
+   "peak": 600,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Bimatoprost Implant System",
+    "Timolol Maleate Ophthalmic Solution, 0.5%",
+    "Bimatoprost Implant System (High Dose)"
+   ],
+   "n_trials": 4,
+   "next_readout": "2027-02-28",
+   "lead_ncts": [
+    "NCT07218783",
+    "NCT07218796",
+    "NCT06120842"
+   ],
+   "lead_title": "Evaluation of the Safety and Efficacy of the Bimatoprost Implant System Used in Combination With the SpyGlass IOL Compar",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

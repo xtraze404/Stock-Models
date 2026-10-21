@@ -1,0 +1,61 @@
+{
+ "t": "VERA",
+ "name": "Vera Therapeutics, Inc.",
+ "query": "Vera Therapeutics",
+ "n_studies": 6,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Rare autoimmune",
+   "area": "Autoimmune",
+   "rate_class": "rare",
+   "stage": 4,
+   "pos": 1.0,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2026,
+   "drugs": [
+    "Trutakna (atacicept)"
+   ],
+   "n_trials": 3,
+   "next_readout": "2031-05-21",
+   "lead_ncts": [
+    "NCT04716231",
+    "NCT07020923",
+    "NCT06674577"
+   ],
+   "lead_title": "Atacicept in Subjects With IgA Nephropathy",
+   "niche": false,
+   "reg": "TRUTAKNA (atacicept) has FDA accelerated approval in IgA nephropathy; the company's only approved product"
+  },
+  {
+   "bucket": "Kidney disease",
+   "area": "Other",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.2047,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Atacicept"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-11",
+   "lead_ncts": [
+    "NCT06983028"
+   ],
+   "lead_title": "Atacicept in Multiple Glomerular Diseases",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Bacterial / fungal infections"
+ ],
+ "overrides": true
+}

@@ -1,0 +1,101 @@
+{
+ "t": "IRON",
+ "name": "Disc Medicine, Inc.",
+ "query": "Disc Medicine",
+ "n_studies": 11,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "IBD (UC / Crohn's)",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1929,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "DISC-0974"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-10",
+   "lead_ncts": [
+    "NCT07368972"
+   ],
+   "lead_title": "Study of DISC-0974-201 in Participants With IBD and Anemia",
+   "niche": false
+  },
+  {
+   "bucket": "Sickle cell / thalassemia",
+   "area": "Hematology",
+   "rate_class": "rare",
+   "stage": 1.0,
+   "pos": 0.1699,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "DISC-3405"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-06",
+   "lead_ncts": [
+    "NCT07187973"
+   ],
+   "lead_title": "A Phase 1b, Open-Label Study of DISC-3405 in Participants With Sickle Cell Disease (SCD)",
+   "niche": false
+  },
+  {
+   "bucket": "Kidney disease",
+   "area": "Other",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.1302,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "DISC-0974"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05745883"
+   ],
+   "lead_title": "Study of DISC-0974 to Assess the Safety, Tolerability, PK and PD of DISC-0974 in Participants With CKD and Anemia",
+   "niche": false
+  },
+  {
+   "bucket": "Myelofibrosis / MDS / MPN",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "DISC-3405",
+    "DISC-0974"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-02",
+   "lead_ncts": [
+    "NCT06985147",
+    "NCT05320198"
+   ],
+   "lead_title": "A Phase 2, Open-Label Study of DISC-3405 in Participants With Polycythemia Vera (PV)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

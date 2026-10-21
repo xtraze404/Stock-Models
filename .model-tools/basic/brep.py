@@ -7,6 +7,9 @@ from matplotlib import font_manager
 
 D = os.path.dirname(os.path.abspath(__file__))
 NUM = int(sys.argv[1])
+# close date: --close YYYY-MM-DD, else the close the prices in screener_cache.json are from
+CLOSE = sys.argv[sys.argv.index("--close") + 1] if "--close" in sys.argv else \
+    json.load(open(f"{D}/screener_cache.json"))["close"]
 IMG = f"Image-{NUM:05d}"
 os.makedirs(f"{D}/report", exist_ok=True)
 REV = json.load(open(f"{D}/review.json"))
@@ -34,6 +37,7 @@ for t in TICK:
                  long=L["opt"]["long"], pbase=o["cases"]["Base"][3], ivl=L["opt"]["ivl"], ivn=L["opt"]["ivn"],
                  spot=L["opt"]["spot"], strat=o["strat"], legs=L["opt"]["legs"], q=L["opt"]["q"], fy10=L["fyears"][-1])
 order = sorted(TICK, key=lambda t: -D_[t]["up"])
+OPT_DATE = max(json.load(open(f"{D}/out/{t}_layout.json"))["opt"]["pdate"] for t in TICK)   # option chains aren't refreshed daily
 
 # ------------------------------------------------------------------ chart
 SURF, INK, INK2, MUTED, GRID, AXIS = "#fcfcfb", "#0b0b0b", "#52514e", "#898781", "#e1e0d9", "#c3c2b7"
@@ -98,11 +102,12 @@ pct = lambda v, s=True: ("−" if v < 0 else "+" if s and v > 0 else "") + f"{ab
 dl = lambda x: x if isinstance(x, str) else (("−" if x < 0 else "+" if x > 0 else "") + f"\\${abs(x):,.0f}")
 survive = [t for t in order if D_[t]["up"] > 0.10]
 gone = [t for t in order if D_[t]["up"] <= 0.10]
-lines = ["---", "Updated: 2026-10-20", "---", "# Large-Cap Upside Review", "",
+lines = ["---", f"Updated: {CLOSE}", "---", "# Large-Cap Upside Review", "",
          "The [[Basic NPV Models]] screen built DCFs from reported numbers only. This review takes the nine names with a "
          "market cap of at least \\$10B and at least 25% upside in that screen, checks each against current guidance, patent "
          "expiries and recent results, re-runs the DCF with reviewed assumptions, and adds an options model (Options sheet in "
-         "each workbook). Prices and option quotes are the 2026-10-20 close.", "",
+         "each workbook). " + (f"Prices and option quotes are the {CLOSE} close." if CLOSE == OPT_DATE else
+                               f"Prices are the {CLOSE} close; option quotes are the {OPT_DATE} close."), "",
          "> [!important] Findings",
          f"> - **The upside holds for {len(survive)} of 9: {', '.join(survive)}.** "
          + "; ".join(f"{t} {usd(D_[t]['base'])} ({pct(D_[t]['up'])})" for t in survive) + ".",
@@ -165,7 +170,7 @@ lines += ["", "## Method", "",
           "- **GAAP basis:** margins are GAAP operating margins, so amortization of acquired intangibles counts as a cost. "
           "That's a conservative stand-in for the business development spending that refills pipelines. Company \"core\" or "
           "\"business\" margins are 5–10 points higher.",
-          "- **Options:** Cboe delayed quotes (2026-10-20 close). Legs use the mid when the spread is within 35% of mid, "
+          f"- **Options:** Cboe delayed quotes ({OPT_DATE} close). Legs use the mid when the spread is within 35% of mid, "
           "otherwise Black-Scholes-Merton at the ATM IV with the dividend yield. Probabilities are risk-neutral (lognormal at "
           "the long ATM IV), so they describe option prices, not real-world odds. RDY's chain is too thin for quotes; its long "
           "IV is 6-month realized volatility.",

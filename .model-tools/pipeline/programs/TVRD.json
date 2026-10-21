@@ -1,0 +1,57 @@
+{
+ "t": "TVRD",
+ "name": "Tvardi Therapeutics, Inc.",
+ "query": "Tvardi Therapeutics",
+ "n_studies": 7,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Idiopathic pulmonary fibrosis",
+   "area": "Respiratory",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.135,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "TTI-101"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05671835"
+   ],
+   "lead_title": "Study of TTI-101 in Participants With Idiopathic Pulmonary Fibrosis",
+   "niche": false
+  },
+  {
+   "bucket": "Liver cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "TTI-101"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-02-01",
+   "lead_ncts": [
+    "NCT05440708"
+   ],
+   "lead_title": "A Study of TTI-101 as Monotherapy and in Combination in Participants With Locally Advanced or Metastatic, and Unresectab",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Breast cancer"
+ ]
+}

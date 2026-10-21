@@ -1,0 +1,34 @@
+{
+ "t": "SPTX",
+ "name": "Seaport Therapeutics Inc",
+ "query": "Seaport Therapeutics",
+ "n_studies": 2,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Depression / mood",
+   "area": "Psychiatry",
+   "rate_class": "chronic",
+   "stage": 2.0,
+   "pos": 0.1273,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "SPT-300"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-03",
+   "lead_ncts": [
+    "NCT07065240",
+    "NCT07161700"
+   ],
+   "lead_title": "A Study to Evaluate the Efficacy and Safety of SPT-300 (GlyphAllo) in Participants With Major Depressive Disorder, With ",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

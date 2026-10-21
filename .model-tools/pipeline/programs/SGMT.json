@@ -1,0 +1,37 @@
+{
+ "t": "SGMT",
+ "name": "Sagimet Biosciences Inc.",
+ "query": "Sagimet Biosciences",
+ "n_studies": 13,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Dermatology (other)",
+   "area": "Other",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.5304,
+   "peak": 500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Denifanstat",
+    "TVB-3567"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-01",
+   "lead_ncts": [
+    "NCT07863193",
+    "NCT06989840"
+   ],
+   "lead_title": "Phase 3 Study of Denifanstat in Participants With Moderate to Severe Acne",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "MASH / liver fibrosis"
+ ]
+}

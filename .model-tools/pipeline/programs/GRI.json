@@ -1,0 +1,33 @@
+{
+ "t": "GRI",
+ "name": "GRI Bio Inc",
+ "query": "GRI Bio",
+ "n_studies": 2,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Idiopathic pulmonary fibrosis",
+   "area": "Respiratory",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.135,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Tazarotene (GRI-0621)"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06331624"
+   ],
+   "lead_title": "Biomarker Modulation and the Inhibition of NKT1 Cells by Oral GRI-0621 in Patients With IPF",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

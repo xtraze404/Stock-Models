@@ -1,0 +1,85 @@
+{
+ "t": "ZNTL",
+ "name": "Zentalis Pharmaceuticals, Inc.",
+ "query": "Zentalis Pharmaceuticals",
+ "n_studies": 15,
+ "n_used": 9,
+ "programs": [
+  {
+   "bucket": "Ovarian cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Azenosertib",
+    "Pegylated liposomal doxorubicin",
+    "Niraparib"
+   ],
+   "n_trials": 4,
+   "next_readout": "2026-12-01",
+   "lead_ncts": [
+    "NCT07546500",
+    "NCT05128825",
+    "NCT05198804"
+   ],
+   "lead_title": "A Study of Azenosertib (ZN-c3) Versus Investigator's Choice Chemotherapy in Subjects With Platinum-Resistant High-Grade ",
+   "niche": false
+  },
+  {
+   "bucket": "Gynecologic cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Azenosertib"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04814108"
+   ],
+   "lead_title": "A Study of Azenosertib (ZN-c3) in Women With Recurrent or Persistent Uterine Serous Carcinoma",
+   "niche": false
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "Azenosertib"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04158336"
+   ],
+   "lead_title": "A Study of Azenosertib (ZN-c3) in Participants With Solid Tumors",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Sarcoma / GIST",
+  "Multiple myeloma",
+  "Leukemia"
+ ]
+}

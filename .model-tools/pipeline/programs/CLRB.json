@@ -1,0 +1,101 @@
+{
+ "t": "CLRB",
+ "name": "Cellectar Biosciences Inc",
+ "query": "Cellectar Biosciences",
+ "n_studies": 17,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Lymphoma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Iopofosine I 131 single dose",
+    "Iopofosine I 131 multiple dose"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT02952508"
+   ],
+   "lead_title": "Study of Iopofosine I-131 (CLR 131) in Select B-Cell Malignancies (CLOVER-1) With Expansion in Waldenstrom",
+   "niche": false
+  },
+  {
+   "bucket": "Breast cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "Iopofosine I 131",
+    "CLR 125"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-02",
+   "lead_ncts": [
+    "NCT07311993"
+   ],
+   "lead_title": "Phase 1 Study of CLR 125 in Triple Negative Breast Cancer",
+   "niche": false
+  },
+  {
+   "bucket": "Brain cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "CLR 131"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-06-30",
+   "lead_ncts": [
+    "NCT05610891"
+   ],
+   "lead_title": "Novel Targeted Radiotherapy in Pediatric Patients With Inoperable Relapsed or Refractory HGG",
+   "niche": false
+  },
+  {
+   "bucket": "Sarcoma / GIST",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 600,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "CLR 131"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-06-30",
+   "lead_ncts": [
+    "NCT03478462"
+   ],
+   "lead_title": "Dose Escalation Study of CLR 131 in Pediatric Relapsed/Refractory Malignant Tumors Including Neuroblastoma and Sarcomas",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

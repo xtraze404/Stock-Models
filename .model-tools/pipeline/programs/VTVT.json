@@ -1,0 +1,33 @@
+{
+ "t": "VTVT",
+ "name": "vTv Therapeutics Inc",
+ "query": "vTv Therapeutics",
+ "n_studies": 15,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Type 2 diabetes",
+   "area": "Metabolic",
+   "rate_class": "chronic",
+   "stage": 2.0,
+   "pos": 0.1273,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Cadisegliatin 800 mg QD"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-06",
+   "lead_ncts": [
+    "NCT07616206"
+   ],
+   "lead_title": "Cadisegliatin as Adjunctive Therapy to Insulin in Participants With Type 1 Diabetes Who Are Using Hybrid Closed Loop (HC",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

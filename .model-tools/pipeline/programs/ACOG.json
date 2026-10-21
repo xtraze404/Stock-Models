@@ -1,0 +1,33 @@
+{
+ "t": "ACOG",
+ "name": "Alpha Cognition Inc",
+ "query": "Alpha Cognition",
+ "n_studies": 1,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Alzheimer's disease",
+   "area": "Neurology",
+   "rate_class": "chronic",
+   "stage": 4.0,
+   "pos": 1.0,
+   "peak": 4000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2026,
+   "drugs": [
+    "Zunveyl\u00ae"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-04",
+   "lead_ncts": [
+    "NCT07633470"
+   ],
+   "lead_title": "A Study of Zunveyl on Safety, Tolerability, Neuropsychiatric Symptoms, and Caregiver Distress in Alzheimer's Disease (RE",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

@@ -1,0 +1,12 @@
+{
+ "t": "ANTX",
+ "name": "AN2 Therapeutics Inc",
+ "query": "AN2 Therapeutics",
+ "n_studies": 7,
+ "n_used": 1,
+ "programs": [],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Kidney disease"
+ ]
+}

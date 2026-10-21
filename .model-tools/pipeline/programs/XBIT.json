@@ -1,0 +1,39 @@
+{
+ "t": "XBIT",
+ "name": "XBiotech Inc",
+ "query": "XBiotech",
+ "n_studies": 8,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Rheumatoid / spondyloarthritis",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1929,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Natrunix",
+    "Natrunix 400 mg",
+    "Methotrexate (MTX)"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-01-15",
+   "lead_ncts": [
+    "NCT05363891",
+    "NCT06590090",
+    "NCT06526377"
+   ],
+   "lead_title": "Natrunix or Placebo in Combination With Methotrexate in Rheumatoid Arthritis",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Pancreatic cancer"
+ ]
+}

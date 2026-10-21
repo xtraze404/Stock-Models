@@ -1,0 +1,56 @@
+{
+ "t": "BFRI",
+ "name": "Biofrontera Inc",
+ "query": "Biofrontera",
+ "n_studies": 15,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Photodynamic therapy (PDT) (ALA-PDT, Ameluz\u00ae-PDT)"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT03573401"
+   ],
+   "lead_title": "Study to Evaluate the Safety and Efficacy of BF-200 ALA (Ameluz\u00ae) and BF-RhodoLED\u00ae in the Treatment of Superficial Basal",
+   "niche": false
+  },
+  {
+   "bucket": "Dermatology (other)",
+   "area": "Other",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.2047,
+   "peak": 500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "1h Incubation Photodynamic therapy (PDT) (ALA-PDT, Ameluz\u00ae-PDT)",
+    "3h Incubation Photodynamic therapy (PDT) (ALA-PDT, Ameluz\u00ae-PDT)"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05080764"
+   ],
+   "lead_title": "Study to Evaluate the Safety and Efficacy of BF-200 ALA (Ameluz\u00ae) and BF-RhodoLED\u00ae in the Treatment of Moderate to Sever",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

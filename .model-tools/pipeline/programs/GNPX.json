@@ -1,0 +1,35 @@
+{
+ "t": "GNPX",
+ "name": "Genprex Inc",
+ "query": "Genprex",
+ "n_studies": 4,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Lung cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "quaratusugene ozeplasmid",
+    "osimertinib"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-12",
+   "lead_ncts": [
+    "NCT05703971",
+    "NCT04486833"
+   ],
+   "lead_title": "Quaratusugene Ozeplasmid (Reqorsa) and Atezolizumab Maintenance Therapy in ES-SCLC Patients",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

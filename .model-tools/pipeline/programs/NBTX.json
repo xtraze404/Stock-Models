@@ -1,0 +1,33 @@
+{
+ "t": "NBTX",
+ "name": "Nanobiotix SA",
+ "query": "Nanobiotix",
+ "n_studies": 7,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "NBTXR3"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-04-30",
+   "lead_ncts": [
+    "NCT03589339"
+   ],
+   "lead_title": "NBTXR3 Activated by Radiotherapy for Patients With Advanced Cancers Treated With An Anti-PD-1 Therapy",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

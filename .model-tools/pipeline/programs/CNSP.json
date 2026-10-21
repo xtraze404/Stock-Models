@@ -1,0 +1,34 @@
+{
+ "t": "CNSP",
+ "name": "CNS Pharmaceuticals Inc",
+ "query": "CNS Pharmaceuticals",
+ "n_studies": 1,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Brain cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Berubicin",
+    "Lomustine"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04762069"
+   ],
+   "lead_title": "A Study of Berubicin in Adult Subjects With Recurrent Glioblastoma Multiforme",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

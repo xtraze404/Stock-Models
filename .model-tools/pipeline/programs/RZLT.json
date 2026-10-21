@@ -1,0 +1,60 @@
+{
+ "t": "RZLT",
+ "name": "Rezolute, Inc.",
+ "query": "Rezolute",
+ "n_studies": 5,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Ersodetug"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-09",
+   "lead_ncts": [
+    "NCT06881992"
+   ],
+   "lead_title": "A Phase 3 Study of Ersodetug in Patients With Tumor Hyperinsulinism",
+   "niche": false
+  },
+  {
+   "bucket": "Endocrine (rare)",
+   "area": "Endocrine",
+   "rate_class": "rare",
+   "stage": 3.0,
+   "pos": 0.5653,
+   "peak": 700,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "RZ358 Sequential Group Cohort 1",
+    "RZ358 Sequential Group Cohort 2",
+    "RZ358 (5-10 mg/kg) + SOC"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06208215",
+    "NCT04538989"
+   ],
+   "lead_title": "RZ358 Treatment for Congenital Hyperinsulinism",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Retinal disease (AMD / DME)"
+ ]
+}

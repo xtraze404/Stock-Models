@@ -1,0 +1,40 @@
+{
+ "t": "VKTX",
+ "name": "Viking Therapeutics, Inc.",
+ "query": "Viking Therapeutics",
+ "n_studies": 13,
+ "n_used": 9,
+ "programs": [
+  {
+   "bucket": "Obesity",
+   "area": "Metabolic",
+   "rate_class": "chronic",
+   "stage": 3.0,
+   "pos": 0.551,
+   "peak": 6000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "VK2735",
+    "VK2735 Oral",
+    "VK2735 Drug"
+   ],
+   "n_trials": 7,
+   "next_readout": "2027-07-01",
+   "lead_ncts": [
+    "NCT07104500",
+    "NCT07104383",
+    "NCT07868835"
+   ],
+   "lead_title": "VK2735 for Weight Management Phase 3",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Migraine / pain",
+  "MASH / liver fibrosis"
+ ]
+}

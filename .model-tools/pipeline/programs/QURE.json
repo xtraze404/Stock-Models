@@ -1,0 +1,100 @@
+{
+ "t": "QURE",
+ "name": "uniQure N.V.",
+ "query": "uniQure",
+ "n_studies": 11,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Huntington's disease",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 1.5,
+   "pos": 0.207,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "intra-striatal rAAV5-miHTT"
+   ],
+   "n_trials": 2,
+   "next_readout": "2029-03",
+   "lead_ncts": [
+    "NCT05243017",
+    "NCT04120493"
+   ],
+   "lead_title": "Safety and Efficacy of AMT-130 in European Adults With Early Manifest Huntington's Disease",
+   "niche": false
+  },
+  {
+   "bucket": "ALS",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 1.5,
+   "pos": 0.207,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "AMT-162"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06100276"
+   ],
+   "lead_title": "Safety, Tolerability, and Exploratory Efficacy Study of Intrathecally Administered Gene Therapy AMT-162 in Adult Partici",
+   "niche": false
+  },
+  {
+   "bucket": "Rare metabolic / lysosomal",
+   "area": "Metabolic",
+   "rate_class": "rare",
+   "stage": 1.5,
+   "pos": 0.207,
+   "peak": 700,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "AMT-191"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-12-01",
+   "lead_ncts": [
+    "NCT06270316"
+   ],
+   "lead_title": "Safety, PK/PD, and Exploratory Efficacy Study of AMT-191 in Classic Fabry Disease",
+   "niche": false
+  },
+  {
+   "bucket": "Epilepsy",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0852,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "AAV9-hSyn1-miGRIK2"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-11-30",
+   "lead_ncts": [
+    "NCT06063850"
+   ],
+   "lead_title": "AMT-260 Gene Therapy Study in Adults With Unilateral Refractory Mesial Temporal Lobe Epilepsy",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

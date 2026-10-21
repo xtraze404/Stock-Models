@@ -1,0 +1,80 @@
+{
+ "t": "SYRE",
+ "name": "Spyre Therapeutics Inc",
+ "query": "Spyre Therapeutics",
+ "n_studies": 8,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "IBD (UC / Crohn's)",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1929,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "SPY001",
+    "SPY002"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-06",
+   "lead_ncts": [
+    "NCT07012395",
+    "NCT07652294"
+   ],
+   "lead_title": "A Study of Long-acting Antibodies Alone and in Combinations for Moderate to Severe Ulcerative Colitis",
+   "niche": false
+  },
+  {
+   "bucket": "Rheumatoid / spondyloarthritis",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1929,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "SPY002-072"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-10-31",
+   "lead_ncts": [
+    "NCT07148414"
+   ],
+   "lead_title": "A Study of SPY072 in Rheumatic Disease",
+   "niche": false
+  },
+  {
+   "bucket": "Hidradenitis / alopecia / vitiligo",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1929,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "SPY072",
+    "bimekizumab"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-10",
+   "lead_ncts": [
+    "NCT07766005"
+   ],
+   "lead_title": "A Study of SPY072 in Adults With Moderate to Severe Hidradenitis Suppurativa (The SKYLIGHT Trial)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

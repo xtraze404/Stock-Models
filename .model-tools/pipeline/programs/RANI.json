@@ -1,0 +1,34 @@
+{
+ "t": "RANI",
+ "name": "Rani Therapeutics Holdings Inc",
+ "query": "Rani Therapeutics",
+ "n_studies": 5,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Obesity",
+   "area": "Metabolic",
+   "rate_class": "chronic",
+   "stage": 1.0,
+   "pos": 0.0585,
+   "peak": 6000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "RT-114 is the RaniPill capsule with PG-102 for the treatment of obesity",
+    "PG-102"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-12-01",
+   "lead_ncts": [
+    "NCT06891287"
+   ],
+   "lead_title": "An Early Phase Study of RT-114 (RaniPill Containing PG-102, a GLP-1/2 Dual Agonist) in Healthy Volunteers.",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

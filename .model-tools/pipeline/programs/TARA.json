@@ -1,0 +1,35 @@
+{
+ "t": "TARA",
+ "name": "Protara Therapeutics Inc",
+ "query": "Protara Therapeutics",
+ "n_studies": 7,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Bladder / urothelial cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "TARA-002"
+   ],
+   "n_trials": 4,
+   "next_readout": "2028-04",
+   "lead_ncts": [
+    "NCT07480356",
+    "NCT05951179",
+    "NCT05085977"
+   ],
+   "lead_title": "Efficacy and Safety of Intravesical TARA-002 Compared With Investigator's Choice of Intravesical Chemotherapy in Partici",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

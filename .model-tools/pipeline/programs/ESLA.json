@@ -1,0 +1,33 @@
+{
+ "t": "ESLA",
+ "name": "Estrella Immunopharma Inc",
+ "query": "Estrella Immunopharma",
+ "n_studies": 1,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Lymphoma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "EB103"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-07-31",
+   "lead_ncts": [
+    "NCT06343311"
+   ],
+   "lead_title": "T-Cell Therapy (EB103) in Adults With Relapsed/Refractory B-Cell Non-Hodgkin's Lymphoma (NHL)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

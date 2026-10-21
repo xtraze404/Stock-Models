@@ -1,0 +1,40 @@
+{
+ "t": "AVIR",
+ "name": "Atea Pharmaceuticals, Inc.",
+ "query": "Atea Pharmaceuticals",
+ "n_studies": 36,
+ "n_used": 6,
+ "programs": [
+  {
+   "bucket": "HIV / hepatitis",
+   "area": "Infectious disease",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.5946,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Bemnifosbuvir-Ruzasvir (BEM/RZR)",
+    "Sofosbuvir-Velpatasvir (SOF/VEL)",
+    "Bemnifosbuvir"
+   ],
+   "n_trials": 3,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT06868264",
+    "NCT07037277",
+    "NCT05904470"
+   ],
+   "lead_title": "C-BEYOND: Efficacy and Safety of BEM/RZR vs. SOF/VEL in Subjects With Chronic HCV",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Viral infections (other)",
+  "Vaccines / respiratory viruses"
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "t": "ARCT",
+ "name": "Arcturus Therapeutics Holdings Inc",
+ "query": "Arcturus Therapeutics",
+ "n_studies": 15,
+ "n_used": 10,
+ "programs": [
+  {
+   "bucket": "Vaccines / respiratory viruses",
+   "area": "Infectious disease",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.5946,
+   "peak": 1000,
+   "owned": true,
+   "partners": [
+    "Vinbiocare Biotechnology Joint Stock Company"
+   ],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "ARCT-021 Dose 1",
+    "ARCT-021 Dose 2",
+    "ARCT-165"
+   ],
+   "n_trials": 6,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06279871",
+    "NCT05012943",
+    "NCT04480957"
+   ],
+   "lead_title": "Immunogenicity and Safety Study of Self-amplifying mRNA COVID-19 Vaccine Administered With Influenza Vaccines in Adults",
+   "niche": false
+  },
+  {
+   "bucket": "Cystic fibrosis / bronchiectasis",
+   "area": "Respiratory",
+   "rate_class": "rare",
+   "stage": 2.0,
+   "pos": 0.2521,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "ARCT-032"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-06",
+   "lead_ncts": [
+    "NCT06747858",
+    "NCT05712538"
+   ],
+   "lead_title": "Safety, Tolerability and Efficacy Study of ARCT-032 in People With Cystic Fibrosis",
+   "niche": false
+  },
+  {
+   "bucket": "Dermatology (other)",
+   "area": "Other",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.2047,
+   "peak": 500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "ARCT-810"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06488313",
+    "NCT04442347"
+   ],
+   "lead_title": "A Study to Evaluate the Pharmacodynamics and Safety of ARCT-810 in Participants With OTCD",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

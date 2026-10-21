@@ -1,0 +1,59 @@
+{
+ "t": "IMNN",
+ "name": "Imunon Inc",
+ "query": "Imunon",
+ "n_studies": 17,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Ovarian cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "IMNN-001",
+    "IMNN-001 (IL-12 Plasmid Formulated with PEG-PEI-Cholesterol Lipopolymer)",
+    "Olaparib"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-06-30",
+   "lead_ncts": [
+    "NCT06915025",
+    "NCT03393884",
+    "NCT05739981"
+   ],
+   "lead_title": "Phase 3 Trial Evaluating the Safety & Efficacy of IMNN-001 Administered in Combination w/ Standard NACT & Adjuvant Chemo",
+   "niche": false
+  },
+  {
+   "bucket": "Bacterial / fungal infections",
+   "area": "Infectious disease",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.1736,
+   "peak": 500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "IMNN-101"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06283459"
+   ],
+   "lead_title": "Study to Evaluate the Safety & Immunogenicity of IMNN-101 Administered in Healthy Adults Previously Vaccinated Against S",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

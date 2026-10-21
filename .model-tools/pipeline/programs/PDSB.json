@@ -1,0 +1,31 @@
+{
+ "t": "PDSB",
+ "name": "PDS Biotechnology Corp",
+ "query": "PDS Biotechnology",
+ "n_studies": 3,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Head and neck cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04260126"
+   ],
+   "lead_title": "Study of PDS0101 and Pembrolizumab Combination I/O in Subjects With HPV16 + Recurrent and/or Metastatic HNSCC",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

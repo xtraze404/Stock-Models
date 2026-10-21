@@ -1,0 +1,40 @@
+{
+ "t": "APRE",
+ "name": "Aprea Therapeutics Inc",
+ "query": "Aprea Therapeutics",
+ "n_studies": 16,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "ATRN-119",
+    "APR-246",
+    "APR-1051"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-06",
+   "lead_ncts": [
+    "NCT04905914",
+    "NCT04214860",
+    "NCT06260514"
+   ],
+   "lead_title": "Study Of ATRN-119 In Patients With Advanced Solid Tumors",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Bladder / urothelial cancer",
+  "Leukemia"
+ ]
+}

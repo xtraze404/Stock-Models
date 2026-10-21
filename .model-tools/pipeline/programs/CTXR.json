@@ -1,0 +1,12 @@
+{
+ "t": "CTXR",
+ "name": "Citius Pharmaceuticals Inc",
+ "query": "Citius Pharmaceuticals",
+ "n_studies": 3,
+ "n_used": 1,
+ "programs": [],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Lymphoma"
+ ]
+}

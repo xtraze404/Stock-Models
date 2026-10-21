@@ -1,0 +1,35 @@
+{
+ "t": "HURA",
+ "name": "TuHURA Biosciences Inc",
+ "query": "TuHURA Biosciences",
+ "n_studies": 6,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.5,
+   "pos": 0.2177,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2030,
+   "drugs": [
+    "IFx-Hu2.0"
+   ],
+   "n_trials": 4,
+   "next_readout": "2027-03-31",
+   "lead_ncts": [
+    "NCT06947928",
+    "NCT04925713",
+    "NCT04160065"
+   ],
+   "lead_title": "Placebo-Controlled Trial of IFx-Hu2.0 Followed By Pembrolizumab In Checkpoint Inhibitor Na\u00efve Participants With Advanced",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

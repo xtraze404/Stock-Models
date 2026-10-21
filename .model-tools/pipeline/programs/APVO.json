@@ -1,0 +1,35 @@
+{
+ "t": "APVO",
+ "name": "Aptevo Therapeutics Inc",
+ "query": "Aptevo Therapeutics",
+ "n_studies": 10,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Leukemia",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "APVO436"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-10",
+   "lead_ncts": [
+    "NCT06634394"
+   ],
+   "lead_title": "APVO436 Phase 1b/2 Study in Patients With Newly Diagnosed AML",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Solid tumors (basket)"
+ ]
+}

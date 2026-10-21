@@ -1,0 +1,55 @@
+{
+ "t": "VOR",
+ "name": "Vor Biopharma Inc.",
+ "query": "Vor Biopharma",
+ "n_studies": 7,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Lupus / Sjogren's",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.6145,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Telitacicept"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-12",
+   "lead_ncts": [
+    "NCT07404865"
+   ],
+   "lead_title": "Phase 3 Study of Telitacicept in Active Primary Sj\u00f6gren's Disease",
+   "niche": false
+  },
+  {
+   "bucket": "Myasthenia gravis / neuromuscular",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 3.0,
+   "pos": 0.5653,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Telitacicept"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-03",
+   "lead_ncts": [
+    "NCT06456580"
+   ],
+   "lead_title": "A Study of Telitacicept for the Treatment of Generalized Myasthenia Gravis (UPSTREAM MG)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

@@ -1,0 +1,36 @@
+{
+ "t": "HOWL",
+ "name": "Werewolf Therapeutics Inc",
+ "query": "Werewolf Therapeutics",
+ "n_studies": 3,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "WTX-330",
+    "WTX-124"
+   ],
+   "n_trials": 3,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06939283",
+    "NCT05678998",
+    "NCT05479812"
+   ],
+   "lead_title": "A Phase 1b/2 Multisite Dose-finding and Expansion Study of WTX-330 in Adult Patients With Selected Advanced or Metastati",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

@@ -1,0 +1,82 @@
+{
+ "t": "EWTX",
+ "name": "Edgewise Therapeutics, Inc.",
+ "query": "Edgewise Therapeutics",
+ "n_studies": 19,
+ "n_used": 8,
+ "programs": [
+  {
+   "bucket": "Heart failure",
+   "area": "Cardiovascular",
+   "rate_class": "chronic",
+   "stage": 2.0,
+   "pos": 0.1273,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "EDG-15400 25 mg",
+    "EDG-15400 50 mg"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-12",
+   "lead_ncts": [
+    "NCT07795814"
+   ],
+   "lead_title": "A Study of EDG-15400 in Adults With Heart Failure With Preserved Ejection Fraction (EQUINOX-HFpEF)",
+   "niche": false
+  },
+  {
+   "bucket": "Muscular dystrophy / SMA",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 2.0,
+   "pos": 0.2521,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Sevasemten Dose 1",
+    "Sevasemten Dose 2",
+    "Sevasemten"
+   ],
+   "n_trials": 6,
+   "next_readout": "2027-01",
+   "lead_ncts": [
+    "NCT05291091",
+    "NCT05540860",
+    "NCT06100887"
+   ],
+   "lead_title": "Phase 2 Study of EDG-5506 in Becker Muscular Dystrophy (GRAND CANYON)",
+   "niche": false
+  },
+  {
+   "bucket": "Cardiomyopathy",
+   "area": "Cardiovascular",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.0956,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "EDG-7500"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-12",
+   "lead_ncts": [
+    "NCT06347159"
+   ],
+   "lead_title": "A Study of EDG-7500 in Adults With Hypertrophic Cardiomyopathy (CIRRUS-HCM)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

@@ -1,0 +1,153 @@
+{
+ "t": "FATE",
+ "name": "Fate Therapeutics Inc",
+ "query": "Fate Therapeutics",
+ "n_studies": 26,
+ "n_used": 9,
+ "programs": [
+  {
+   "bucket": "Lupus / Sjogren's",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1929,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "FT819"
+   ],
+   "n_trials": 1,
+   "next_readout": "2029-07-01",
+   "lead_ncts": [
+    "NCT07570862"
+   ],
+   "lead_title": "A Phase 2, Open-Label, Single-Arm Trial of FT819 in Participants With Lupus Nephritis",
+   "niche": false
+  },
+  {
+   "bucket": "Rare autoimmune",
+   "area": "Autoimmune",
+   "rate_class": "rare",
+   "stage": 1.5,
+   "pos": 0.207,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "FT819",
+    "Fludarabine",
+    "FT839"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-09-30",
+   "lead_ncts": [
+    "NCT07800871",
+    "NCT06308978"
+   ],
+   "lead_title": "FT839 in Autoimmune Diseases",
+   "niche": false
+  },
+  {
+   "bucket": "Lung cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "FT836"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-01",
+   "lead_ncts": [
+    "NCT07216105"
+   ],
+   "lead_title": "FT836 With or Without Chemotherapy and/or Monoclonal Antibodies, in Participants With Advanced Solid Tumors",
+   "niche": false
+  },
+  {
+   "bucket": "Leukemia",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "FT819",
+    "Cyclophosphamide"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04629729"
+   ],
+   "lead_title": "FT819 in Subjects With B-cell Malignancies",
+   "niche": false
+  },
+  {
+   "bucket": "Lymphoma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "FT522",
+    "Cyclophosphamide"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05950334"
+   ],
+   "lead_title": "FT522 With Rituximab in Relapsed/Refractory B-Cell Lymphoma (FT522-101)",
+   "niche": false
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "FT500",
+    "Cyclophosphamide",
+    "FT825"
+   ],
+   "n_trials": 2,
+   "next_readout": "2029-05-01",
+   "lead_ncts": [
+    "NCT03841110",
+    "NCT06241456"
+   ],
+   "lead_title": "FT500 as Monotherapy and in Combination With Immune Checkpoint Inhibitors in Subjects With Advanced Solid Tumors",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Multiple myeloma"
+ ]
+}

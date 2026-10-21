@@ -1,0 +1,35 @@
+{
+ "t": "WHWK",
+ "name": "Whitehawk Therapeutics, Inc.",
+ "query": "Whitehawk Therapeutics",
+ "n_studies": 2,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Ovarian cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "HWK-016, MUCIN-16-targeted ADC",
+    "HWK-007"
+   ],
+   "n_trials": 2,
+   "next_readout": "2028-02",
+   "lead_ncts": [
+    "NCT07470853",
+    "NCT07444814"
+   ],
+   "lead_title": "A Study of MUC16-Directed Antibody Drug Conjugate HWK-016 in Participants With Advanced Solid Tumors.",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

@@ -1,0 +1,39 @@
+{
+ "t": "ORMP",
+ "name": "Oramed Pharmaceuticals Inc",
+ "query": "Oramed",
+ "n_studies": 16,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Type 2 diabetes",
+   "area": "Metabolic",
+   "rate_class": "chronic",
+   "stage": 3.0,
+   "pos": 0.551,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "ORMD-0801",
+    "ORMD-0801 8 mg",
+    "ORMD-0801 16 mg"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-04-25",
+   "lead_ncts": [
+    "NCT06731075",
+    "NCT04564846",
+    "NCT04618744"
+   ],
+   "lead_title": "A Phase 3 Study to Evaluate the Efficacy and Safety of ORMD-0801 in Subjects With Type 2 Diabetes Mellitus.",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "MASH / liver fibrosis"
+ ]
+}

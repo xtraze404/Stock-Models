@@ -1,0 +1,36 @@
+{
+ "t": "IKT",
+ "name": "Inhibikase Therapeutics, Inc.",
+ "query": "Inhibikase Therapeutics",
+ "n_studies": 4,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Pulmonary hypertension",
+   "area": "Cardiovascular",
+   "rate_class": "rare",
+   "stage": 3.0,
+   "pos": 0.5653,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "IKT-001"
+   ],
+   "n_trials": 2,
+   "next_readout": "2029-06",
+   "lead_ncts": [
+    "NCT07365332",
+    "NCT07632898"
+   ],
+   "lead_title": "An Adaptive Program of IKT-001 in Pulmonary Arterial Hypertension (PAH)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Leukemia"
+ ]
+}

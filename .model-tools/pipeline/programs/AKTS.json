@@ -1,0 +1,57 @@
+{
+ "t": "AKTS",
+ "name": "Aktis Oncology Inc",
+ "query": "Aktis Oncology",
+ "n_studies": 2,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Breast cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "[225Ac]Ac-AKY-1189 (therapeutic)",
+    "[64Cu]Cu-AKY-1189 (imaging)"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-12",
+   "lead_ncts": [
+    "NCT07020117"
+   ],
+   "lead_title": "A Study of [225Ac]Ac-AKY-1189 in Patients With Solid Tumors",
+   "niche": false
+  },
+  {
+   "bucket": "Prostate cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "[225Ac]Ac-AKY-2519 (therapeutic)",
+    "[64Cu]Cu-AKY-2519 (imaging)"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-12",
+   "lead_ncts": [
+    "NCT07581184"
+   ],
+   "lead_title": "A Study of [225Ac]Ac-AKY-2519 in Patients With Metastatic Castration-Resistant Prostate Cancer",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

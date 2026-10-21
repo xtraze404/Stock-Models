@@ -1,0 +1,37 @@
+{
+ "t": "SLGL",
+ "name": "SOL-GEL TECHNOLOGIES LTD.",
+ "query": "SOL-GEL TECHNOLOGIES",
+ "n_studies": 15,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Dermatology (other)",
+   "area": "Other",
+   "rate_class": "area",
+   "stage": 4,
+   "pos": 1.0,
+   "peak": 300,
+   "owned": false,
+   "partners": [
+    "Galderma"
+   ],
+   "share": 0.12,
+   "launch": 2022,
+   "drugs": [
+    "Epsolay (encapsulated benzoyl peroxide)"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05675501"
+   ],
+   "lead_title": "Evaluation of Topical Encapsulated Benzoyl Peroxide on the Skin Microbiome and Skin Biophysical Properties",
+   "niche": false,
+   "reg": "Epsolay approved for rosacea; commercialized by a partner"
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [],
+ "overrides": true
+}

@@ -1,0 +1,55 @@
+{
+ "t": "MAZE",
+ "name": "Maze Therapeutics, Inc.",
+ "query": "Maze Therapeutics",
+ "n_studies": 3,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Kidney disease",
+   "area": "Other",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.2047,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "MZE829"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06830629"
+   ],
+   "lead_title": "A Phase 2 Study of MZE829 in Adults With APOL1 Kidney Disease",
+   "niche": false
+  },
+  {
+   "bucket": "Rare metabolic / lysosomal",
+   "area": "Metabolic",
+   "rate_class": "rare",
+   "stage": 2.0,
+   "pos": 0.2521,
+   "peak": 700,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "MZE782"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-12",
+   "lead_ncts": [
+    "NCT07694440"
+   ],
+   "lead_title": "A Study of MZE782 in Adults With PKU",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

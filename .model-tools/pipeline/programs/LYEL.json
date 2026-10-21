@@ -1,0 +1,58 @@
+{
+ "t": "LYEL",
+ "name": "Lyell Immunopharma, Inc.",
+ "query": "Lyell Immunopharma",
+ "n_studies": 7,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Lymphoma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "rondecabtagene autoleucel",
+    "axicabtagene ciloleucel",
+    "Rondecabtagene autoleucel (ronde-cel)"
+   ],
+   "n_trials": 2,
+   "next_readout": "2028-12-31",
+   "lead_ncts": [
+    "NCT07188558",
+    "NCT05826535"
+   ],
+   "lead_title": "A Study to Investigate Ronde-cel Versus Investigator's Choice CD19 CAR T-Cell Therapy",
+   "niche": false
+  },
+  {
+   "bucket": "Colorectal cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "LYL273"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-06",
+   "lead_ncts": [
+    "NCT05319314"
+   ],
+   "lead_title": "LYL273 for Patients With Relapsed or Refractory mCRC",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

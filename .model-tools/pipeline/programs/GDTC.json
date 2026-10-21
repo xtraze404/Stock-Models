@@ -1,0 +1,33 @@
+{
+ "t": "GDTC",
+ "name": "CytoMed Therapeutics Ltd",
+ "query": "CytoMed Therapeutics",
+ "n_studies": 3,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "Allogeneic NKG2DL-targeting Chimeric Antigen Receptor-grafted \u03b3\u03b4 T Cells (CTM-N2D)"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05302037"
+   ],
+   "lead_title": "Allogeneic NKG2DL-targeting CAR \u03b3\u03b4 T Cells (CTM-N2D) in Advanced Cancers (ANGELICA)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

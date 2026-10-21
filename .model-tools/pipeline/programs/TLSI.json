@@ -1,0 +1,34 @@
+{
+ "t": "TLSI",
+ "name": "TriSalus Life Sciences Inc",
+ "query": "TriSalus Life Sciences",
+ "n_studies": 13,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Pancreatic cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "SD-101",
+    "anti-PD-1"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-09",
+   "lead_ncts": [
+    "NCT05607953"
+   ],
+   "lead_title": "Pressure Enabled Intrapancreatic Delivery of SD-101 With Checkpoint Blockade for Locally Advanced Pancreatic Adenocarcin",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

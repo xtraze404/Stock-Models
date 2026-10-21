@@ -1,0 +1,55 @@
+{
+ "t": "BLSM",
+ "name": "BlossomHill Therapeutics Inc",
+ "query": "BlossomHill Therapeutics",
+ "n_studies": 2,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Lung cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "BH-30643"
+   ],
+   "n_trials": 1,
+   "next_readout": "2029-01-31",
+   "lead_ncts": [
+    "NCT06706076"
+   ],
+   "lead_title": "A Study of BH-30643 in Subjects With Locally Advanced or Metastatic NSCLC Harboring EGFR and/or HER2 Mutations",
+   "niche": false
+  },
+  {
+   "bucket": "Leukemia",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "BH-30236"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06501196"
+   ],
+   "lead_title": "A Study of BH-30236 in Relapsed/ Refractory Acute Myelogenous Leukemia and Higher Risk Myelodysplastic Syndrome",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

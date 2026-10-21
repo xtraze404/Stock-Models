@@ -1,0 +1,33 @@
+{
+ "t": "GLSI",
+ "name": "Greenwich Lifesciences Inc",
+ "query": "Greenwich Lifesciences",
+ "n_studies": 1,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Breast cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "GLSI-100"
+   ],
+   "n_trials": 1,
+   "next_readout": "2031-12",
+   "lead_ncts": [
+    "NCT05232916"
+   ],
+   "lead_title": "Phase 3 Study to Evaluate the Efficacy and Safety of HER2/Neu Peptide GLSI-100 (GP2 + GM-CSF) in HER2/Neu Positive Subje",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

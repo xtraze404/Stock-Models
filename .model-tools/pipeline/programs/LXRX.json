@@ -1,0 +1,57 @@
+{
+ "t": "LXRX",
+ "name": "Lexicon Pharmaceuticals, Inc.",
+ "query": "Lexicon Pharmaceuticals",
+ "n_studies": 68,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Cardiomyopathy",
+   "area": "Cardiovascular",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4554,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Sotagliflozin"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-01",
+   "lead_ncts": [
+    "NCT06481891"
+   ],
+   "lead_title": "A Study to Evaluate the Efficacy and Safety of Sotagliflozin in Symptomatic Obstructive and Non-obstructive Hypertrophic",
+   "niche": false
+  },
+  {
+   "bucket": "Migraine / pain",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1234,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "LX9211 (blinded)",
+    "LX9211"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04455633",
+    "NCT06203002"
+   ],
+   "lead_title": "Efficacy, Safety, and PK of LX9211 in Participants With Diabetic Peripheral Neuropathic Pain",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

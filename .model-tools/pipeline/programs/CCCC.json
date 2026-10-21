@@ -1,0 +1,60 @@
+{
+ "t": "CCCC",
+ "name": "C4 Therapeutics, Inc.",
+ "query": "C4 Therapeutics",
+ "n_studies": 5,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Multiple myeloma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Cemsidomide",
+    "Elranatamab",
+    "cemsidomide"
+   ],
+   "n_trials": 3,
+   "next_readout": "2028-12",
+   "lead_ncts": [
+    "NCT07284758",
+    "NCT04756726",
+    "NCT07280013"
+   ],
+   "lead_title": "A Study to Evaluate the Efficacy of Cemsidomide + Dexamethasone in Participants With Relapsed/Refractory Multiple Myelom",
+   "niche": false
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "CFT1946",
+    "Trametinib"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05668585"
+   ],
+   "lead_title": "A Study to Characterize the Safety, Tolerability, and Preliminary Efficacy of CFT1946 as Monotherapy and Combination The",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

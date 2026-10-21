@@ -1,0 +1,34 @@
+{
+ "t": "ABSI",
+ "name": "Absci Corp",
+ "query": "Absci",
+ "n_studies": 1,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Hidradenitis / alopecia / vitiligo",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.1434,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "SAD IV Dose 1 - 150mg ABS201 IV Single Dose",
+    "ABS-201 SC Multiple Doses"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-07",
+   "lead_ncts": [
+    "NCT07317544"
+   ],
+   "lead_title": "Study of ABS-201 Evaluating Single and Multiple Ascending Doses in Adults With and Without Androgenetic Alopecia",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

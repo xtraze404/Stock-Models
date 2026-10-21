@@ -1,0 +1,38 @@
+{
+ "t": "TXMD",
+ "name": "TherapeuticsMD Inc",
+ "query": "TherapeuticsMD",
+ "n_studies": 7,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Women's health",
+   "area": "Endocrine",
+   "rate_class": "area",
+   "stage": 4,
+   "pos": 1.0,
+   "peak": 200,
+   "owned": false,
+   "partners": [
+    "Mayne Pharma"
+   ],
+   "share": 0.12,
+   "launch": 2019,
+   "drugs": [
+    "Annovera (segesterone/EE ring)"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04290390",
+    "NCT04272008"
+   ],
+   "lead_title": "Annovera\u2122 Drug-Drug Interaction Study",
+   "niche": false,
+   "reg": "Approved women's health products licensed to Mayne Pharma (royalties)"
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [],
+ "overrides": true
+}

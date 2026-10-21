@@ -1,0 +1,37 @@
+{
+ "t": "AARD",
+ "name": "Aardvark Therapeutics, Inc.",
+ "query": "Aardvark Therapeutics",
+ "n_studies": 6,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Anxiety / PTSD / addiction",
+   "area": "Psychiatry",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1376,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Low Dose ARD-501",
+    "High Dose ARD-501"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06126653"
+   ],
+   "lead_title": "A Study to Evaluate ARD-501 in Patients With Autism Spectrum Disorder",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Obesity",
+  "Endocrine (rare)"
+ ]
+}

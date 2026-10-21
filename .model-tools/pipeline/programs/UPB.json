@@ -1,0 +1,59 @@
+{
+ "t": "UPB",
+ "name": "Upstream Bio, Inc.",
+ "query": "Upstream Bio",
+ "n_studies": 6,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Asthma / COPD",
+   "area": "Respiratory",
+   "rate_class": "chronic",
+   "stage": 2.0,
+   "pos": 0.1273,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Verekitug",
+    "Verekitug (UPB-101)",
+    "UPB-101"
+   ],
+   "n_trials": 4,
+   "next_readout": "2027-09",
+   "lead_ncts": [
+    "NCT06196879",
+    "NCT06966479",
+    "NCT06981078"
+   ],
+   "lead_title": "A Study to Investigate the Efficacy and Safety of Verekitug (UPB-101) in Adult Participants With Severe Asthma (VALIANT)",
+   "niche": false
+  },
+  {
+   "bucket": "Eosinophilic / allergy",
+   "area": "Allergy",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1831,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Verekitug (UPB-101)"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06164704"
+   ],
+   "lead_title": "A Study to Investigate the Efficacy and Safety of Verekitug (UPB-101) in Participants With Chronic Rhinosinusitis With N",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

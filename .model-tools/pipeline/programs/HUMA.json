@@ -1,0 +1,83 @@
+{
+ "t": "HUMA",
+ "name": "Humacyte Inc",
+ "query": "Humacyte",
+ "n_studies": 15,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Kidney disease",
+   "area": "Other",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.5304,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "HAV",
+    "Acellular Tissue Engineered Vessel (ATEV)",
+    "Human Acellular Vessel (HAV)"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-06",
+   "lead_ncts": [
+    "NCT03183245",
+    "NCT05908084",
+    "NCT04135417"
+   ],
+   "lead_title": "Comparison of the Human Acellular Vessel (HAV) With Fistulas as Conduits for Hemodialysis",
+   "niche": false
+  },
+  {
+   "bucket": "Hemophilia / bleeding",
+   "area": "Hematology",
+   "rate_class": "rare",
+   "stage": 4,
+   "pos": 1.0,
+   "peak": 300,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2025,
+   "drugs": [
+    "Symvess (acellular tissue engineered vessel)"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-12",
+   "lead_ncts": [
+    "NCT07762313"
+   ],
+   "lead_title": "An Open-label Study to Assess the Safety and Efficacy of SYMVESS\u00ae as a Vascular Conduit in Adolescents With Extremity Ar",
+   "niche": false,
+   "reg": "Symvess approved Dec 2024 for extremity vascular trauma; dialysis-access program (Kidney disease) still in Phase 3"
+  },
+  {
+   "bucket": "Thrombosis / cardiovascular",
+   "area": "Cardiovascular",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.0956,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Humacyte Coronary Tissue Engineered Vessel (CTEV)"
+   ],
+   "n_trials": 1,
+   "next_readout": "2030-09",
+   "lead_ncts": [
+    "NCT07730528"
+   ],
+   "lead_title": "Study to Evaluate the Safety and Efficacy of Humacyte's Coronary Tissue Engineered Vessel (CTEV) in Patients With Corona",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [],
+ "overrides": true
+}

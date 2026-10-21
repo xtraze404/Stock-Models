@@ -1,0 +1,37 @@
+{
+ "t": "ALMS",
+ "name": "Alumis Inc.",
+ "query": "Alumis",
+ "n_studies": 13,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Psoriasis",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.6145,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Envudeucitinib",
+    "Apremilast",
+    "Open-Label Envudeucitinib"
+   ],
+   "n_trials": 5,
+   "next_readout": "2027-12-01",
+   "lead_ncts": [
+    "NCT06586112",
+    "NCT06588738",
+    "NCT06846541"
+   ],
+   "lead_title": "A Study to Evaluate the Efficacy and Safety of ESK-001 in Patients With Moderate to Severe Plaque Psoriasis",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

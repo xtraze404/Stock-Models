@@ -1,0 +1,35 @@
+{
+ "t": "TTRX",
+ "name": "Turn Therapeutics Inc",
+ "query": "Turn Therapeutics",
+ "n_studies": 2,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Atopic dermatitis",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 2.5,
+   "pos": 0.3443,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2030,
+   "drugs": [
+    "GX-03"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-01-20",
+   "lead_ncts": [
+    "NCT07355075"
+   ],
+   "lead_title": "A Double-Blind, Randomized, Vehicle-Controlled Phase 2 Study to Assess the Efficacy and Safety of GX-03 in Adult Subject",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Vaccines / respiratory viruses"
+ ]
+}

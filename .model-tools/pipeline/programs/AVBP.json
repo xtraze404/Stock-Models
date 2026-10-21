@@ -1,0 +1,83 @@
+{
+ "t": "AVBP",
+ "name": "ArriVent BioPharma, Inc.",
+ "query": "ArriVent BioPharma",
+ "n_studies": 6,
+ "n_used": 6,
+ "programs": [
+  {
+   "bucket": "Lung cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 1200,
+   "owned": true,
+   "partners": [
+    "Allist Pharmaceuticals, Inc."
+   ],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Furmonertinib",
+    "Firmonertinib",
+    "furmonertinib 240 mg oral, daily"
+   ],
+   "n_trials": 4,
+   "next_readout": "2028-10-31",
+   "lead_ncts": [
+    "NCT05607550",
+    "NCT07010419",
+    "NCT07185997"
+   ],
+   "lead_title": "Study to Compare Furmonertinib to Platinum-Based Chemotherapy for Patients With Locally Advanced or Metastatic Non-Small",
+   "niche": true
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "MRG007"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-03",
+   "lead_ncts": [
+    "NCT07066657"
+   ],
+   "lead_title": "A Study of MRG007 (ARR-217) in Patients With Advanced Solid Tumors",
+   "niche": false
+  },
+  {
+   "bucket": "Ovarian cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "ARR-002"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-08",
+   "lead_ncts": [
+    "NCT07755436"
+   ],
+   "lead_title": "Phase 1 Study to Assess Safety, Tolerability, Pharmacokinetics, Immunogenicity, and Antitumor Activity of ARR-002 in Adv",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

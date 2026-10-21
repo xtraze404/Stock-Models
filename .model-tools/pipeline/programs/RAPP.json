@@ -1,0 +1,57 @@
+{
+ "t": "RAPP",
+ "name": "Rapport Therapeutics, Inc.",
+ "query": "Rapport Therapeutics",
+ "n_studies": 5,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Epilepsy",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4604,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "RAP-219"
+   ],
+   "n_trials": 4,
+   "next_readout": "2028-02-03",
+   "lead_ncts": [
+    "NCT07563881",
+    "NCT07594119",
+    "NCT06377930"
+   ],
+   "lead_title": "Study Evaluating the Efficacy and Safety of RAP-219 in Adult Participants With Focal Seizures FOCUS-1",
+   "niche": false
+  },
+  {
+   "bucket": "Depression / mood",
+   "area": "Psychiatry",
+   "rate_class": "chronic",
+   "stage": 2.0,
+   "pos": 0.1273,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "RAP-219"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT07046494"
+   ],
+   "lead_title": "Study Evaluating the Efficacy and Safety of RAP-219 in Adult Participants With Bipolar I Disorder",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

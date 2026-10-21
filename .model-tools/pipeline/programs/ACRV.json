@@ -1,0 +1,55 @@
+{
+ "t": "ACRV",
+ "name": "Acrivon Therapeutics, Inc.",
+ "query": "Acrivon Therapeutics",
+ "n_studies": 3,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Gynecologic cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "ACR-368"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-05-30",
+   "lead_ncts": [
+    "NCT05548296"
+   ],
+   "lead_title": "A Phase 2 Study of ACR-368 in Endometrial Adenocarcinoma",
+   "niche": false
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "ACR-2316"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-08-12",
+   "lead_ncts": [
+    "NCT06667141"
+   ],
+   "lead_title": "Study of ACR-2316 in Specific Advanced Solid Tumors",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

@@ -15,8 +15,9 @@ from openpyxl.packaging.relationship import Relationship
 
 D = os.path.dirname(os.path.abspath(__file__))
 T = sys.argv[1]
-PH = "/Users/eric/Documents/Stock Models/Pharma"
-SCREENER = "/Users/eric/Documents/Stock Models/Screener.xlsx"
+ROOT = os.path.dirname(os.path.dirname(D))           # …/Stock Models
+PH = f"{ROOT}/Pharma"
+SCREENER = f"{ROOT}/Screener.xlsx"
 LINKSRC = f"{PH}/LLY.xlsx"
 os.makedirs(f"{D}/backup", exist_ok=True)
 if not os.path.exists(f"{D}/backup/{T}.xlsx"):
@@ -237,6 +238,14 @@ elif sh_v and cash_v is not None:
     KIND = "Net cash"
 else:
     KIND = "No data"
+PIPE = None
+_pp = f"{os.path.dirname(D)}/pipeline/programs/{T}.json"
+if KIND == "Net cash" and FLAG is None and os.path.exists(_pp):      # pre-revenue / small revenue with a pipeline
+    PIPE = json.load(open(_pp))
+    if PIPE.get("programs"):
+        KIND = "rNPV"
+    else:
+        PIPE = None
 
 mcap = price * sh_v if sh_v else None
 P = {}
@@ -502,6 +511,35 @@ if KIND == "DCF":
     A["B37"] = DataTableFormula(ref="B37:F41", r1="B7", r2="B6", dt2D=True)
     L.update(tgs=tgs, drs=drs)
 
+if KIND == "rNPV":
+    import bpipe
+    burn = -oi_ttm if oi_ttm is not None else (-cfo_ttm if cfo_ttm is not None else 0.0)
+    nol = sum(max(0.0, -h["ni"]) for h in hist.values() if h.get("ni") is not None)
+    bsd_ = dt.date.fromisoformat(H["bs_end"]) if H.get("bs_end") else dt.date(2026, 6, 30)
+    stub_ = min(max((dt.date(2026, 12, 31) - bsd_).days / 365.0, 0.05), 1.0)
+    # launched products: cap the benchmark peak at what current sales imply (TTM revenue / position on the launch ramp)
+    for p_ in PIPE["programs"]:
+        if p_["stage"] >= 4 and not p_.get("reg"):      # marketed per Phase 4 trials, not a hand-checked approval
+            cap_ = max(3 * max(rev_ttm or 0.0, 0.0), 25.0)
+            if cap_ < p_["peak"]:
+                p_["peak_benchmark"], p_["peak"] = p_["peak"], round(cap_, 1)
+                p_["reg"] = (f"Marketed product (Phase 4 trials on ClinicalTrials.gov); peak set to 3x TTM revenue "
+                             f"({(rev_ttm or 0):,.1f}M), floor 25M")
+            continue
+        if p_["stage"] >= 4 and p_["owned"] and p_["launch"] <= 2025 and rev_ttm is not None and rev_ttm >= 5:
+            ramp_now = bpipe.RAMP[min(5, max(0, 2026 - p_["launch"]))]
+            implied = max(rev_ttm, 0.0) / ramp_now
+            if implied < p_["peak"]:
+                p_["peak_benchmark"], p_["peak"] = p_["peak"], round(max(implied, 1.0), 1)
+                p_["reg"] = (p_.get("reg", "") + f"; peak capped at {p_['peak']:,.0f}M from current sales "
+                             f"(TTM revenue {rev_ttm:,.1f}M in launch year {2026 - p_['launch'] + 1})").lstrip("; ")
+    L["pipe"] = bpipe.build(wb, T, put, {"name": ROW["name"], "programs": PIPE["programs"], "burn": max(0.0, burn),
+                                         "nol": nol, "stub": stub_, "bsd": bsd_})
+    L["programs"] = PIPE["programs"]
+    L["pipe_meta"] = {k: PIPE.get(k) for k in ("query", "n_studies", "n_used", "dropped_programs", "overrides")}
+    L["burn"], L["nol"], L["stub"] = max(0.0, burn), nol, stub_
+    sheets += [wb["Assumptions"], wb["Pipeline"], wb["NPV"]]
+
 # ------------------------------------------------------------------ Main
 for rr in range(10, 25):
     for col in "BC":
@@ -512,13 +550,14 @@ put(main, "C7", cash, fmt="#,##0.0")
 put(main, "C8", debt, fmt="#,##0.0")
 put(main, "C5", "=C3*C4", fmt="#,##0")
 put(main, "C9", "=C5-C7+C8", fmt="#,##0")
-lab11 = {"DCF": "NPV / Share", "Net cash": "Net Cash / Share", "No data": "NPV / Share"}[KIND]
-items = [(11, lab11, {"DCF": "=NPV!B28", "Net cash": "=(C7-C8)/C4", "No data": None}[KIND], "0.00"),
+lab11 = {"DCF": "NPV / Share", "Net cash": "Net Cash / Share", "No data": "NPV / Share", "rNPV": "rNPV / Share"}[KIND]
+items = [(11, lab11, {"DCF": "=NPV!B28", "Net cash": "=(C7-C8)/C4", "No data": None, "rNPV": "=NPV!B27"}[KIND], "0.00"),
          (12, "Upside", '=IFERROR(C11/C3-1,"")' if KIND != "No data" else None, "0.0%"),
          (13, "Cash / Share", '=IFERROR((C7-C8)/C4,"")', "0.00"),
-         (14, "Scenario", {"DCF": "=Assumptions!C4", "No data": "no data"}.get(KIND, "revenue jump" if FLAG else
+         (14, "Scenario", {"DCF": "=Assumptions!C4", "rNPV": "=Assumptions!C4", "No data": "no data"}.get(KIND, "revenue jump" if FLAG else
                                                                      "pre-revenue" if (rev_ttm or 0) < 5 else "small revenue"), "General"),
-         (15, "Model", {"DCF": "Reviewed DCF" if REVIEW else "DCF", "Net cash": "Net cash", "No data": "n/a"}[KIND], "General")]
+         (15, "Model", {"DCF": "Reviewed DCF" if REVIEW else "DCF", "Net cash": "Net cash", "No data": "n/a",
+                        "rNPV": "Pipeline rNPV"}[KIND], "General")]
 if KIND != "DCF":
     items += [(17, "TTM Operating Cash Flow", round(cfo_ttm, 3) if cfo_ttm is not None else None, "#,##0.0"),
               (18, "Runway (years)", '=IF(AND(ISNUMBER(C17),C17<0),IF(C7>C8,(C7-C8)/-C17,"net debt"),"n/a")', "0.0"),

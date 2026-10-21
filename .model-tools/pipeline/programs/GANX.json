@@ -1,0 +1,36 @@
+{
+ "t": "GANX",
+ "name": "Gain Therapeutics Inc",
+ "query": "Gain Therapeutics",
+ "n_studies": 2,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Parkinson's disease",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1234,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "GT-02287",
+    "Low Dose GT-02287",
+    "High Dose GT-02287"
+   ],
+   "n_trials": 2,
+   "next_readout": "2028-06-30",
+   "lead_ncts": [
+    "NCT07280299",
+    "NCT06732180"
+   ],
+   "lead_title": "Efficacy, Safety, Tolerability, and Biomarker Effects of GT-02287 in Early Parkinson's Disease",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

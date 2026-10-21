@@ -1,0 +1,62 @@
+{
+ "t": "GNLX",
+ "name": "Genelux Corporation",
+ "query": "Genelux",
+ "n_studies": 10,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Ovarian cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "olvimulogene nanivacirepvec",
+    "Olvi-Vec"
+   ],
+   "n_trials": 2,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT05281471",
+    "NCT02759588"
+   ],
+   "lead_title": "Efficacy & Safety of Olvi-Vec and Platinum-doublet + Bevacizumab Compared to Physician's Choice of Chemotherapy and Beva",
+   "niche": false
+  },
+  {
+   "bucket": "Lung cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 3000,
+   "owned": true,
+   "partners": [
+    "Newsoara HYK Biopharmaceutical (Shanghai) Co., Ltd."
+   ],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Olvi-Vec",
+    "Etoposide",
+    "Olvimulogene nanivacirepvec"
+   ],
+   "n_trials": 2,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT06463665",
+    "NCT07136285"
+   ],
+   "lead_title": "Efficacy & Safety of Olvimulogene Nanivacirepvec & Platinum-doublet + Physician's Choice of Immune Checkpoint Inhibitor ",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

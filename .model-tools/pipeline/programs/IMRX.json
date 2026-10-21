@@ -1,0 +1,59 @@
+{
+ "t": "IMRX",
+ "name": "Immuneering Corporation",
+ "query": "Immuneering",
+ "n_studies": 3,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Pancreatic cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Atebimetinib",
+    "GnP"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-06",
+   "lead_ncts": [
+    "NCT07562152"
+   ],
+   "lead_title": "Atebimetinib + GnP as a First Line Treatment in Patients With Metastatic Pancreatic Adenocarcinoma",
+   "niche": false
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "IMM-1-104 Monotherapy (Treatment Group A)",
+    "IMM-1-104 + dabrafenib (Treatment Group D)",
+    "IMM-6-415"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-06",
+   "lead_ncts": [
+    "NCT06208124",
+    "NCT05585320"
+   ],
+   "lead_title": "A Study of IMM-6-415 in RAS/RAF Mutant Solid Tumors",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

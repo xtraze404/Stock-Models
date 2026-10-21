@@ -1,0 +1,37 @@
+{
+ "t": "CNSY",
+ "name": "Cerenome, Inc",
+ "query": "Cerenome",
+ "n_studies": 5,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Brain cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "Rhenium Liposome Treatment",
+    "Retreatment Rhenium Liposome",
+    "Rhenium-186 Nanoliposome"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-04",
+   "lead_ncts": [
+    "NCT01906385",
+    "NCT07061626",
+    "NCT05460507"
+   ],
+   "lead_title": "Maximum Tolerated Dose, Safety, and Efficacy of Rhenium Nanoliposomes in Recurrent Glioma (ReSPECT)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

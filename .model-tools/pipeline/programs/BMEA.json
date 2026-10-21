@@ -1,0 +1,81 @@
+{
+ "t": "BMEA",
+ "name": "Biomea Fusion, Inc.",
+ "query": "Biomea Fusion",
+ "n_studies": 9,
+ "n_used": 6,
+ "programs": [
+  {
+   "bucket": "Type 2 diabetes",
+   "area": "Metabolic",
+   "rate_class": "chronic",
+   "stage": 2.0,
+   "pos": 0.1273,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "BMF-219",
+    "icovamenib 100 mg",
+    "icovamenib 100mg"
+   ],
+   "n_trials": 4,
+   "next_readout": "2027-03",
+   "lead_ncts": [
+    "NCT06152042",
+    "NCT07502495",
+    "NCT07502508"
+   ],
+   "lead_title": "Phase 2 Trial of BMF-219 in Participants With Type 1 Diabetes Mellitus",
+   "niche": false
+  },
+  {
+   "bucket": "Obesity",
+   "area": "Metabolic",
+   "rate_class": "chronic",
+   "stage": 1.0,
+   "pos": 0.0585,
+   "peak": 6000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "BMF-650"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT07223216"
+   ],
+   "lead_title": "Study of BMF-650 in Otherwise Healthy Overweight or Obese Adult Participants",
+   "niche": false
+  },
+  {
+   "bucket": "Leukemia",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "BMF-500"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05918692"
+   ],
+   "lead_title": "A Phase 1 Study of BMF-500 in Adults With Acute Leukemia",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

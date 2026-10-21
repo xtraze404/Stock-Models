@@ -1,0 +1,37 @@
+{
+ "t": "BCTX",
+ "name": "Briacell Therapeutics Corp",
+ "query": "Briacell Therapeutics",
+ "n_studies": 4,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Breast cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "SV-BR-1-GM",
+    "Cyclophosphamide",
+    "BC1 cell line"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-12",
+   "lead_ncts": [
+    "NCT06072612",
+    "NCT06471673",
+    "NCT03328026"
+   ],
+   "lead_title": "Study of the Bria-IMT Regimen and CPI vs Physicians' Choice in Advanced Metastatic Breast Cancer.",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

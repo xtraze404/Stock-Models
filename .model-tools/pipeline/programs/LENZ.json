@@ -1,0 +1,39 @@
+{
+ "t": "LENZ",
+ "name": "LENZ Therapeutics, Inc.",
+ "query": "LENZ Therapeutics",
+ "n_studies": 10,
+ "n_used": 8,
+ "programs": [
+  {
+   "bucket": "Eye disease (other)",
+   "area": "Ophthalmology",
+   "rate_class": "area",
+   "stage": 4,
+   "pos": 1.0,
+   "peak": 1000,
+   "owned": true,
+   "partners": [
+    "Corxel Pharmaceuticals"
+   ],
+   "share": 0.4,
+   "launch": 2025,
+   "drugs": [
+    "Vizz (aceclidine)"
+   ],
+   "n_trials": 8,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05728944",
+    "NCT05656027",
+    "NCT05753189"
+   ],
+   "lead_title": "Phase 3 Efficacy Study of LNZ100 & LNZ101 for the Treatment of Presbyopia",
+   "niche": false,
+   "reg": "VIZZ approved Jul 2025 for presbyopia; launched"
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [],
+ "overrides": true
+}

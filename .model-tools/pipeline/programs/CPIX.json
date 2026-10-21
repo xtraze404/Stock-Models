@@ -1,0 +1,58 @@
+{
+ "t": "CPIX",
+ "name": "Cumberland Pharmaceuticals Inc.",
+ "query": "Cumberland Pharmaceuticals",
+ "n_studies": 65,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Idiopathic pulmonary fibrosis",
+   "area": "Respiratory",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.135,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Ifetroban Sodium"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-01",
+   "lead_ncts": [
+    "NCT05571059"
+   ],
+   "lead_title": "Oral Ifetroban in Patients With Idiopathic Pulmonary Fibrosis (IPF)",
+   "niche": false
+  },
+  {
+   "bucket": "Rare autoimmune",
+   "area": "Autoimmune",
+   "rate_class": "rare",
+   "stage": 2.0,
+   "pos": 0.2521,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Oral Ifetroban"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT02682511"
+   ],
+   "lead_title": "Oral Ifetroban to Treat Diffuse Cutaneous Systemic Sclerosis (SSc) or SSc-associated Pulmonary Arterial Hypertension",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Asthma / COPD",
+  "Cardiomyopathy"
+ ]
+}

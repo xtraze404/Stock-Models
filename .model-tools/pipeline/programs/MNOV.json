@@ -1,0 +1,58 @@
+{
+ "t": "MNOV",
+ "name": "MediciNova Inc",
+ "query": "MediciNova",
+ "n_studies": 21,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "ALS",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 2.5,
+   "pos": 0.3776,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2030,
+   "drugs": [
+    "MN-166"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-04",
+   "lead_ncts": [
+    "NCT04057898"
+   ],
+   "lead_title": "Evaluation of MN-166 (Ibudilast) for 12 Months Followed by an Open-label Extension for 6 Months in Patients With ALS",
+   "niche": false
+  },
+  {
+   "bucket": "Type 2 diabetes",
+   "area": "Metabolic",
+   "rate_class": "chronic",
+   "stage": 2.0,
+   "pos": 0.1273,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "MN-001"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-12-31",
+   "lead_ncts": [
+    "NCT05464784"
+   ],
+   "lead_title": "MN-001 in Non-alcoholic Fatty Liver Disease, Type 2 Diabetes Mellitus, and Hypertriglyceridemia",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Bacterial / fungal infections",
+  "Brain cancer"
+ ]
+}

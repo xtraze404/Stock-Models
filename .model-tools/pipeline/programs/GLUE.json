@@ -1,0 +1,56 @@
+{
+ "t": "GLUE",
+ "name": "Monte Rosa Therapeutics, Inc.",
+ "query": "Monte Rosa Therapeutics",
+ "n_studies": 4,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Prostate cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Oral MRT-2359",
+    "Apalutamide"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-10",
+   "lead_ncts": [
+    "NCT07745361"
+   ],
+   "lead_title": "Study of Oral MRT-2359 With Apalutamide in Prostate Cancer",
+   "niche": false
+  },
+  {
+   "bucket": "Lung cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "Oral MRT-2359"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05546268"
+   ],
+   "lead_title": "Study of Oral MRT-2359 in Selected Cancer Patients",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

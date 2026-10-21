@@ -1,0 +1,56 @@
+{
+ "t": "BCAX",
+ "name": "Bicara Therapeutics Inc",
+ "query": "Bicara Therapeutics",
+ "n_studies": 6,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Head and neck cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.5,
+   "pos": 0.2177,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2030,
+   "drugs": [
+    "Ficerafusp alfa"
+   ],
+   "n_trials": 2,
+   "next_readout": "2028-03",
+   "lead_ncts": [
+    "NCT06788990",
+    "NCT07807163"
+   ],
+   "lead_title": "FORTIFI-HN01: A Study of Ficerafusp Alfa (BCA101) or Placebo in Combination With Pembrolizumab in First-Line PD-L1-pos, ",
+   "niche": false
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "BCA101"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-10-31",
+   "lead_ncts": [
+    "NCT04429542"
+   ],
+   "lead_title": "Study of Safety and Tolerability of BCA101 Monotherapy and in Combination Therapy in Patients With EGFR-driven Advanced ",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

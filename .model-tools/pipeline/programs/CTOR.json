@@ -1,0 +1,12 @@
+{
+ "t": "CTOR",
+ "name": "Citius Oncology Inc",
+ "query": "Citius",
+ "n_studies": 3,
+ "n_used": 1,
+ "programs": [],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Lymphoma"
+ ]
+}

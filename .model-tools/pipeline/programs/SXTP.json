@@ -1,0 +1,12 @@
+{
+ "t": "SXTP",
+ "name": "60 Degrees Pharmaceuticals Inc",
+ "query": "60 Degrees Pharmaceuticals",
+ "n_studies": 6,
+ "n_used": 1,
+ "programs": [],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Vaccines / respiratory viruses"
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "t": "SANA",
+ "name": "Sana Biotechnology, Inc.",
+ "query": "Sana Biotechnology",
+ "n_studies": 5,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Lupus / Sjogren's",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.1065,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "SC291"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-12",
+   "lead_ncts": [
+    "NCT06294236"
+   ],
+   "lead_title": "Study Evaluating SC291 in Subjects With Severe r/r B-cell Mediated Autoimmune Diseases (GLEAM)",
+   "niche": false
+  },
+  {
+   "bucket": "Lymphoma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "SC262",
+    "SC291"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05878184",
+    "NCT06285422"
+   ],
+   "lead_title": "Study Evaluating SC291 in Subjects With r/r B-cell Malignancies (ARDENT)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

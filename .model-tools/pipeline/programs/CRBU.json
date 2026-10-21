@@ -1,0 +1,56 @@
+{
+ "t": "CRBU",
+ "name": "Caribou Biosciences, Inc.",
+ "query": "Caribou Biosciences",
+ "n_studies": 5,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Multiple myeloma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "CB-011"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-12",
+   "lead_ncts": [
+    "NCT05722418"
+   ],
+   "lead_title": "CRISPR-Edited Allogeneic Anti-BCMA CAR-T Cell Therapy in Patients With Relapsed/Refractory Multiple Myeloma",
+   "niche": false
+  },
+  {
+   "bucket": "Lymphoma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "CB-010",
+    "Cyclophosphamide"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04637763"
+   ],
+   "lead_title": "CRISPR-Edited Allogeneic Anti-CD19 CAR-T Cell Therapy for Relapsed/Refractory B Cell Non-Hodgkin Lymphoma (ANTLER)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

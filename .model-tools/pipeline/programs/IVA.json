@@ -1,0 +1,36 @@
+{
+ "t": "IVA",
+ "name": "Inventiva SA",
+ "query": "Inventiva",
+ "n_studies": 8,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "MASH / liver fibrosis",
+   "area": "Metabolic",
+   "rate_class": "chronic",
+   "stage": 3.0,
+   "pos": 0.551,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Lanifibranor",
+    "Empagliflozin",
+    "IVA337"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-09-30",
+   "lead_ncts": [
+    "NCT04849728",
+    "NCT05232071"
+   ],
+   "lead_title": "A Phase 3 Study Evaluating Efficacy and Safety of Lanifibranor Followed by an Active Treatment Extension in Adult Patien",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

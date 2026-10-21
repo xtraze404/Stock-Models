@@ -1,0 +1,59 @@
+{
+ "t": "LBRX",
+ "name": "LB Pharmaceuticals Inc",
+ "query": "LB Pharmaceuticals",
+ "n_studies": 6,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Schizophrenia / psychosis",
+   "area": "Psychiatry",
+   "rate_class": "chronic",
+   "stage": 3.0,
+   "pos": 0.551,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "LB-102",
+    "LB-102 (50 mg tablet)",
+    "LB-102 (100 mg tablet)"
+   ],
+   "n_trials": 4,
+   "next_readout": "2027-06",
+   "lead_ncts": [
+    "NCT07363577",
+    "NCT07369154",
+    "NCT06179108"
+   ],
+   "lead_title": "Study to Evaluate LB-102 for the Treatment of Adult Patients With Acute Schizophrenia",
+   "niche": false
+  },
+  {
+   "bucket": "Depression / mood",
+   "area": "Psychiatry",
+   "rate_class": "chronic",
+   "stage": 2.0,
+   "pos": 0.1273,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "LB-102"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-02",
+   "lead_ncts": [
+    "NCT07494305"
+   ],
+   "lead_title": "Multicenter Study to Assess the Efficacy and Safety of LB-102 in the Treatment of Adult Patients With BP1MDE.",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

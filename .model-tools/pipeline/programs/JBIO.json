@@ -1,0 +1,55 @@
+{
+ "t": "JBIO",
+ "name": "Jade Biosciences, Inc.",
+ "query": "Jade Biosciences",
+ "n_studies": 4,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Rare autoimmune",
+   "area": "Autoimmune",
+   "rate_class": "rare",
+   "stage": 2.0,
+   "pos": 0.2521,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "JADE101"
+   ],
+   "n_trials": 1,
+   "next_readout": "2029-01",
+   "lead_ncts": [
+    "NCT07541287"
+   ],
+   "lead_title": "A Study of JADE101 in Participants With Immunoglobulin A Nephropathy",
+   "niche": false
+  },
+  {
+   "bucket": "Rheumatoid / spondyloarthritis",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.1065,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "JADE201"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-10",
+   "lead_ncts": [
+    "NCT07533955"
+   ],
+   "lead_title": "A Phase 1 Study of JADE201 in Participants With Rheumatoid Arthritis",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

@@ -15,7 +15,7 @@ Model output, not investment advice."""
 import argparse, csv, datetime as dt, json, math, os, re, sys, time, urllib.request
 
 HERE = os.environ.get("TRADER_DIR") or os.path.dirname(os.path.abspath(__file__))
-DEFAULT_SHEET = "/Users/eric/Documents/Stock Models/Screener.xlsx"
+DEFAULT_SHEET = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), "Screener.xlsx")
 DEFAULTS = {
     "start_cash": 100000.0,
     "band": 0.0075,             # resize a position only when it is this far (share of NAV) from target

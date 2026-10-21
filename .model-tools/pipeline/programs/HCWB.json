@@ -1,0 +1,33 @@
+{
+ "t": "HCWB",
+ "name": "HCW Biologics Inc",
+ "query": "HCW Biologics",
+ "n_studies": 2,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Hidradenitis / alopecia / vitiligo",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.1065,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "HCW9302, an IL-2 fusion protein"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-07-16",
+   "lead_ncts": [
+    "NCT07049328"
+   ],
+   "lead_title": "HCW9302 (Interleukin-2 Fusion Protein) for Alopecia Areata",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

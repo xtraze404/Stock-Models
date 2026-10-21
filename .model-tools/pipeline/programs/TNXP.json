@@ -1,0 +1,63 @@
+{
+ "t": "TNXP",
+ "name": "Tonix Pharmaceuticals Holding Corp.",
+ "query": "Tonix Pharmaceuticals",
+ "n_studies": 39,
+ "n_used": 6,
+ "programs": [
+  {
+   "bucket": "Migraine / pain",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 4,
+   "pos": 1.0,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2025,
+   "drugs": [
+    "Tonmya (TNX-102 SL)"
+   ],
+   "n_trials": 3,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04508621",
+    "NCT05273749",
+    "NCT05679908"
+   ],
+   "lead_title": "A Phase 3 Study To Evaluate The Efficacy And Safety Of TNX-102 SL In Patients With Fibromyalgia",
+   "niche": false,
+   "reg": "TONMYA approved for fibromyalgia (first new fibromyalgia medicine in 15+ years)"
+  },
+  {
+   "bucket": "Depression / mood",
+   "area": "Psychiatry",
+   "rate_class": "chronic",
+   "stage": 2.0,
+   "pos": 0.1273,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "TNX-601 ER",
+    "TNX-102 SL"
+   ],
+   "n_trials": 2,
+   "next_readout": "2028-02",
+   "lead_ncts": [
+    "NCT05686408",
+    "NCT07621237"
+   ],
+   "lead_title": "Study to Evaluate TNX-601 ER Monotherapy Versus Placebo in Patients With Major Depressive Disorder (MDD)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Vaccines / respiratory viruses"
+ ],
+ "overrides": true
+}

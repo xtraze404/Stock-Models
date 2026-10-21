@@ -1,0 +1,12 @@
+{
+ "t": "AIM",
+ "name": "AIM ImmunoTech Inc",
+ "query": "AIM ImmunoTech",
+ "n_studies": 17,
+ "n_used": 1,
+ "programs": [],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Vaccines / respiratory viruses"
+ ]
+}

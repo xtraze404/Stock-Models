@@ -1,0 +1,39 @@
+{
+ "t": "DYN",
+ "name": "Dyne Therapeutics, Inc.",
+ "query": "Dyne Therapeutics",
+ "n_studies": 7,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Muscular dystrophy / SMA",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 3.5,
+   "pos": 0.936,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2027,
+   "drugs": [
+    "zeleciment basivarsen (DYNE-101)",
+    "Zeleciment Rostudirsen (DYNE-251)",
+    "DYNE-251"
+   ],
+   "n_trials": 4,
+   "next_readout": "2028-07",
+   "lead_ncts": [
+    "NCT07486934",
+    "NCT07608432",
+    "NCT05481879"
+   ],
+   "lead_title": "Efficacy, Safety, and Tolerability of Zeleciment Basivarsen (DYNE-101) in Participants With Myotonic Dystrophy Type 1",
+   "niche": false,
+   "reg": "BLA under priority review, PDUFA Jan 21, 2027"
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [],
+ "overrides": true
+}

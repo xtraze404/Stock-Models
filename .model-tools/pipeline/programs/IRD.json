@@ -1,0 +1,87 @@
+{
+ "t": "IRD",
+ "name": "Opus Genetics Inc",
+ "query": "Opus Genetics",
+ "n_studies": 17,
+ "n_used": 6,
+ "programs": [
+  {
+   "bucket": "Retinal disease (AMD / DME)",
+   "area": "Ophthalmology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1656,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "APX3330",
+    "OPGx-BEST1"
+   ],
+   "n_trials": 2,
+   "next_readout": "2030-08",
+   "lead_ncts": [
+    "NCT04692688",
+    "NCT07185256"
+   ],
+   "lead_title": "Study of the Safety and Efficacy of APX3330 in Diabetic Retinopathy",
+   "niche": false
+  },
+  {
+   "bucket": "Eye disease (other)",
+   "area": "Ophthalmology",
+   "rate_class": "area",
+   "stage": 4,
+   "pos": 1.0,
+   "peak": 600,
+   "owned": false,
+   "partners": [
+    "Viatris"
+   ],
+   "share": 0.12,
+   "launch": 2024,
+   "drugs": [
+    "Phentolamine Ophthalmic Solution 0.75%",
+    "Pilocarpine",
+    "0.75% phentolamine ophthalmic solution"
+   ],
+   "n_trials": 3,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05646719",
+    "NCT06542497",
+    "NCT04675151"
+   ],
+   "lead_title": "Safety and Efficacy of Nyxol Eye Drops as a Single Agent and With Adjunctive Low-Dose Pilocarpine Eye Drops in Subjects ",
+   "niche": false,
+   "reg": "Ryzumvi (phentolamine) approved for mydriasis reversal; presbyopia sNDA PDUFA Oct 17, 2026; Viatris holds US rights"
+  },
+  {
+   "bucket": "Inherited retinal disease",
+   "area": "Ophthalmology",
+   "rate_class": "rare",
+   "stage": 1.5,
+   "pos": 0.207,
+   "peak": 500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "OPGx-RDH12"
+   ],
+   "n_trials": 1,
+   "next_readout": "2032-12",
+   "lead_ncts": [
+    "NCT07681778"
+   ],
+   "lead_title": "Safety and Tolerability of Subretinal OPGx-RDH12-1001 for LCA-Associated Inherited Retinal Degeneration (LCA-IRD)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [],
+ "overrides": true
+}

@@ -1,0 +1,36 @@
+{
+ "t": "PLRX",
+ "name": "Pliant Therapeutics, Inc.",
+ "query": "Pliant Therapeutics",
+ "n_studies": 8,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "PLN-101095"
+   ],
+   "n_trials": 1,
+   "next_readout": "2030-06",
+   "lead_ncts": [
+    "NCT06270706"
+   ],
+   "lead_title": "A Phase 1 Study of PLN-101095 in Adults With Advanced or Metastatic Solid Tumors",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Idiopathic pulmonary fibrosis",
+  "Cholestatic liver disease"
+ ]
+}

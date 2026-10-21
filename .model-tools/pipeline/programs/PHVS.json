@@ -1,0 +1,36 @@
+{
+ "t": "PHVS",
+ "name": "Pharvaris N.V.",
+ "query": "Pharvaris",
+ "n_studies": 9,
+ "n_used": 6,
+ "programs": [
+  {
+   "bucket": "Hereditary angioedema",
+   "area": "Hematology",
+   "rate_class": "rare",
+   "stage": 3.0,
+   "pos": 0.5653,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Deucrictibant",
+    "deucrictibant"
+   ],
+   "n_trials": 6,
+   "next_readout": "2027-06",
+   "lead_ncts": [
+    "NCT06343779",
+    "NCT06669754",
+    "NCT07266805"
+   ],
+   "lead_title": "Study of Oral Deucrictibant Soft Capsule for On-Demand Treatment of Angioedema Attacks in Adolescents and Adults With He",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

@@ -1,0 +1,36 @@
+{
+ "t": "PEPG",
+ "name": "PepGen Inc.",
+ "query": "PepGen",
+ "n_studies": 5,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Muscular dystrophy / SMA",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 2.0,
+   "pos": 0.2521,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "PGN-EDODM1",
+    "PGN-EDODM1 for infusion"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-03",
+   "lead_ncts": [
+    "NCT06667453",
+    "NCT07220603",
+    "NCT06204809"
+   ],
+   "lead_title": "A Clinical Study of PGN-EDODM1 in People With Myotonic Dystrophy Type 1",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

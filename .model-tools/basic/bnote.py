@@ -3,10 +3,23 @@ note when one is in the vault: its frontmatter and text are kept, the model sect
 import gzip, json, os, re, sys
 
 D = os.path.dirname(os.path.abspath(__file__))
-VAULT = "/Users/eric/Documents/Vault/Finance/Companies"
+VAULT = os.path.join(os.environ.get("SM_VAULT") or os.path.normpath(f"{D}/../../../Vault"), "Finance", "Companies")
 ROWS = {x["t"]: x for x in json.load(open(f"{D}/tickers.json"))}
 TPL = json.load(open(f"{D}/templates.json"))
-TODAY = "2026-10-20"
+
+
+def close_date(argv):
+    """--close YYYY-MM-DD (removed from argv), else the close the prices in screener_cache.json are from."""
+    if "--close" in argv:
+        i = argv.index("--close")
+        c = argv[i + 1]
+        del argv[i:i + 2]
+        return c
+    return json.load(open(f"{D}/screener_cache.json"))["close"]
+
+
+TODAY = close_date(sys.argv)
+STG = {4: "Approved", 3.5: "Filed (NDA/BLA)", 3.0: "Phase 3", 2.5: "Phase 2/3", 2.0: "Phase 2", 1.5: "Phase 1/2", 1.0: "Phase 1"}          # price close date; also the notes' "Updated" date
 USER_NOTES = {"MRK", "LENZ", "MNKD", "SPRB"}   # existed in the vault before the basic models
 REV = json.load(open(f"{D}/review.json")) if os.path.exists(f"{D}/review.json") else {}
 
@@ -96,6 +109,10 @@ def note(t):
     if K == "DCF" and vr and vr > 3:
         caveats.append("**Check before trusting this:** the value is more than 3× the price. The market may be pricing "
                        "events after the latest filings (reimbursement, guidance, financing) that reported history can't show.")
+    if K == "rNPV" and vr and vr > 3:
+        caveats.append("**Check before trusting this:** the rNPV is more than 3× the price. Small biotechs often trade far "
+                       "below benchmark pipeline value: they need financing (dilution), and the benchmark can't see trial "
+                       "quality, competition or a slow launch.")
     if L.get("bs_end") and L["bs_end"] < "2026-01-01":
         caveats.append(f"Latest balance sheet in SEC XBRL is {L['bs_end']}.")
 
@@ -118,7 +135,7 @@ def note(t):
             o = C.get("opt", {})
             oi_ = {int(k): v for k, v in o.get("inputs", {}).items()}
             ob = (o.get("cases") or {}).get("Base", [None] * 4)
-            B += ["> [!important] Reviewed DCF (close of 2026-10-20)",
+            B += [f"> [!important] Reviewed DCF (close of {TODAY})",
                   f"> - **{usd(m['C11'])} per share vs. {usd(price)} ({pct(m['C12'], sign=True)}).** Bear {usd(S['Bear']['ps'])}, "
                   f"bull {usd(S['Bull']['ps'])}. The basic screen said {usd(RV['basic']['ps'])} ({RV['basic']['up']}).",
                   f"> - **What changed:** revenue now follows guidance and patent expiries "
@@ -131,7 +148,7 @@ def note(t):
                 B.append(f"> - {cv}")
             B.append("> - Model output, not a recommendation. I'm not a licensed advisor.")
             B.append("")
-        B += ["> [!important] Basic DCF (close of 2026-10-20)",
+        B += [f"> [!important] Basic DCF (close of {TODAY})",
               (f"> - **{usd(m['C11'])} per share vs. {usd(price)} ({pct(m['C12'], sign=True)}).** " if m["C11"] >= 0 else
                f"> - **Below zero: {usd(m['C11'])} per share vs. {usd(price)}.** ")
               + 
@@ -152,7 +169,7 @@ def note(t):
         B.append("> - **Not in the model:** product-level forecasts, patent expiries, pipeline, guidance and deals. "
                  "Treat it as a screen, not a price target. I'm not a licensed advisor.")
         if RV:     # keep only the reviewed callout
-            i0 = B.index("> [!important] Basic DCF (close of 2026-10-20)")
+            i0 = B.index(f"> [!important] Basic DCF (close of {TODAY})")
             j0 = next(j for j in range(i0, len(B)) if B[j] == "" or not B[j].startswith(">")) if any(
                 B[j] == "" for j in range(i0, len(B))) else len(B)
             del B[i0:j0]
@@ -161,7 +178,7 @@ def note(t):
                "No revenue, so there are no cash flows to discount." if (L["rev_ttm"] or 0) < 5 else
                f"TTM revenue is {money(L['rev_ttm'], 1)}, below the \\$50M cutoff for a DCF.")
         evv = m["C9"]
-        B += ["> [!important] Net cash basis (close of 2026-10-20)",
+        B += [f"> [!important] Net cash basis (close of {TODAY})",
               f"> - **{esc(why)}** The value shown is net cash: **{usd(m['C11'])} per share vs. {usd(price)} "
               f"({pct(m['C12'], sign=True)})**.",
               (f"> - **The market values the pipeline and business at {money(evv)}** (enterprise value)."
@@ -180,6 +197,35 @@ def note(t):
             B.append(f"> - {cv}")
         B.append("> - A pipeline value needs program-level assumptions (peak sales, odds, timing), like the PDUFA "
                  "models. I'm not a licensed advisor.")
+    elif K == "rNPV":
+        S, n, PR = C["scen"], C["npv"], L["programs"]
+        lead = PR[0]
+        nxt = sorted((p["next_readout"], p["bucket"], p["stage"]) for p in PR if p.get("next_readout"))
+        ip = C.get("implied_peak")
+        imp = (f"**The price implies peak sales about {ip:.1f}× the indication benchmarks** (base case, BIO approval odds, "
+               f"12% discount rate)." if isinstance(ip, (int, float)) else
+               "**Even zero peak sales value the stock above its price** (it trades below the value of its cash after burn)."
+               if ip == "below 0x" else "**The price implies peak sales more than 30× the indication benchmarks.**")
+        B += [f"> [!important] Pipeline rNPV (close of {TODAY})",
+              (f"> - **{usd(m['C11'])} per share vs. {usd(price)} ({pct(m['C12'], sign=True)}).** "
+               if m["C11"] is not None and m["C11"] >= 0 else f"> - **Below zero: {usd(m['C11'])} per share vs. {usd(price)}.** ")
+              + f"Bear {usd(S['Bear']['ps'])}, bull {usd(S['Bull']['ps'])}. Net cash alone is {usd(m.get('C13'))} per share.",
+              f"> - **{len(PR)} program{'s' if len(PR) != 1 else ''} from ClinicalTrials.gov.** Lead: {lead['bucket']} "
+              f"({STG.get(lead['stage'], lead['stage'])}, {pct(lead['pos'])} approval odds, launch ~{lead['launch']})."
+              + (f" Next readout: ~{nxt[0][0]} ({nxt[0][1]})." if nxt else ""),
+              f"> - {imp}"]
+        cfo = m.get("C17")
+        rw = m.get("C18")
+        if isinstance(cfo, (int, float)) and cfo < 0:
+            B.append(f"> - **Burn:** TTM operating cash flow {money(cfo, 1)}"
+                     + (f"; net cash covers about {rw:.1f} years." if isinstance(rw, (int, float)) and rw > 0 else ", with net debt."))
+        for p in PR:
+            if p.get("reg"):
+                B.append(f"> - **{p['bucket']}:** {esc(p['reg'])}.")
+        for cv in caveats:
+            B.append(f"> - {cv}")
+        B.append("> - **Basic model:** indication-level peak sales and industry-average approval odds, not program-specific "
+                 "forecasts. I'm not a licensed advisor.")
     else:
         miss = [x for x, v in (("share count", L["sh"]), ("cash", L["cash"])) if v is None]
         B += ["> [!important] No valuation",
@@ -191,7 +237,7 @@ def note(t):
 
     # snapshot
     B += ["## Snapshot", "", "| Item | Value | Note |", "| --- | --- | --- |",
-          f"| Price | {usd(price)} | Close 2026-10-20 (Screener) |",
+          f"| Price | {usd(price)} | Close {TODAY} (Screener) |",
           f"| Shares | {L['sh']:,.1f}M | {esc(L['shares_src'] if L['shares_src'] != 'template' else 'SEC cover page')} |"
           if L["sh"] else "| Shares | n/a | not in SEC XBRL |",
           f"| Market cap | {money(m['C5'])} | |" if L["sh"] else "| Market cap | n/a | |",
@@ -241,6 +287,42 @@ def note(t):
               "| | " + " | ".join(pct(v, 1) for v in L["tgs"]) + " |", "| --- |" + " --- |" * 5]
         for j, dr in enumerate(L["drs"]):
             B.append(f"| {pct(dr, 1)} | " + " | ".join(usd(v) for v in C["sens"][j]) + " |")
+        B.append("")
+
+    if K == "rNPV":
+        PR, CP, S, n = L["programs"], C["programs"], C["scen"], C["npv"]
+        B += ["## Pipeline", "",
+              "One row per indication, from trials where the company is lead sponsor (or partner of an industry sponsor); "
+              "terminated and withdrawn trials are excluded. Approval odds are the BIO 2011–2020 phase-transition rates for "
+              "the disease area (rare and chronic diseases use the report's own rates).", "",
+              "| Program (indication) | Drug(s) | Stage | Approval odds | Peak sales | Launch | Economics | Risked PV | Next readout | Trials |",
+              "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |"]
+        for p, c in zip(PR, CP):
+            econ = ("owned, " + pct(p["share"]) + " net margin") if p["owned"] and p["share"] == 0.40 else \
+                   ("partnered (" + ", ".join(p.get("partners", [])[:2]) + "), " + pct(p["share"])) if not p["owned"] else pct(p["share"])
+            trials = " ".join(f"[{x}](https://clinicaltrials.gov/study/{x})" for x in p.get("lead_ncts", [])[:3])
+            flags = (" (biomarker niche, 40% of bucket peak)" if p.get("niche") else "") + \
+                    (f" (also {', '.join(p['label_expansions'])})" if p.get("label_expansions") else "")
+            B.append(f"| {p['bucket']}{flags} | {esc(', '.join(p.get('drugs', [])[:2]))[:70]} | {STG.get(p['stage'], p['stage'])} | "
+                     f"{pct(p['pos'])} | {money(p['peak'])} | {p['launch']} | {econ} | {money(c['pv'], 1)} | "
+                     f"{p.get('next_readout') or ''} | {trials} |")
+        meta = L.get("pipe_meta") or {}
+        B += ["", f"Studies found: {meta.get('n_studies')} (sponsor search \"{meta.get('query')}\"); used: {meta.get('n_used')}."
+              + (f" Programs beyond the top 8 not modeled: {', '.join(meta['dropped_programs'])}." if meta.get("dropped_programs") else ""), ""]
+        B += ["## Valuation", "", "| | Bear | Base | Bull |", "| --- | --- | --- | --- |",
+              "| Discount rate | 14% | 12% | 10% |", "| Peak-sales multiplier | 0.6× | 1.0× | 1.4× |",
+              "| Approval-odds multiplier | 0.8× | 1.0× | 1.15× |",
+              "| Pipeline rNPV (operations) | " + " | ".join(money(S[k]["ev"]) for k in ("Bear", "Base", "Bull")) + " |",
+              "| **rNPV / share** | " + " | ".join(("**" + usd(S[k]["ps"]) + "**") if k == "Base" else usd(S[k]["ps"])
+                                                  for k in ("Bear", "Base", "Bull")) + " |",
+              "| Upside | " + " | ".join(pct(S[k]["up"], sign=True) for k in ("Bear", "Base", "Bull")) + " |", "",
+              f"PV of risked pipeline contribution {money(n['pv_contrib'])} + PV of corporate burn {money(n['pv_burn'])} + "
+              f"PV of taxes {money(n['pv_tax'])} = {money(n['ops'])}; plus cash {money(L['cash'])}, less debt "
+              f"{money(L['debt'])} = equity {money(n['eq'])}.", "",
+              "rNPV / share by approval-odds multiplier (rows) and peak-sales multiplier (columns):", "",
+              "| | " + " | ".join(f"{v:g}×" for v in L["pipe"]["pk"]) + " |", "| --- |" + " --- |" * 5]
+        for j, v in enumerate(L["pipe"]["ps"]):
+            B.append(f"| {v:g}× | " + " | ".join(usd(x) for x in C["sens"][j]) + " |")
         B.append("")
 
     if K == "DCF" and P.get("review") and t in REV:
@@ -298,6 +380,20 @@ def note(t):
               f"(gross margin less 15 points, max 20%) and capped at 60%. Bear and bull are ±5 points.",
               f"- **Discount rate** by market cap ({money(L['mcap'])}): 8% above \\$100B, 8.5% \\$20–100B, 9.5% "
               f"\\$5–20B, 11% \\$1–5B, 12.5% below; ±1 point for bear/bull."]
+    if K == "rNPV":
+        B += ["- **Method:** each program's revenue = peak sales × launch ramp (10/25/45/65/85/100% over six years) × "
+              "approval odds, with 12 years of exclusivity and 50% annual erosion after. Owned programs earn a 40% net "
+              "margin (after COGS, SG&A and royalties); partnered programs 12% (royalty / profit share) unless noted.",
+              f"- **Company costs:** the TTM operating loss ({money(L['burn'], 1)}) continues until the first launch "
+              "(at most 4 years), then 30% of it (platform R&D and G&A), scaled by the chance at least one owned program "
+              f"is approved. Taxes at 21% after a tax-loss carryforward of {money(L['nol'])}. Discount rate 12% (14% / 10% "
+              "bear / bull), mid-year from the balance sheet date, 2026–2045.",
+              "- **Approval odds:** BIO / Informa / QLS, *Clinical Development Success Rates 2011–2020* (Feb 2021): "
+              "phase-transition rates by disease area, with Phase 1/2 and 2/3 interpolated, filed NDA/BLA at the area's "
+              "approval rate, and approved products at 100%.",
+              "- **Peak sales:** a table of average peaks for a successful launch in each indication (e.g. lung cancer "
+              "$3B, obesity $6B, rare diseases $0.6–1B). Biomarker-selected oncology niches get 40%. These are "
+              "placeholders; the Pipeline sheet's Peak column is the place to put program-specific estimates."]
     B += [f"- **History:** every fiscal year in SEC XBRL ({'FY' + str(years[0]) + '–FY' + str(years[-1]) if years else 'none'}). "
           f"\"SG&A & Other\" is the balancing line between gross profit, R&D and reported operating income (it "
           f"includes amortization, IPR&D and impairments). Net income is as reported." if years else
@@ -312,6 +408,10 @@ def note(t):
     B += ["", "## Sources", ""]
     src = [f"[SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK{cik:010d}.json)"]
     src += [f"[{lab}]({u})" for lab, u in fl]
+    if K == "rNPV":
+        q = (L.get("pipe_meta") or {}).get("query") or name
+        src.append(f"[ClinicalTrials.gov sponsor search](https://clinicaltrials.gov/search?spons={q.replace(' ', '%20')})")
+        src.append("[BIO Clinical Development Success Rates 2011–2020](https://go.bio.org/rs/490-EHZ-999/images/ClinicalDevelopmentSuccessRates2011_2020.pdf)")
     src.append(f"[EDGAR filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK={cik}&type=&dateb=&owner=include&count=40)")
     B += ["- " + " · ".join(src), "", "Related: [[Basic NPV Models]] · [[Stock Model]]", ""]
     return fm, name, B

@@ -1,0 +1,63 @@
+{
+ "t": "MLTX",
+ "name": "MoonLake Immunotherapeutics",
+ "query": "MoonLake Immunotherapeutics",
+ "n_studies": 10,
+ "n_used": 9,
+ "programs": [
+  {
+   "bucket": "Psoriasis",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.6145,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Sonelokimab",
+    "Risankizumab",
+    "Adalimumab"
+   ],
+   "n_trials": 4,
+   "next_readout": "2027-01-04",
+   "lead_ncts": [
+    "NCT06641076",
+    "NCT06641089",
+    "NCT07223138"
+   ],
+   "lead_title": "Evaluation of Sonelokimab in Patients With Active Psoriatic Arthritis Naive to Biologic Disease-Modifying Antirheumatic ",
+   "niche": false
+  },
+  {
+   "bucket": "Hidradenitis / alopecia / vitiligo",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.6145,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Sonelokimab",
+    "Sonelokimab (M1095)",
+    "Adalimumab"
+   ],
+   "n_trials": 5,
+   "next_readout": "2028-06-13",
+   "lead_ncts": [
+    "NCT06411379",
+    "NCT06411899",
+    "NCT06768671"
+   ],
+   "lead_title": "Study to Evaluate the Efficacy and Safety of Subcutaneous Sonelokimab Compared With Placebo in Adult Participants With M",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

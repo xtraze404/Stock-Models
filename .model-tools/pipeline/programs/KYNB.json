@@ -1,0 +1,59 @@
+{
+ "t": "KYNB",
+ "name": "Kyntra Bio, Inc.",
+ "query": "Kyntra Bio",
+ "n_studies": 62,
+ "n_used": 10,
+ "programs": [
+  {
+   "bucket": "Myelofibrosis / MDS / MPN",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Roxadustat"
+   ],
+   "n_trials": 1,
+   "next_readout": "2030-09",
+   "lead_ncts": [
+    "NCT07722988"
+   ],
+   "lead_title": "A Study to Investigate the Efficacy and Safety of Roxadustat (FG-4592) for Treating Anemia in Participants With Myelodys",
+   "niche": false
+  },
+  {
+   "bucket": "Prostate cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "FG-3246"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-03-31",
+   "lead_ncts": [
+    "NCT06842498"
+   ],
+   "lead_title": "A Study of FG-3246 in Participants With Metastatic Castration-Resistant Prostate Cancer (mCRPC)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Rare hematology",
+  "Kidney disease",
+  "Pancreatic cancer"
+ ]
+}

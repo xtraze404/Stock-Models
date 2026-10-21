@@ -1,0 +1,35 @@
+{
+ "t": "LSTA",
+ "name": "Lisata Therapeutics, Inc.",
+ "query": "Lisata Therapeutics",
+ "n_studies": 17,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Liver cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "certepetide"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05712356"
+   ],
+   "lead_title": "A Study of LSTA1 When Added to Standard of Care Versus Standard of Care Alone in Patients With Advanced Solid Tumors",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Kidney disease"
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "t": "GENB",
+ "name": "Generate Biomedicines Inc",
+ "query": "Generate Biomedicines",
+ "n_studies": 7,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Asthma / COPD",
+   "area": "Respiratory",
+   "rate_class": "chronic",
+   "stage": 3.0,
+   "pos": 0.551,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "GB-0895 (SC)",
+    "GB-0895"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-05",
+   "lead_ncts": [
+    "NCT07276724",
+    "NCT07359846",
+    "NCT07116889"
+   ],
+   "lead_title": "A Study to Investigate GB-0895 Adjunctive Therapy in Adults and Adolescents With Severe Uncontrolled Asthma (SOLAIRIA-1)",
+   "niche": false
+  },
+  {
+   "bucket": "Atopic dermatitis",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.1065,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "GB-7624"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06920693"
+   ],
+   "lead_title": "Study to Investigate the Safety, Tolerability, and Pharmacokinetics of GB-7624 in Healthy Adult Participants",
+   "niche": false
+  },
+  {
+   "bucket": "Bladder / urothelial cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "GB-4362",
+    "enfortumab vedotin (EV)"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-06",
+   "lead_ncts": [
+    "NCT07484022"
+   ],
+   "lead_title": "Study of GB-4362 With Enfortumab Vedotin and Pembrolizumab for Advanced Urothelial Cancer",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

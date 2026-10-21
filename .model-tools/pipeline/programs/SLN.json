@@ -1,0 +1,37 @@
+{
+ "t": "SLN",
+ "name": "Silence Therapeutics PLC",
+ "query": "Silence Therapeutics",
+ "n_studies": 8,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Myelofibrosis / MDS / MPN",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "SLN124"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05499013",
+    "NCT04718844"
+   ],
+   "lead_title": "Study to Assess SLN124 in Patients With Polycythemia Vera",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Thrombosis / cardiovascular",
+  "Lipids / cardiometabolic"
+ ]
+}

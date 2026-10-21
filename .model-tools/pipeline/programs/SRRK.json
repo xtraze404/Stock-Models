@@ -1,0 +1,85 @@
+{
+ "t": "SRRK",
+ "name": "Scholar Rock Holding Corporation",
+ "query": "Scholar Rock",
+ "n_studies": 10,
+ "n_used": 7,
+ "programs": [
+  {
+   "bucket": "Muscular dystrophy / SMA",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 3.5,
+   "pos": 0.936,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2027,
+   "drugs": [
+    "Apitegromab",
+    "Nusinersen",
+    "SRK-015"
+   ],
+   "n_trials": 5,
+   "next_readout": "2026-11-01",
+   "lead_ncts": [
+    "NCT05156320",
+    "NCT05626855",
+    "NCT03921528"
+   ],
+   "lead_title": "Efficacy and Safety of Apitegromab in Patients With Later-Onset Spinal Muscular Atrophy Treated With Nusinersen or Risdi",
+   "niche": false,
+   "reg": "BLA resubmitted Mar 2026, PDUFA Sep 30, 2026; no decision announced in SEC filings through Oct 20"
+  },
+  {
+   "bucket": "Obesity",
+   "area": "Metabolic",
+   "rate_class": "chronic",
+   "stage": 2.0,
+   "pos": 0.1273,
+   "peak": 6000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Apitegromab",
+    "Tirzepatide"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06445075"
+   ],
+   "lead_title": "Efficacy and Safety of Apitegromab for the Treatment of Adults Who Are Overweight or Obese",
+   "niche": false
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "SRK-181",
+    "anti-PD-(L)1 antibody therapy"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04291079"
+   ],
+   "lead_title": "SRK-181 Alone or in Combination With Anti-PD-(L)1 Antibody Therapy in Patients With Locally Advanced or Metastatic Solid",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [],
+ "overrides": true
+}

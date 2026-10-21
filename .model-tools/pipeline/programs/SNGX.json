@@ -1,0 +1,35 @@
+{
+ "t": "SNGX",
+ "name": "Soligenix Inc",
+ "query": "Soligenix",
+ "n_studies": 12,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Psoriasis",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1929,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Hypericin"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05442190"
+   ],
+   "lead_title": "Topical SGX302 for Mild-to-Moderate Psoriasis",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Lymphoma"
+ ]
+}

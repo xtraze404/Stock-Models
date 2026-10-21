@@ -1,0 +1,78 @@
+{
+ "t": "NTHI",
+ "name": "NeOnc Technologies Holdings Inc",
+ "query": "NeOnc Technologies",
+ "n_studies": 4,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "NEO100"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-06",
+   "lead_ncts": [
+    "NCT06357377"
+   ],
+   "lead_title": "A Study of the Safety, Dosing, and Delivery of NEO100 in Patients With Pediatric Brain Tumors",
+   "niche": false
+  },
+  {
+   "bucket": "Gastric / esophageal cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 480,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "NEO212 Oral Capsule",
+    "Regorafenib"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-02-28",
+   "lead_ncts": [
+    "NCT06047379"
+   ],
+   "lead_title": "Safety and Efficacy of NEO212 in Patients With Astrocytoma IDH-mutant, Glioblastoma IDH-wildtype or Brain Metastasis",
+   "niche": true
+  },
+  {
+   "bucket": "Brain cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 320,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "Perillyl alcohol"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-11-30",
+   "lead_ncts": [
+    "NCT02704858"
+   ],
+   "lead_title": "Safety and Efficacy Study in Recurrent or Progressive Grade III or IV IDH1 Mutated Glioma",
+   "niche": true
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

@@ -1,0 +1,33 @@
+{
+ "t": "PBM",
+ "name": "Psyence Biomedical Ltd",
+ "query": "Psyence",
+ "n_studies": 1,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Psilocybin therapy"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-12-30",
+   "lead_ncts": [
+    "NCT07072728"
+   ],
+   "lead_title": "Psilocybin-Assisted Psychotherapy in Cancer Patients With Adjustment Disorder",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

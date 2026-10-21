@@ -1,0 +1,82 @@
+{
+ "t": "MPLT",
+ "name": "MapLight Therapeutics, Inc.",
+ "query": "MapLight Therapeutics",
+ "n_studies": 6,
+ "n_used": 6,
+ "programs": [
+  {
+   "bucket": "Alzheimer's disease",
+   "area": "Neurology",
+   "rate_class": "chronic",
+   "stage": 2.0,
+   "pos": 0.1273,
+   "peak": 4000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "ML-007C-MA"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-12",
+   "lead_ncts": [
+    "NCT06887192",
+    "NCT07459660"
+   ],
+   "lead_title": "A Study to Assess the Efficacy and Safety of ML-007C-MA for the Treatment of Alzheimer's Disease Psychosis",
+   "niche": false
+  },
+  {
+   "bucket": "Schizophrenia / psychosis",
+   "area": "Psychiatry",
+   "rate_class": "chronic",
+   "stage": 2.0,
+   "pos": 0.1273,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "ML-007C-MA",
+    "ML-007C-MA BID",
+    "ML-007C-MA QD"
+   ],
+   "n_trials": 2,
+   "next_readout": "2030-02",
+   "lead_ncts": [
+    "NCT07038876",
+    "NCT07459647"
+   ],
+   "lead_title": "A Study to Assess the Efficacy and Safety of ML-007C-MA for the Treatment of Inpatient Adults With Schizophrenia",
+   "niche": false
+  },
+  {
+   "bucket": "Anxiety / PTSD / addiction",
+   "area": "Psychiatry",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1376,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "ML-004 (IR)/(ER) tablet"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-11",
+   "lead_ncts": [
+    "NCT05081245",
+    "NCT05889273"
+   ],
+   "lead_title": "ML-004 in Adolescents and Adults With Autism Spectrum Disorders (ASD)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

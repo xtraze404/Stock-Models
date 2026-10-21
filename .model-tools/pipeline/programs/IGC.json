@@ -1,0 +1,35 @@
+{
+ "t": "IGC",
+ "name": "IGC Pharma Inc",
+ "query": "IGC Pharma",
+ "n_studies": 2,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Alzheimer's disease",
+   "area": "Neurology",
+   "rate_class": "chronic",
+   "stage": 2.0,
+   "pos": 0.1273,
+   "peak": 4000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "IGC AD1",
+    "IGC-AD1-Active"
+   ],
+   "n_trials": 2,
+   "next_readout": "2026-11",
+   "lead_ncts": [
+    "NCT05543681",
+    "NCT04749563"
+   ],
+   "lead_title": "Clinical Trial on Agitation in Alzheimer's Dementia",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

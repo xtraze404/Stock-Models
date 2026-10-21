@@ -1,0 +1,39 @@
+{
+ "t": "MBRX",
+ "name": "Moleculin Biotech Inc",
+ "query": "Moleculin Biotech",
+ "n_studies": 8,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Leukemia",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.5,
+   "pos": 0.2177,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2030,
+   "drugs": [
+    "Liposomal Annamycin",
+    "Liposomal Annamycin Injection in combination with Cytarabine Injection",
+    "Cytarabine"
+   ],
+   "n_trials": 3,
+   "next_readout": "2029-08",
+   "lead_ncts": [
+    "NCT06788756",
+    "NCT03388749",
+    "NCT05319587"
+   ],
+   "lead_title": "L-Annamycin for Injection in Combination With Cytarabine Injection as Second Line Therapy for Remission Induction in Adu",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Sarcoma / GIST"
+ ]
+}

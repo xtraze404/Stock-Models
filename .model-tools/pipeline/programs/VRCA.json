@@ -1,0 +1,39 @@
+{
+ "t": "VRCA",
+ "name": "Verrica Pharmaceuticals Inc",
+ "query": "Verrica Pharmaceuticals",
+ "n_studies": 10,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Viral infections (other)",
+   "area": "Infectious disease",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.5946,
+   "peak": 600,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "VP-102",
+    "Cantharidin",
+    "VP-102 (US) / TO-208 (Japan)"
+   ],
+   "n_trials": 4,
+   "next_readout": "2027-04",
+   "lead_ncts": [
+    "NCT07637734",
+    "NCT07246590",
+    "NCT07457918"
+   ],
+   "lead_title": "Cantharidin Application in Patients With Common Warts (Verruca Vulgaris) (COVE-3)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Solid tumors (basket)"
+ ]
+}

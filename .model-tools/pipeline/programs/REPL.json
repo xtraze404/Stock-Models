@@ -1,0 +1,86 @@
+{
+ "t": "REPL",
+ "name": "Replimune Group, Inc.",
+ "query": "Replimune",
+ "n_studies": 18,
+ "n_used": 8,
+ "programs": [
+  {
+   "bucket": "Melanoma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 600,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "RP1",
+    "Vusolimogene Oderparepvec",
+    "RP2"
+   ],
+   "n_trials": 3,
+   "next_readout": "2028-06",
+   "lead_ncts": [
+    "NCT06264180",
+    "NCT06581406",
+    "NCT03767348"
+   ],
+   "lead_title": "VO and Nivolumab vs Physician's Choice in Advanced Melanoma That Progressed on Anti-PD-1 & Anti-CTLA-4 Drugs [IGNYTE-3]",
+   "niche": true
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Cemiplimab",
+    "RP1",
+    "RP3"
+   ],
+   "n_trials": 4,
+   "next_readout": "2026-10-31",
+   "lead_ncts": [
+    "NCT04050436",
+    "NCT04349436",
+    "NCT04336241"
+   ],
+   "lead_title": "Study Evaluating Cemiplimab Alone and Combined With RP1 in Treating Advanced Squamous Skin Cancer",
+   "niche": false
+  },
+  {
+   "bucket": "Liver cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "RP2",
+    "RP2 Monotherapy"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-12-01",
+   "lead_ncts": [
+    "NCT05733598"
+   ],
+   "lead_title": "Study of RP2 in Combination With Second-line Therapy in Patients With Locally Advanced or Metastatic HCC",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

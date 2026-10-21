@@ -1,0 +1,64 @@
+{
+ "t": "ALT",
+ "name": "Altimmune Inc",
+ "query": "Altimmune",
+ "n_studies": 20,
+ "n_used": 10,
+ "programs": [
+  {
+   "bucket": "MASH / liver fibrosis",
+   "area": "Metabolic",
+   "rate_class": "chronic",
+   "stage": 3.0,
+   "pos": 0.551,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Pemvidutide",
+    "Atorvastatin"
+   ],
+   "n_trials": 3,
+   "next_readout": "2028-12",
+   "lead_ncts": [
+    "NCT07795164",
+    "NCT05989711",
+    "NCT04972396"
+   ],
+   "lead_title": "Phase 3 Study of the Efficacy, Safety, and Clinical Outcomes of Pemvidutide in MASH",
+   "niche": false
+  },
+  {
+   "bucket": "Anxiety / PTSD / addiction",
+   "area": "Psychiatry",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1376,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Pemvidutide",
+    "ALT-801"
+   ],
+   "n_trials": 4,
+   "next_readout": "2027-09-30",
+   "lead_ncts": [
+    "NCT06987513",
+    "NCT07009860",
+    "NCT05006885"
+   ],
+   "lead_title": "RECLAIM STUDY: Phase 2 Study of the Efficacy and Safety of Pemvidutide in the Treatment of Alcohol Use Disorder (AUD) in",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Type 2 diabetes",
+  "Obesity"
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "t": "CELZ",
+ "name": "Creative Medical Technology Holdings Inc",
+ "query": "Creative Medical Technology",
+ "n_studies": 4,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Type 2 diabetes",
+   "area": "Metabolic",
+   "rate_class": "chronic",
+   "stage": 1.5,
+   "pos": 0.0863,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "CELZ-201 Administration"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-01-31",
+   "lead_ncts": [
+    "NCT05626712"
+   ],
+   "lead_title": "Safety and Efficacy of CELZ-201 in Patients With Recent Onset Type 1 Diabetes",
+   "niche": false
+  },
+  {
+   "bucket": "Migraine / pain",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0852,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "CELZ-201-DDT"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-01-20",
+   "lead_ncts": [
+    "NCT06053242"
+   ],
+   "lead_title": "Safety, Tolerability, and Effectiveness of Intramuscular Injection of CELZ-201-DDT for the Treatment of Chronic Lower Ba",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

@@ -1,0 +1,82 @@
+{
+ "t": "OMER",
+ "name": "Omeros Corporation",
+ "query": "Omeros",
+ "n_studies": 29,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Transplant / GVHD",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 4,
+   "pos": 1.0,
+   "peak": 500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2026,
+   "drugs": [
+    "Yartemlea (narsoplimab)"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05855083"
+   ],
+   "lead_title": "Efficacy and Safety Study of Narsoplimab in Pediatric Patients With High-Risk Hematopoietic Stem Cell Transplant TMA",
+   "niche": false,
+   "reg": "YARTEMLEA (narsoplimab) approved Dec 23, 2025 for transplant-associated TMA"
+  },
+  {
+   "bucket": "Kidney disease",
+   "area": "Other",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.2047,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "OMS906 study drug"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06209736"
+   ],
+   "lead_title": "Safety and Efficacy Study of OMS906 in Patients With C3G and ICGN",
+   "niche": false
+  },
+  {
+   "bucket": "Rare hematology",
+   "area": "Hematology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.3439,
+   "peak": 700,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "OMS906",
+    "OMS906 study drug"
+   ],
+   "n_trials": 3,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT05972967",
+    "NCT06298955",
+    "NCT05889299"
+   ],
+   "lead_title": "Safety and Efficacy of OMS906 in Paroxysmal Nocturnal Hemoglobinuria Patients With a Sub-optimal Response to Ravulizumab",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [],
+ "overrides": true
+}

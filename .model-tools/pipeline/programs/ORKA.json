@@ -1,0 +1,59 @@
+{
+ "t": "ORKA",
+ "name": "Oruka Therapeutics Inc",
+ "query": "Oruka Therapeutics",
+ "n_studies": 7,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Psoriasis",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1929,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "ORKA-001",
+    "ORKA-002",
+    "ORKA-001 Induction Dose"
+   ],
+   "n_trials": 4,
+   "next_readout": "2027-06",
+   "lead_ncts": [
+    "NCT07090330",
+    "NCT07290569",
+    "NCT07474792"
+   ],
+   "lead_title": "ORKA-001 Versus Placebo in Patients With Moderate-to-Severe Plaque Psoriasis",
+   "niche": false
+  },
+  {
+   "bucket": "Hidradenitis / alopecia / vitiligo",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1929,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "ORKA-002"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-10",
+   "lead_ncts": [
+    "NCT07783542"
+   ],
+   "lead_title": "ORKA-002 Versus Placebo in Participants With Moderate-to-Severe Hidradenitis Suppurativa",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

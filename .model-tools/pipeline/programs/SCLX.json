@@ -1,0 +1,12 @@
+{
+ "t": "SCLX",
+ "name": "Scilex Holding Co",
+ "query": "Scilex",
+ "n_studies": 19,
+ "n_used": 2,
+ "programs": [],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Migraine / pain"
+ ]
+}

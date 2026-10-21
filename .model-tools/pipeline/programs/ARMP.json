@@ -1,0 +1,13 @@
+{
+ "t": "ARMP",
+ "name": "Armata Pharmaceuticals, Inc.",
+ "query": "Armata Pharmaceuticals",
+ "n_studies": 13,
+ "n_used": 3,
+ "programs": [],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Bacterial / fungal infections",
+  "Cystic fibrosis / bronchiectasis"
+ ]
+}

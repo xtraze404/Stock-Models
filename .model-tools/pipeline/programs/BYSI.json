@@ -1,0 +1,34 @@
+{
+ "t": "BYSI",
+ "name": "Beyondspring Inc",
+ "query": "Beyondspring",
+ "n_studies": 10,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Lung cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Plinabulin"
+   ],
+   "n_trials": 2,
+   "next_readout": "2029-06-01",
+   "lead_ncts": [
+    "NCT02504489",
+    "NCT07361484"
+   ],
+   "lead_title": "Docetaxel + Plinabulin Compared to Docetaxel + Placebo in Patients With Advanced NSCLC",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

@@ -1,0 +1,35 @@
+{
+ "t": "NGNE",
+ "name": "Neurogene Inc.",
+ "query": "Neurogene",
+ "n_studies": 6,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Rare neurodevelopmental",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 3.0,
+   "pos": 0.5653,
+   "peak": 600,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "NGN-401"
+   ],
+   "n_trials": 1,
+   "next_readout": "2029-12",
+   "lead_ncts": [
+    "NCT05898620"
+   ],
+   "lead_title": "A Novel, Regulated Gene Therapy (NGN-401) Study for Females With Rett Syndrome",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Solid tumors (basket)"
+ ]
+}

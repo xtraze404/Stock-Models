@@ -1,0 +1,38 @@
+{
+ "t": "CING",
+ "name": "Cingulate Inc",
+ "query": "Cingulate",
+ "n_studies": 6,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Anxiety / PTSD / addiction",
+   "area": "Psychiatry",
+   "rate_class": "area",
+   "stage": 3.5,
+   "pos": 0.912,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2027,
+   "drugs": [
+    "CTx-1301 - Dexmethylphenidate 25mg",
+    "CTx-1301 - Dexmethylphenidate 37.5mg",
+    "CTx-1301-Dexmethylphenidate 12.5 mg (titration only)"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05631626",
+    "NCT05286762"
+   ],
+   "lead_title": "Phase 3 Efficacy and Safety Study in Adults With ADHD Using CTx-1301.",
+   "niche": false,
+   "reg": "CRL May 31, 2026 (CMC only); resubmission expected"
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [],
+ "overrides": true
+}

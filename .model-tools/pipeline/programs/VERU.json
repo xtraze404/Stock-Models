@@ -1,0 +1,36 @@
+{
+ "t": "VERU",
+ "name": "Veru Inc.",
+ "query": "Veru",
+ "n_studies": 12,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Obesity",
+   "area": "Metabolic",
+   "rate_class": "chronic",
+   "stage": 2.0,
+   "pos": 0.1273,
+   "peak": 6000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Enobosarm"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-10",
+   "lead_ncts": [
+    "NCT06282458",
+    "NCT07446998"
+   ],
+   "lead_title": "Dose-Finding Study Evaluating Effect on Body Composition of Enobosarm in Patients Taking a GLP-1 for Chronic Weight Mgmt",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Vaccines / respiratory viruses"
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "t": "IXHL",
+ "name": "Incannex Healthcare Inc",
+ "query": "Incannex Healthcare",
+ "n_studies": 4,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Movement / sleep disorders",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 2.5,
+   "pos": 0.2383,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2030,
+   "drugs": [
+    "IHL-42X Low Dose",
+    "IHL-42X High Dose",
+    "IHL42X"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-04",
+   "lead_ncts": [
+    "NCT06146101",
+    "NCT07635563",
+    "NCT05857384"
+   ],
+   "lead_title": "RePOSA-Revealing the Efficacy of IHL-42X Use in Patients With OSA",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

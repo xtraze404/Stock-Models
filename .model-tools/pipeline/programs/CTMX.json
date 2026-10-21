@@ -1,0 +1,39 @@
+{
+ "t": "CTMX",
+ "name": "CytomX Therapeutics, Inc.",
+ "query": "CytomX Therapeutics",
+ "n_studies": 9,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "CX-2029",
+    "CX-2051",
+    "CX-801"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-11-30",
+   "lead_ncts": [
+    "NCT03543813",
+    "NCT06265688",
+    "NCT06462794"
+   ],
+   "lead_title": "PROCLAIM-CX-2029: A Trial to Find Safe and Active Doses of an Investigational Drug CX-2029 for Patients With Solid Tumor",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Breast cancer"
+ ]
+}

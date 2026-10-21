@@ -1,0 +1,57 @@
+{
+ "t": "FTH",
+ "name": "Faeth Therapeutics, Inc",
+ "query": "Faeth Therapeutics",
+ "n_studies": 6,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Breast cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "Serabelisib",
+    "Sapanisertib"
+   ],
+   "n_trials": 1,
+   "next_readout": "2029-05",
+   "lead_ncts": [
+    "NCT07558733"
+   ],
+   "lead_title": "Sapanisertib and Serabelisib (PIKTOR) in Various Combinations in Patients With HR+/HER2- Advanced/Metastatic Breast Canc",
+   "niche": false
+  },
+  {
+   "bucket": "Gynecologic cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Sapanisertib",
+    "Serabelisib"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-09",
+   "lead_ncts": [
+    "NCT06463028"
+   ],
+   "lead_title": "Sapanisertib and Serabelisib (PIKTOR) With Paclitaxel and a Substudy With an Insulin-Suppressing Diet in Patients With A",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

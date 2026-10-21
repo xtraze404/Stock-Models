@@ -1,0 +1,12 @@
+{
+ "t": "EDSA",
+ "name": "Edesa Biotech Inc",
+ "query": "Edesa Biotech",
+ "n_studies": 6,
+ "n_used": 1,
+ "programs": [],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Eosinophilic / allergy"
+ ]
+}

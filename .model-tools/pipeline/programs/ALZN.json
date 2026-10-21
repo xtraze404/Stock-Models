@@ -1,0 +1,58 @@
+{
+ "t": "ALZN",
+ "name": "Alzamend Neuro Inc",
+ "query": "Alzamend Neuro",
+ "n_studies": 4,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Alzheimer's disease",
+   "area": "Neurology",
+   "rate_class": "chronic",
+   "stage": 1.5,
+   "pos": 0.0863,
+   "peak": 4000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "AL001",
+    "ALZN002 (autologous DCs pulsed with E22W mutant peptide)."
+   ],
+   "n_trials": 2,
+   "next_readout": "2028-03-03",
+   "lead_ncts": [
+    "NCT05363293",
+    "NCT05834296"
+   ],
+   "lead_title": "Multiple Ascending Dose Safety, Tolerability, PK Study of AL001 in Alzheimer's Disease Patients & Healthy Adult Subjects",
+   "niche": false
+  },
+  {
+   "bucket": "Depression / mood",
+   "area": "Psychiatry",
+   "rate_class": "chronic",
+   "stage": 1.5,
+   "pos": 0.0863,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "AL001",
+    "Lithium carbonate"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT07540338"
+   ],
+   "lead_title": "A Study to Investigate Lithium Brain/Plasma Pharmacokinetics and Safety of an AL001 Oral Capsule Compared to a Marketed ",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

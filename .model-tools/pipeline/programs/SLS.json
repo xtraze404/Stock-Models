@@ -1,0 +1,60 @@
+{
+ "t": "SLS",
+ "name": "Sellas Life Sciences Group Inc",
+ "query": "Sellas Life Sciences",
+ "n_studies": 9,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Leukemia",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Galinpepimut-S",
+    "Decitabine",
+    "galinpepimut-S"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04229979",
+    "NCT03761914"
+   ],
+   "lead_title": "Galinpepimut-S Versus Investigator's Choice of Best Available Therapy for Maintenance in AML CR2/CRp2",
+   "niche": false
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "SLS009"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-12-30",
+   "lead_ncts": [
+    "NCT04588922"
+   ],
+   "lead_title": "Study of SLS009 (Formerly GFH009) a Potent Highly Selective CDK9 Inhibitor in Patients With Hematologic Malignancies and",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Breast cancer"
+ ]
+}

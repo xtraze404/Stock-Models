@@ -1,0 +1,35 @@
+{
+ "t": "CMMB",
+ "name": "Chemomab Therapeutics Ltd",
+ "query": "Chemomab",
+ "n_studies": 6,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Cholestatic liver disease",
+   "area": "Gastroenterology",
+   "rate_class": "rare",
+   "stage": 2.0,
+   "pos": 0.2521,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Anti-human CCL24 monoclonal antibody (CM-101)"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04595825"
+   ],
+   "lead_title": "CM-101 in PSC Patients -The SPRING Study",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "MASH / liver fibrosis"
+ ]
+}

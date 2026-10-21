@@ -1,0 +1,59 @@
+{
+ "t": "JANX",
+ "name": "Janux Therapeutics, Inc.",
+ "query": "Janux Therapeutics",
+ "n_studies": 5,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Lung cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "JANX008"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05783622"
+   ],
+   "lead_title": "Study of JANX008 in Subjects With Advanced or Metastatic Solid Tumor Malignancies",
+   "niche": false
+  },
+  {
+   "bucket": "Prostate cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "JANX007",
+    "JANX013",
+    "Darolutamide"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-07",
+   "lead_ncts": [
+    "NCT05519449",
+    "NCT07545811",
+    "NCT07813637"
+   ],
+   "lead_title": "Study of JANX007 in Subjects With Metastatic Castration-Resistant Prostate Cancer (ENGAGER-PSMA-01)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

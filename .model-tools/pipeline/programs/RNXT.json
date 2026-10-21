@@ -1,0 +1,31 @@
+{
+ "t": "RNXT",
+ "name": "RenovoRx Inc",
+ "query": "RenovoRx",
+ "n_studies": 4,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Pancreatic cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [],
+   "n_trials": 1,
+   "next_readout": "2027-06",
+   "lead_ncts": [
+    "NCT03257033"
+   ],
+   "lead_title": "Intra-arterial Gemcitabine vs. IV Gemcitabine and Nab-Paclitaxel Following Radiotherapy for LAPC",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

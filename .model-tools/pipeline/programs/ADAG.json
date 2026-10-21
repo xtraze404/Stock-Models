@@ -1,0 +1,64 @@
+{
+ "t": "ADAG",
+ "name": "Adagene Inc.",
+ "query": "Adagene",
+ "n_studies": 14,
+ "n_used": 8,
+ "programs": [
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "ADG106",
+    "ADG116",
+    "ADG126"
+   ],
+   "n_trials": 6,
+   "next_readout": "2026-10-31",
+   "lead_ncts": [
+    "NCT04645069",
+    "NCT05405595",
+    "NCT03802955"
+   ],
+   "lead_title": "ADG126, ADG126 in Combination With Anti PD1 Antibody, and ADG126 in Combination With ADG106 in Advanced/Metastatic Solid",
+   "niche": false
+  },
+  {
+   "bucket": "Liver cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1200,
+   "owned": false,
+   "partners": [
+    "Hoffmann-La Roche"
+   ],
+   "share": 0.12,
+   "launch": 2032,
+   "drugs": [
+    "Tiragolumab",
+    "Tocilizumab"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-07-30",
+   "lead_ncts": [
+    "NCT04524871"
+   ],
+   "lead_title": "A Study Evaluating the Efficacy and Safety of Multiple Immunotherapy-Based Treatment Combinations in Patients With Advan",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Lymphoma"
+ ]
+}

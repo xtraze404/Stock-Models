@@ -1,0 +1,84 @@
+{
+ "t": "ACIU",
+ "name": "AC Immune AG",
+ "query": "AC Immune",
+ "n_studies": 10,
+ "n_used": 6,
+ "programs": [
+  {
+   "bucket": "Alzheimer's disease",
+   "area": "Neurology",
+   "rate_class": "chronic",
+   "stage": 1.5,
+   "pos": 0.0863,
+   "peak": 4000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "ACI-35.030",
+    "ACI-24.060 at Dose A in Study Part 1a",
+    "ACI-24.060 at Dose B in Study Part 1a"
+   ],
+   "n_trials": 3,
+   "next_readout": "2026-11",
+   "lead_ncts": [
+    "NCT04445831",
+    "NCT05462106",
+    "NCT06891716"
+   ],
+   "lead_title": "A Study to Evaluate the Safety, Tolerability and Immunogenicity of Tau Targeted Vaccines in Participants With Early Alzh",
+   "niche": false
+  },
+  {
+   "bucket": "Obesity",
+   "area": "Metabolic",
+   "rate_class": "chronic",
+   "stage": 1.0,
+   "pos": 0.0585,
+   "peak": 6000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "ACI-19764 at dose A1",
+    "ACI-19764 at dose A2"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT07463196"
+   ],
+   "lead_title": "A Study Investigating the Safety, Absorption, Elimination, and the Effect on the Immune System of ACI-19764 in Healthy P",
+   "niche": false
+  },
+  {
+   "bucket": "Parkinson's disease",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1234,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "ACI-7104.056 at Dose A",
+    "ACI-7104.056 at Dose B (optional)"
+   ],
+   "n_trials": 2,
+   "next_readout": "2028-06",
+   "lead_ncts": [
+    "NCT06015841",
+    "NCT06891703"
+   ],
+   "lead_title": "A Study to Evaluate the Effects of ACI-7104.056 in Patients With Early Stages of Parkinson's Disease",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

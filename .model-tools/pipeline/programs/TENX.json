@@ -1,0 +1,58 @@
+{
+ "t": "TENX",
+ "name": "Tenax Therapeutics Inc",
+ "query": "Tenax Therapeutics",
+ "n_studies": 9,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Heart failure",
+   "area": "Cardiovascular",
+   "rate_class": "chronic",
+   "stage": 3.0,
+   "pos": 0.551,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "TNX-103",
+    "Levosimendan"
+   ],
+   "n_trials": 3,
+   "next_readout": "2028-06-30",
+   "lead_ncts": [
+    "NCT07288398",
+    "NCT07436689",
+    "NCT03624010"
+   ],
+   "lead_title": "LEVEL-2: LEVosimendan to Improve Exercise Limitation in Patients With PH-HFpEF-2",
+   "niche": false
+  },
+  {
+   "bucket": "Pulmonary hypertension",
+   "area": "Cardiovascular",
+   "rate_class": "rare",
+   "stage": 3.0,
+   "pos": 0.5653,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "TNX-103"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05983250"
+   ],
+   "lead_title": "LEVosimendan to Improve Exercise Limitation in Patients With PH-HFpEF",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

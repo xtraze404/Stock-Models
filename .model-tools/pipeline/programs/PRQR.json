@@ -1,0 +1,37 @@
+{
+ "t": "PRQR",
+ "name": "ProQR Therapeutics NV",
+ "query": "ProQR Therapeutics",
+ "n_studies": 7,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Inherited retinal disease",
+   "area": "Ophthalmology",
+   "rate_class": "rare",
+   "stage": 2.5,
+   "pos": 0.3776,
+   "peak": 500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2030,
+   "drugs": [
+    "sepofarsen",
+    "QR-1123",
+    "QR-421a"
+   ],
+   "n_trials": 3,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT03913143",
+    "NCT03780257",
+    "NCT04123626"
+   ],
+   "lead_title": "A Study to Evaluate Efficacy, Safety, Tolerability and Exposure After a Repeat-dose of Sepofarsen (QR-110) in LCA10 (ILL",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

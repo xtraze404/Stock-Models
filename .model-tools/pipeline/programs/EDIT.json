@@ -1,0 +1,34 @@
+{
+ "t": "EDIT",
+ "name": "Editas Medicine, Inc.",
+ "query": "Editas Medicine",
+ "n_studies": 5,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Sickle cell / thalassemia",
+   "area": "Hematology",
+   "rate_class": "rare",
+   "stage": 1.5,
+   "pos": 0.207,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "EDIT-301"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04853576",
+    "NCT05444894"
+   ],
+   "lead_title": "A Study Evaluating the Safety and Efficacy of EDIT-301 in Participants With Severe Sickle Cell Disease (RUBY)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

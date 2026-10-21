@@ -1,0 +1,34 @@
+{
+ "t": "BRVE",
+ "name": "Braveheart Bio, Inc.",
+ "query": "Braveheart Bio",
+ "n_studies": 1,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Cardiomyopathy",
+   "area": "Cardiovascular",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4554,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "BHB-1893",
+    "Metoprolol"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-10",
+   "lead_ncts": [
+    "NCT07755904"
+   ],
+   "lead_title": "BHB-1893 Versus Metoprolol for Symptomatic Obstructive Hypertrophic Cardiomyopathy",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

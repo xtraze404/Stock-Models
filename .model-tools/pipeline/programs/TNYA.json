@@ -1,0 +1,35 @@
+{
+ "t": "TNYA",
+ "name": "Tenaya Therapeutics, Inc.",
+ "query": "Tenaya Therapeutics",
+ "n_studies": 4,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Cardiomyopathy",
+   "area": "Cardiovascular",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0676,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "TN-201",
+    "TN-401"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-08",
+   "lead_ncts": [
+    "NCT05836259",
+    "NCT06228924"
+   ],
+   "lead_title": "Multi-center, Open-label, Single-ascending Dose Study of Safety and Tolerability of TN-201 in Adults With Symptomatic MY",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

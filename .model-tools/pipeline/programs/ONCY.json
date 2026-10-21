@@ -1,0 +1,79 @@
+{
+ "t": "ONCY",
+ "name": "Oncolytics Biotech Inc",
+ "query": "Oncolytics Biotech",
+ "n_studies": 23,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Breast cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Pelareorep",
+    "Avelumab"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04215146"
+   ],
+   "lead_title": "A Study to Assess Overall Response Rate by Inducing an Inflammatory Phenotype in Metastatic BReast cAnCEr With the Oncol",
+   "niche": false
+  },
+  {
+   "bucket": "Colorectal cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Pelareorep"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-08-30",
+   "lead_ncts": [
+    "NCT07446322"
+   ],
+   "lead_title": "FOLFIRI and Bevacizumab With or Without Pelareorep for Second-Line Treatment of Metastatic RAS-Mutated, Microsatellite-S",
+   "niche": false
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "Pelareorep",
+    "Trifluridine Tipiracil"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-07-30",
+   "lead_ncts": [
+    "NCT07280377"
+   ],
+   "lead_title": "A Study in Advanced or Metastatic Gastrointestinal Cancers Exploring Treatment Combinations With Pelareorep and Atezoliz",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

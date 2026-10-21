@@ -1,0 +1,170 @@
+{
+ "t": "CGEM",
+ "name": "Cullinan Therapeutics, Inc.",
+ "query": "Cullinan Therapeutics",
+ "n_studies": 12,
+ "n_used": 9,
+ "programs": [
+  {
+   "bucket": "Lung cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.5,
+   "pos": 0.92,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.2,
+   "launch": 2027,
+   "drugs": [
+    "zipalertinib (CLN-081)"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04036682"
+   ],
+   "lead_title": "A Phase 1/2 Trial of CLN-081 in Patients With Non-Small Cell Lung Cancer",
+   "niche": true,
+   "reg": "NDA for zipalertinib (EGFR exon 20 NSCLC, with Taiho), PDUFA Feb 27, 2027; Cullinan shares US profits 50/50 with Taiho (economics set to 20% of sales)"
+  },
+  {
+   "bucket": "Rheumatoid / spondyloarthritis",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.1065,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "CLN-978"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-12-30",
+   "lead_ncts": [
+    "NCT06994143"
+   ],
+   "lead_title": "A Study of CLN-978, a Subcutaneously Administered CD19-directed T Cell Engager, in Subjects With Rheumatoid Arthritis",
+   "niche": false
+  },
+  {
+   "bucket": "Rare autoimmune",
+   "area": "Autoimmune",
+   "rate_class": "rare",
+   "stage": 1.5,
+   "pos": 0.207,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "Velinotamig specified dose on specified days."
+   ],
+   "n_trials": 1,
+   "next_readout": "2029-01",
+   "lead_ncts": [
+    "NCT07738822"
+   ],
+   "lead_title": "A Phase 1b/2a Study of Velinotamig in Adults With Relapsed/Refractory ITP and wAIHA",
+   "niche": false
+  },
+  {
+   "bucket": "Lupus / Sjogren's",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.1065,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "CLN-978"
+   ],
+   "n_trials": 2,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT06613360",
+    "NCT07041099"
+   ],
+   "lead_title": "A Study of CLN-978, a Subcutaneously Administered CD19-directed T Cell Engager, in Subjects With Systemic Lupus Erythema",
+   "niche": false
+  },
+  {
+   "bucket": "Multiple myeloma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "CLN-619"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06381141"
+   ],
+   "lead_title": "A Study of CLN-619 (Anti-MICA/MICB Antibody) in Patients With Relapsed and Refractory Multiple Myeloma",
+   "niche": false
+  },
+  {
+   "bucket": "Leukemia",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "CLN-049"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-01",
+   "lead_ncts": [
+    "NCT05143996",
+    "NCT07722767"
+   ],
+   "lead_title": "CLN-049 in Patients With Relapsed/Refractory Acute Myeloid Leukemia (AML) or Myelodysplastic Syndrome (MDS)",
+   "niche": false
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "CLN-619",
+    "Datopotamab deruxtecan-dlnk (Dato-DXd)"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05117476"
+   ],
+   "lead_title": "A Study of CLN-619 Alone and in Combination With Pembrolizumab in Advanced Solid Tumors",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [],
+ "overrides": true
+}

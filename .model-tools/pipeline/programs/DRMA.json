@@ -1,0 +1,33 @@
+{
+ "t": "DRMA",
+ "name": "Dermata Therapeutics Inc",
+ "query": "Dermata Therapeutics",
+ "n_studies": 6,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Dermatology (other)",
+   "area": "Other",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.5304,
+   "peak": 500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "DMT310"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06090721"
+   ],
+   "lead_title": "DMT310-009 Topical in the Treatment of Acne Vulgaris",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

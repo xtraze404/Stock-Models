@@ -1,0 +1,37 @@
+{
+ "t": "OTLK",
+ "name": "Outlook Therapeutics Inc",
+ "query": "Outlook Therapeutics",
+ "n_studies": 5,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Retinal disease (AMD / DME)",
+   "area": "Ophthalmology",
+   "rate_class": "area",
+   "stage": 4,
+   "pos": 1.0,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2026,
+   "drugs": [
+    "Lytenava (bevacizumab-vikg)"
+   ],
+   "n_trials": 4,
+   "next_readout": "2027-12",
+   "lead_ncts": [
+    "NCT04516278",
+    "NCT03834753",
+    "NCT06190093"
+   ],
+   "lead_title": "A 3-month Study to Assess the Safety of ONS-5010 in Subjects With Visual Impairment Due to Retinal Disorders",
+   "niche": false,
+   "reg": "LYTENAVA approved Jul 24, 2026 for wet AMD (ophthalmic bevacizumab)"
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [],
+ "overrides": true
+}

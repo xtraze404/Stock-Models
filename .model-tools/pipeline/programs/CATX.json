@@ -1,0 +1,82 @@
+{
+ "t": "CATX",
+ "name": "Perspective Therapeutics, Inc.",
+ "query": "Perspective Therapeutics",
+ "n_studies": 6,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Melanoma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "[203Pb]VMT01",
+    "[68Ga]VMT02",
+    "[212Pb]VMT01"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-12-31",
+   "lead_ncts": [
+    "NCT05655312",
+    "NCT04904120"
+   ],
+   "lead_title": "MC1R-targeted Alpha-particle Monotherapy and Combination Therapy Trial With Nivolumab in Adults With Advanced Melanoma",
+   "niche": false
+  },
+  {
+   "bucket": "Gastric / esophageal cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "[203Pb]Pb-PSV359",
+    "[212Pb]Pb-PSV359"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-01-31",
+   "lead_ncts": [
+    "NCT06710756"
+   ],
+   "lead_title": "Lead-212 PSV359 Therapy for Patients With Solid Tumors",
+   "niche": false
+  },
+  {
+   "bucket": "Thyroid / neuroendocrine cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 600,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "[203Pb]VMT-\u03b1-NET",
+    "[212Pb]VMT-\u03b1-NET"
+   ],
+   "n_trials": 1,
+   "next_readout": "2029-11-26",
+   "lead_ncts": [
+    "NCT05636618"
+   ],
+   "lead_title": "Targeted Alpha-Particle Therapy for Advanced Somatostatin Receptor Type 2 (SSTR2) Positive Tumors",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

@@ -1,0 +1,79 @@
+{
+ "t": "RCKT",
+ "name": "Rocket Pharmaceuticals, Inc.",
+ "query": "Rocket Pharmaceuticals",
+ "n_studies": 20,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "LAD-I (Kresladi)",
+   "area": "Hematology",
+   "rate_class": "rare",
+   "stage": 4,
+   "peak": 150,
+   "owned": true,
+   "launch": 2026,
+   "drugs": [
+    "Kresladi (marnetegragene autotemcel)"
+   ],
+   "reg": "Accelerated approval Mar 2026 for severe LAD-I; priority review voucher granted",
+   "partners": [],
+   "n_trials": 0,
+   "next_readout": null,
+   "lead_ncts": [],
+   "lead_title": "",
+   "pos": 1.0,
+   "share": 0.4
+  },
+  {
+   "bucket": "Rare hematology",
+   "area": "Hematology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.3439,
+   "peak": 700,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "RP-L102"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04069533",
+    "NCT04248439"
+   ],
+   "lead_title": "Lentiviral-mediated Gene Therapy for Pediatric Patients With Fanconi Anemia Subtype A",
+   "niche": false
+  },
+  {
+   "bucket": "Cardiomyopathy",
+   "area": "Cardiovascular",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0478,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "RP-A601",
+    "RP-A701 is a recombinant viral vector composed of an AAV serotype rh.74 (AAVrh.74) capsid encapsulating the transgene, BCL2-associated Athanogene 3 (BAG3)"
+   ],
+   "n_trials": 2,
+   "next_readout": "2028-09",
+   "lead_ncts": [
+    "NCT05885412",
+    "NCT07137338"
+   ],
+   "lead_title": "A Phase 1, Dose Escalation Trial of RP-A601 in Subjects With PKP2 Variant-Mediated Arrhythmogenic Cardiomyopathy (PKP2-A",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [],
+ "overrides": true
+}

@@ -1,0 +1,60 @@
+{
+ "t": "PCVX",
+ "name": "Vaxcyte, Inc.",
+ "query": "Vaxcyte",
+ "n_studies": 9,
+ "n_used": 9,
+ "programs": [
+  {
+   "bucket": "Pneumococcal vaccine",
+   "area": "Infectious disease",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.5946,
+   "peak": 6000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "31-valent pneumococcal conjugate vaccine",
+    "20 valent pneumococcal conjugate vaccine",
+    "31 valent pneumococcal conjugate vaccine"
+   ],
+   "n_trials": 8,
+   "next_readout": "2027-03",
+   "lead_ncts": [
+    "NCT07284654",
+    "NCT07365826",
+    "NCT07425392"
+   ],
+   "lead_title": "Safety, Tolerability, and Immunogenicity of VAX-31 in Adults \u226550 Years With Immunobridging to Adults 18-49",
+   "niche": false
+  },
+  {
+   "bucket": "Bacterial / fungal infections",
+   "area": "Infectious disease",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.132,
+   "peak": 500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "VAX-A1 Low",
+    "VAX-A1 Mid"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-12",
+   "lead_ncts": [
+    "NCT07616934"
+   ],
+   "lead_title": "A Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of VAX-A1 in Healthy Young Adults",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

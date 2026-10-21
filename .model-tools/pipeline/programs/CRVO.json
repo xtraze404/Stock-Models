@@ -1,0 +1,61 @@
+{
+ "t": "CRVO",
+ "name": "CervoMed Inc",
+ "query": "CervoMed",
+ "n_studies": 4,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Alzheimer's disease",
+   "area": "Neurology",
+   "rate_class": "chronic",
+   "stage": 2.0,
+   "pos": 0.1273,
+   "peak": 4000,
+   "owned": false,
+   "partners": [
+    "EIP Pharma Inc"
+   ],
+   "share": 0.12,
+   "launch": 2031,
+   "drugs": [
+    "neflamapimod",
+    "Neflamapimod"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05869669",
+    "NCT06815965"
+   ],
+   "lead_title": "RewinD-LB - Clinical Study of Neflamapimod in Patients With Dementia With Lewy Bodies",
+   "niche": false
+  },
+  {
+   "bucket": "Thrombosis / cardiovascular",
+   "area": "Cardiovascular",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.0956,
+   "peak": 1500,
+   "owned": false,
+   "partners": [
+    "EIP Pharma Inc"
+   ],
+   "share": 0.12,
+   "launch": 2031,
+   "drugs": [
+    "Neflamapimod"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06987643"
+   ],
+   "lead_title": "A Clinical Study to Investigate the Effect of Oral Neflamapimod on Motor Recovery After Acute Ischaemic Stroke",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

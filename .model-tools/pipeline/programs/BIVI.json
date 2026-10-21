@@ -1,0 +1,58 @@
+{
+ "t": "BIVI",
+ "name": "BioVie Inc",
+ "query": "BioVie",
+ "n_studies": 8,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Vaccines / respiratory viruses",
+   "area": "Infectious disease",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.2283,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "NE3107"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06847191"
+   ],
+   "lead_title": "NE3107 in Adults With Neurological Symptoms of Long COVID",
+   "niche": false
+  },
+  {
+   "bucket": "Parkinson's disease",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1234,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "NE3107"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06757010",
+    "NCT05083260"
+   ],
+   "lead_title": "A Study of NE3107 in Early Parkinson's",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Alzheimer's disease"
+ ]
+}

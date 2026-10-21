@@ -1,0 +1,36 @@
+{
+ "t": "INKT",
+ "name": "Mink Therapeutics Inc",
+ "query": "Mink Therapeutics",
+ "n_studies": 5,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Bacterial / fungal infections",
+   "area": "Infectious disease",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.2283,
+   "peak": 500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "agenT-797"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-06",
+   "lead_ncts": [
+    "NCT07615010"
+   ],
+   "lead_title": "A Clinical Trial to Evaluate agenT-797 Plus Standard of Care in Participants With Severe Pneumonia With Moderate to Seve",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Solid tumors (basket)",
+  "Multiple myeloma"
+ ]
+}

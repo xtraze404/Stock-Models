@@ -1,0 +1,81 @@
+{
+ "t": "INBX",
+ "name": "Inhibrx Biosciences Inc",
+ "query": "Inhibrx Biosciences",
+ "n_studies": 7,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Head and neck cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.5,
+   "pos": 0.2177,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2030,
+   "drugs": [
+    "INBRX-106"
+   ],
+   "n_trials": 1,
+   "next_readout": "2029-05",
+   "lead_ncts": [
+    "NCT06295731"
+   ],
+   "lead_title": "INBRX-106 in Combination With Pembrolizumab in First-line PD-L1 CPS\u226520 HNSCC",
+   "niche": false
+  },
+  {
+   "bucket": "Lung cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "INBRX-106 - Hexavalent OX40 agonist antibody"
+   ],
+   "n_trials": 1,
+   "next_readout": "2033-07",
+   "lead_ncts": [
+    "NCT04198766"
+   ],
+   "lead_title": "Study of INBRX-106 and INBRX-106 in Combination With Pembrolizumab (Keytruda\u00ae) in Subjects With Locally Advanced or Meta",
+   "niche": false
+  },
+  {
+   "bucket": "Sarcoma / GIST",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 600,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "INBRX-109",
+    "Temozolomide"
+   ],
+   "n_trials": 2,
+   "next_readout": "2028-12",
+   "lead_ncts": [
+    "NCT04950075",
+    "NCT03715933"
+   ],
+   "lead_title": "Study of INBRX-109 in Conventional Chondrosarcoma",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Cystic fibrosis / bronchiectasis"
+ ]
+}

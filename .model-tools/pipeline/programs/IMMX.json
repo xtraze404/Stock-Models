@@ -1,0 +1,12 @@
+{
+ "t": "IMMX",
+ "name": "Immix Biopharma, Inc.",
+ "query": "Immix Biopharma",
+ "n_studies": 4,
+ "n_used": 2,
+ "programs": [],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Solid tumors (basket)"
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "t": "KTTA",
+ "name": "Pasithea Therapeutics Corp",
+ "query": "Pasithea Therapeutics",
+ "n_studies": 2,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "PAS-004 Capsules",
+    "PAS-004 Tablets"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06299839"
+   ],
+   "lead_title": "PAS-004 in Patients With Advanced Solid Tumors",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

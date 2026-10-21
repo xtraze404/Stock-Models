@@ -1,0 +1,37 @@
+{
+ "t": "STOK",
+ "name": "Stoke Therapeutics, Inc.",
+ "query": "Stoke Therapeutics",
+ "n_studies": 3,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Rare epilepsy",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 3.0,
+   "pos": 0.5653,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "zorevunersen (STK-001)",
+    "zorevunersen",
+    "STK-001 - Single Ascending Doses"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-03",
+   "lead_ncts": [
+    "NCT06872125",
+    "NCT04740476",
+    "NCT04442295"
+   ],
+   "lead_title": "A Double-blind Study Evaluating the Efficacy, Safety, and Tolerability of Zorevunersen in Patients With Dravet Syndrome",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

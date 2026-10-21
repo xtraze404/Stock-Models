@@ -1,0 +1,37 @@
+{
+ "t": "ELDN",
+ "name": "Eledon Pharmaceuticals Inc",
+ "query": "Eledon Pharmaceuticals",
+ "n_studies": 10,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Kidney disease",
+   "area": "Other",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.5304,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "AT-1501",
+    "Tacrolimus",
+    "Tegoprubart"
+   ],
+   "n_trials": 4,
+   "next_readout": "2027-01",
+   "lead_ncts": [
+    "NCT07835581",
+    "NCT05983770",
+    "NCT06126380"
+   ],
+   "lead_title": "Study of Tegoprubart Efficacy and Safety Compared With Tacrolimus in Kidney Transplantation",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

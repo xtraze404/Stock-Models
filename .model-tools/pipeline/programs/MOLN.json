@@ -1,0 +1,59 @@
+{
+ "t": "MOLN",
+ "name": "Molecular Partners AG",
+ "query": "Molecular Partners",
+ "n_studies": 16,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Leukemia",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "MP0533 (multispecific DARPin CD3 Engager Targeting CD33, CD123 and CD70) monotherapy, Part 1",
+    "MP0533 (multispecific DARPin CD3 Engager Targeting CD33, CD123 and CD70) monotherapy, Part 2-Arm A"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05673057"
+   ],
+   "lead_title": "Study of MP0533 in Patients Acute Myeloid Leukemia or Myelodysplastic Syndrome",
+   "niche": false
+  },
+  {
+   "bucket": "Thyroid / neuroendocrine cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 600,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "[212Pb]Pb-MP0712"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-09",
+   "lead_ncts": [
+    "NCT07278479"
+   ],
+   "lead_title": "Study of [212Pb]Pb-DOTAM-MAM279 ([212Pb]Pb-MP0712) in Patients With Small Cell Lung Cancer and Other DLL3 Expressing Sol",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Solid tumors (basket)",
+  "Vaccines / respiratory viruses"
+ ]
+}

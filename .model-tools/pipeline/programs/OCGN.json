@@ -1,0 +1,85 @@
+{
+ "t": "OCGN",
+ "name": "Ocugen, Inc.",
+ "query": "Ocugen",
+ "n_studies": 13,
+ "n_used": 7,
+ "programs": [
+  {
+   "bucket": "Retinal disease (AMD / DME)",
+   "area": "Ophthalmology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4664,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "OCU410",
+    "OCU200"
+   ],
+   "n_trials": 2,
+   "next_readout": "2028-07-30",
+   "lead_ncts": [
+    "NCT07770828",
+    "NCT05802329"
+   ],
+   "lead_title": "Phase 3 Study to Assess Efficacy, Safety & Tolerability of OCU410 For Geographic Atrophy Secondary to Dry AMD",
+   "niche": false
+  },
+  {
+   "bucket": "Inherited retinal disease",
+   "area": "Ophthalmology",
+   "rate_class": "rare",
+   "stage": 3.0,
+   "pos": 0.5653,
+   "peak": 500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "OCU400 Low Dose",
+    "OCU400 Med Dose",
+    "OCU410ST"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-02-12",
+   "lead_ncts": [
+    "NCT06388200",
+    "NCT05956626",
+    "NCT05203939"
+   ],
+   "lead_title": "A Phase 3 Study Of OCU400 Gene Therapy for the Treatment Of Retinitis Pigmentosa",
+   "niche": false
+  },
+  {
+   "bucket": "Geographic atrophy",
+   "area": "Ophthalmology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.1401,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "OCU410"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06018558"
+   ],
+   "lead_title": "Study to Assess the Safety and Efficacy of OCU410 for Geographic Atrophy",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Vaccines / respiratory viruses"
+ ]
+}

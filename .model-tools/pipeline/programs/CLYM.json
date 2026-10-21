@@ -1,0 +1,78 @@
+{
+ "t": "CLYM",
+ "name": "Climb Bio Inc",
+ "query": "Climb Bio",
+ "n_studies": 6,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Kidney disease",
+   "area": "Other",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.2047,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "budoprutug"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-10",
+   "lead_ncts": [
+    "NCT07096843"
+   ],
+   "lead_title": "A Phase 2 Study of Budoprutug in Subjects With Primary Membranous Nephropathy",
+   "niche": false
+  },
+  {
+   "bucket": "Lupus / Sjogren's",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.1434,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "Budoprutug"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-04",
+   "lead_ncts": [
+    "NCT07564596",
+    "NCT07011043"
+   ],
+   "lead_title": "A Phase 1b/2a Study of Budoprutug in Systemic Lupus Erythematosus (SLE)",
+   "niche": false
+  },
+  {
+   "bucket": "Rare autoimmune",
+   "area": "Autoimmune",
+   "rate_class": "rare",
+   "stage": 1.5,
+   "pos": 0.207,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "Budoprutug"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-08",
+   "lead_ncts": [
+    "NCT07043946"
+   ],
+   "lead_title": "A Phase 1b/2a Study of Budoprutug in Subjects With Immune Thrombocytopenia (ITP)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

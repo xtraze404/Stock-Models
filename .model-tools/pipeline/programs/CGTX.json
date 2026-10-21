@@ -1,0 +1,36 @@
+{
+ "t": "CGTX",
+ "name": "Cognition Therapeutics Inc",
+ "query": "Cognition Therapeutics",
+ "n_studies": 15,
+ "n_used": 6,
+ "programs": [
+  {
+   "bucket": "Alzheimer's disease",
+   "area": "Neurology",
+   "rate_class": "chronic",
+   "stage": 2.0,
+   "pos": 0.1273,
+   "peak": 4000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "CT1812",
+    "300 mg [C14] CT1812"
+   ],
+   "n_trials": 6,
+   "next_readout": "2027-05-31",
+   "lead_ncts": [
+    "NCT04735536",
+    "NCT03507790",
+    "NCT05225415"
+   ],
+   "lead_title": "Pilot Clinical Study of CT1812 in Mild to Moderate Alzheimer's Disease Using EEG",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

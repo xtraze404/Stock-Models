@@ -1,0 +1,86 @@
+{
+ "t": "PRLD",
+ "name": "Prelude Therapeutics Incorporated",
+ "query": "Prelude Therapeutics",
+ "n_studies": 12,
+ "n_used": 9,
+ "programs": [
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "PRT543",
+    "PRT3789",
+    "PRT811"
+   ],
+   "n_trials": 3,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT03886831",
+    "NCT04089449",
+    "NCT05639751"
+   ],
+   "lead_title": "A Study of PRT543 in Participants With Advanced Solid Tumors and Hematologic Malignancies",
+   "niche": false
+  },
+  {
+   "bucket": "Lymphoma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "PRT2527",
+    "Zanubrutinib"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05665530"
+   ],
+   "lead_title": "A Study of PRT2527 as Monotherapy and in Combination With Zanubrutinib or Venetoclax in Participants With R/R Hematologi",
+   "niche": false
+  },
+  {
+   "bucket": "Myelofibrosis / MDS / MPN",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "PRT12396"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-04",
+   "lead_ncts": [
+    "NCT07469891"
+   ],
+   "lead_title": "A Phase 1 Study of PRT12396 in Participants With Select Myeloproliferative Neoplasms",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Sarcoma / GIST",
+  "Multiple myeloma",
+  "Lung cancer"
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "t": "INMB",
+ "name": "INmune Bio Inc",
+ "query": "INmune Bio",
+ "n_studies": 7,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Alzheimer's disease",
+   "area": "Neurology",
+   "rate_class": "chronic",
+   "stage": 2.0,
+   "pos": 0.1273,
+   "peak": 4000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "XPro1595"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05318976",
+    "NCT03943264"
+   ],
+   "lead_title": "A Study of XPro1595 in Patients With Early Alzheimer's Disease With Biomarkers of Inflammation",
+   "niche": false
+  },
+  {
+   "bucket": "Prostate cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "INKmune"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06056791"
+   ],
+   "lead_title": "Study of INKmune in Patients With mCRPC (CaRe Prostate)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

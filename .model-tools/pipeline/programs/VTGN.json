@@ -1,0 +1,39 @@
+{
+ "t": "VTGN",
+ "name": "Vistagen Therapeutics, Inc.",
+ "query": "Vistagen Therapeutics",
+ "n_studies": 12,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Anxiety / PTSD / addiction",
+   "area": "Psychiatry",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.5135,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Fasedienol Nasal Spray",
+    "PH94B Nasal Spray",
+    "Fasedienol Nasal Spray - Fasedienol Nasal Spray"
+   ],
+   "n_trials": 4,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04754802",
+    "NCT06358651",
+    "NCT06615557"
+   ],
+   "lead_title": "PH94B Nasal Spray for Anxiety Induced by a Public Speaking Challenge",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Depression / mood"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "t": "VYGR",
+ "name": "Voyager Therapeutics, Inc.",
+ "query": "Voyager Therapeutics",
+ "n_studies": 7,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Alzheimer's disease",
+   "area": "Neurology",
+   "rate_class": "chronic",
+   "stage": 1.5,
+   "pos": 0.0863,
+   "peak": 4000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "VY1706 Low dose",
+    "VY1706 Mid dose",
+    "VY7523"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-05",
+   "lead_ncts": [
+    "NCT06874621",
+    "NCT07764146"
+   ],
+   "lead_title": "VY7523-102: Randomized, Placebo-Controlled, Double-Blind, Multiple Ascending Dose Study in Participants With Early Alzhe",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Parkinson's disease"
+ ]
+}

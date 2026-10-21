@@ -1,0 +1,37 @@
+{
+ "t": "SLDB",
+ "name": "Solid Biosciences Inc",
+ "query": "Solid Biosciences",
+ "n_studies": 7,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Muscular dystrophy / SMA",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 3.0,
+   "pos": 0.5653,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "SGT-003",
+    "SGT-001",
+    "SGT-212"
+   ],
+   "n_trials": 4,
+   "next_readout": "2026-11-30",
+   "lead_ncts": [
+    "NCT07160634",
+    "NCT03368742",
+    "NCT06138639"
+   ],
+   "lead_title": "A Study of SGT-003 Gene Therapy in Ambulant Males With Duchenne Muscular Dystrophy (IMPACT DUCHENNE)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

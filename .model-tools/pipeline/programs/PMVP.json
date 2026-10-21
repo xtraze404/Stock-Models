@@ -1,0 +1,56 @@
+{
+ "t": "PMVP",
+ "name": "Pmv Pharmaceuticals, Inc",
+ "query": "Pmv Pharmaceuticals",
+ "n_studies": 7,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Lung cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "rezatapopt"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-12-15",
+   "lead_ncts": [
+    "NCT04585750"
+   ],
+   "lead_title": "The Evaluation of PC14586 in Patients With Advanced Solid Tumors Harboring a TP53 Y220C Mutation (PYNNACLE)",
+   "niche": false
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "rosuvastatin 10 mg tablet",
+    "repaglinide 0.5 mg tablet"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-03",
+   "lead_ncts": [
+    "NCT07372625"
+   ],
+   "lead_title": "A Study to Investigate the Effects of Multiple Doses of Rezatapopt on the Pharmacokinetics of Metformin, Rosuvastatin, R",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

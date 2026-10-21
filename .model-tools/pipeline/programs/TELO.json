@@ -1,0 +1,33 @@
+{
+ "t": "TELO",
+ "name": "Telomir Pharmaceuticals Inc",
+ "query": "Telomir Pharmaceuticals",
+ "n_studies": 1,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Breast cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "Zn-Telomir"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-05",
+   "lead_ncts": [
+    "NCT07581314"
+   ],
+   "lead_title": "Oral Zn-Telomir Monotherapy in Patients With Advanced or Metastatic Triple-Negative Breast Cancer (TNBC)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

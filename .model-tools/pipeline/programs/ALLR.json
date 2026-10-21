@@ -1,0 +1,37 @@
+{
+ "t": "ALLR",
+ "name": "Allarity Therapeutics Inc",
+ "query": "Allarity Therapeutics",
+ "n_studies": 8,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Ovarian cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "2X-121"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-03",
+   "lead_ncts": [
+    "NCT03878849"
+   ],
+   "lead_title": "Investigation of the Anti-tumor Effect of 2X-121 in Patients With Recurrent, Advanced Ovarian Cancer",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Prostate cancer",
+  "Solid tumors (basket)",
+  "Breast cancer"
+ ]
+}

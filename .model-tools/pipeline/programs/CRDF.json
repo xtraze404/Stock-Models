@@ -1,0 +1,39 @@
+{
+ "t": "CRDF",
+ "name": "Cardiff Oncology, Inc.",
+ "query": "Cardiff Oncology",
+ "n_studies": 14,
+ "n_used": 6,
+ "programs": [
+  {
+   "bucket": "Colorectal cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Onvansertib"
+   ],
+   "n_trials": 3,
+   "next_readout": "2026-11",
+   "lead_ncts": [
+    "NCT05593328",
+    "NCT06106308",
+    "NCT03829410"
+   ],
+   "lead_title": "Study of Onvansertib in Combination With FOLFIRI and Bevacizumab Versus FOLFIRI and Bevacizumab for Second Line Treatmen",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Pancreatic cancer",
+  "Leukemia",
+  "Prostate cancer"
+ ]
+}

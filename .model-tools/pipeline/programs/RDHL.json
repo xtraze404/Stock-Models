@@ -1,0 +1,13 @@
+{
+ "t": "RDHL",
+ "name": "Redhill Biopharma Ltd",
+ "query": "Redhill Biopharma",
+ "n_studies": 20,
+ "n_used": 2,
+ "programs": [],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Vaccines / respiratory viruses",
+  "Liver cancer"
+ ]
+}

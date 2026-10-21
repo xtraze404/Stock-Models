@@ -1,0 +1,109 @@
+{
+ "t": "ERAS",
+ "name": "Erasca, Inc.",
+ "query": "Erasca",
+ "n_studies": 10,
+ "n_used": 9,
+ "programs": [
+  {
+   "bucket": "Melanoma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Naporafenib",
+    "Dacarbazine"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-04",
+   "lead_ncts": [
+    "NCT06346067"
+   ],
+   "lead_title": "A Study to Assess Naporafenib (ERAS-254) Administered With Trametinib in Patients With NRAS-mutant Melanoma (SEACRAFT-2)",
+   "niche": false
+  },
+  {
+   "bucket": "Colorectal cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "ERAS-007",
+    "Encorafenib"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05039177"
+   ],
+   "lead_title": "A Study of ERAS-007 in Patients With Advanced Gastrointestinal Malignancies",
+   "niche": false
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "ERAS-601",
+    "ERAS-007",
+    "ERAS-0015"
+   ],
+   "n_trials": 5,
+   "next_readout": "2028-05-01",
+   "lead_ncts": [
+    "NCT04866134",
+    "NCT05907304",
+    "NCT04670679"
+   ],
+   "lead_title": "A Study of ERAS-007 as Monotherapy or in Combination With ERAS-601 in Patients With Advanced or Metastatic Solid Tumors",
+   "niche": false
+  },
+  {
+   "bucket": "Brain cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 800,
+   "owned": false,
+   "partners": [
+    "Katmai Pharmaceuticals Inc."
+   ],
+   "share": 0.12,
+   "launch": 2033,
+   "drugs": [
+    "ERAS-801"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05222802"
+   ],
+   "lead_title": "A Study to Evaluate ERAS-801 in Patients With Recurrent Glioblastoma (THUNDERBBOLT-1)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Lung cancer"
+ ]
+}

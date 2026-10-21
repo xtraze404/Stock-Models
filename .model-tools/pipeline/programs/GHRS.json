@@ -1,0 +1,12 @@
+{
+ "t": "GHRS",
+ "name": "GH Research PLC",
+ "query": "GH Research",
+ "n_studies": 9,
+ "n_used": 2,
+ "programs": [],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Depression / mood"
+ ]
+}

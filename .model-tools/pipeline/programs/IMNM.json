@@ -1,0 +1,81 @@
+{
+ "t": "IMNM",
+ "name": "Immunome, Inc.",
+ "query": "Immunome",
+ "n_studies": 10,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Sarcoma / GIST",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.5,
+   "pos": 0.92,
+   "peak": 600,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2027,
+   "drugs": [
+    "AL102"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04871282"
+   ],
+   "lead_title": "A Study of AL102 in Patients With Progressing Desmoid Tumors",
+   "niche": false,
+   "reg": "NDA for AL102 (varegacestat) in desmoid tumors, PDUFA Apr 28, 2027"
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "IM-1021",
+    "177Lu-IM-3050"
+   ],
+   "n_trials": 2,
+   "next_readout": "2028-05",
+   "lead_ncts": [
+    "NCT06823167",
+    "NCT07505771"
+   ],
+   "lead_title": "A Phase 1 Study of IM-1021 in Participants With Advanced Cancer",
+   "niche": false
+  },
+  {
+   "bucket": "Gastric / esophageal cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "IM-1617"
+   ],
+   "n_trials": 1,
+   "next_readout": "2029-01",
+   "lead_ncts": [
+    "NCT07578571"
+   ],
+   "lead_title": "A Phase 1 Study of IM-1617 in Participants With Advanced Cancer",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [],
+ "overrides": true
+}

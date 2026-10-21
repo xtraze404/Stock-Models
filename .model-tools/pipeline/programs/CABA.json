@@ -1,0 +1,104 @@
+{
+ "t": "CABA",
+ "name": "Cabaletta Bio, Inc.",
+ "query": "Cabaletta Bio",
+ "n_studies": 7,
+ "n_used": 6,
+ "programs": [
+  {
+   "bucket": "Rare autoimmune",
+   "area": "Autoimmune",
+   "rate_class": "rare",
+   "stage": 2.5,
+   "pos": 0.3776,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2030,
+   "drugs": [
+    "CABA-201",
+    "CABA-201 following preconditioning with fludarabine and cyclophosphamide"
+   ],
+   "n_trials": 2,
+   "next_readout": "2028-07",
+   "lead_ncts": [
+    "NCT06154252",
+    "NCT06328777"
+   ],
+   "lead_title": "RESET-Myositis: An Open-Label Study to Evaluate the Safety and Efficacy of CABA-201 in Subjects With Active Idiopathic I",
+   "niche": false
+  },
+  {
+   "bucket": "Myasthenia gravis / neuromuscular",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 1.5,
+   "pos": 0.207,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "CABA-201",
+    "MuSK-CAART"
+   ],
+   "n_trials": 2,
+   "next_readout": "2029-09",
+   "lead_ncts": [
+    "NCT06359041",
+    "NCT05451212"
+   ],
+   "lead_title": "RESET-MG: A Study to Evaluate the Safety and Efficacy of CABA-201 in Participants With Generalized Myasthenia Gravis",
+   "niche": false
+  },
+  {
+   "bucket": "Hidradenitis / alopecia / vitiligo",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.1434,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "DSG3-CAART",
+    "CABA-201"
+   ],
+   "n_trials": 1,
+   "next_readout": "2029-01",
+   "lead_ncts": [
+    "NCT04422912"
+   ],
+   "lead_title": "A Phase 1/2, Open-label, Safety and Dosing Study of Autologous CART Cells (Desmoglein 3 Chimeric Autoantibody Receptor T",
+   "niche": false
+  },
+  {
+   "bucket": "Lupus / Sjogren's",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.1434,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "CABA-201"
+   ],
+   "n_trials": 1,
+   "next_readout": "2029-12",
+   "lead_ncts": [
+    "NCT06121297"
+   ],
+   "lead_title": "RESET-SLE: A Phase 1/2 Open-Label Study to Evaluate the Safety and Efficacy of CABA-201 in Subjects With Active Systemic",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

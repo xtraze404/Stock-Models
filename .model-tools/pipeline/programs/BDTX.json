@@ -1,0 +1,56 @@
+{
+ "t": "BDTX",
+ "name": "Black Diamond Therapeutics Inc",
+ "query": "Black Diamond Therapeutics",
+ "n_studies": 3,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Lung cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "silevertinib (BDTX-1535) monotherapy"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05256290"
+   ],
+   "lead_title": "Phase 1/2 Study of Silevertinib (BDTX-1535) in Patients With Glioblastoma or Non-Small Cell Lung Cancer With EGFR Mutati",
+   "niche": false
+  },
+  {
+   "bucket": "Brain cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "silevertinib in combination with temozolomide",
+    "temozolomide (TMZ)"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-11",
+   "lead_ncts": [
+    "NCT07326566"
+   ],
+   "lead_title": "Study of Silevertinib With Temozolomide for the Treatment of Newly Diagnosed GBM With Unmethylated MGMT and EGFRvIII",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

@@ -1,0 +1,36 @@
+{
+ "t": "PYXS",
+ "name": "Pyxis Oncology Inc",
+ "query": "Pyxis Oncology",
+ "n_studies": 5,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "PYX-201",
+    "PYX-106"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-04-25",
+   "lead_ncts": [
+    "NCT06795412",
+    "NCT05718557",
+    "NCT05720117"
+   ],
+   "lead_title": "Phase 1/2 Study of PYX-201 in Combination With Pembrolizumab in Advanced Solid Tumors",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

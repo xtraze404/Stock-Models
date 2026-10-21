@@ -1,0 +1,35 @@
+{
+ "t": "MDWD",
+ "name": "Mediwound Ltd",
+ "query": "Mediwound",
+ "n_studies": 15,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "EscharEx 5% (EX-02 formulation)"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05157763"
+   ],
+   "lead_title": "A Study to Evaluate the Safety and Efficacy of EscharEx (EX-02) in the Treatment of Basal Cell Carcinoma",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Dermatology (other)"
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "t": "RNAZ",
+ "name": "Transcode Therapeutics Inc",
+ "query": "Transcode Therapeutics",
+ "n_studies": 3,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "TTX-MC138",
+    "TTX-MC138-NODAGA-Cu64"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06260774",
+    "NCT05908773"
+   ],
+   "lead_title": "Study of TTX-MC138 in Subjects With Advanced Solid Tumors",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

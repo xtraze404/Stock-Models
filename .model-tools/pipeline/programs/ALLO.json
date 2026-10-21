@@ -1,0 +1,128 @@
+{
+ "t": "ALLO",
+ "name": "Allogene Therapeutics, Inc.",
+ "query": "Allogene Therapeutics",
+ "n_studies": 9,
+ "n_used": 6,
+ "programs": [
+  {
+   "bucket": "Lymphoma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "ALLO-501",
+    "ALLO-647",
+    "cemacabtagene ansegedleucel"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-12",
+   "lead_ncts": [
+    "NCT06500273",
+    "NCT03939026"
+   ],
+   "lead_title": "Consolidation of First-Line MRD+ Remission With Cema-cel in Patients With LBCL",
+   "niche": false
+  },
+  {
+   "bucket": "Lupus / Sjogren's",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.1065,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "ALLO-329",
+    "Cyclophosphamide"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-02",
+   "lead_ncts": [
+    "NCT07085104"
+   ],
+   "lead_title": "A Study to Investigate the Safety and Preliminary Efficacy of ALLO-329, an Allogeneic CAR T-cell Therapy, in Adults With",
+   "niche": false
+  },
+  {
+   "bucket": "Multiple myeloma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "ALLO-715",
+    "ALLO-647"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04093596"
+   ],
+   "lead_title": "Safety and Efficacy of ALLO-715 BCMA Allogenic CAR T Cells in in Adults With Relapsed or Refractory Multiple Myeloma (UN",
+   "niche": false
+  },
+  {
+   "bucket": "Leukemia",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "ALLO-501A",
+    "ALLO-647"
+   ],
+   "n_trials": 1,
+   "next_readout": "2029-02",
+   "lead_ncts": [
+    "NCT04416984"
+   ],
+   "lead_title": "Safety and Efficacy of ALLO-501A Anti-CD19 Allogeneic CAR T Cells in Adults With Relapsed/Refractory Large B Cell Lympho",
+   "niche": false
+  },
+  {
+   "bucket": "Kidney cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "ALLO-316",
+    "ALLO-647"
+   ],
+   "n_trials": 1,
+   "next_readout": "2030-01",
+   "lead_ncts": [
+    "NCT04696731"
+   ],
+   "lead_title": "Safety and Efficacy of ALLO-316 in Subjects With Advanced or Metastatic Clear Cell Renal Cell Carcinoma",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

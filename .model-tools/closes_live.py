@@ -2,6 +2,8 @@
 usage: closes_live.py 'Oct 20, 2026' 2026-10-20 OUT.json TICKER..."""
 import json, sys, time, urllib.request, concurrent.futures as cf
 stamp, iso, out_p, tick = sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4:]
+_m, _d, _y = stamp.replace(",", "").split()
+STAMPS = {f"{_m} {int(_d)}, {_y}", f"{_m} {int(_d):02d}, {_y}"}     # the feed's day may or may not be zero-padded
 H = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
      "Accept": "application/json"}
 def nasdaq(sym):
@@ -14,7 +16,7 @@ def nasdaq(sym):
                 for k in ("secondaryData", "primaryData"):
                     s = d.get(k) or {}
                     ts = (s.get("lastTradeTimestamp") or "").strip()
-                    ok = f"Closed at {stamp}" in ts or (k == "primaryData" and ts == stamp and d.get("marketStatus") == "Closed")
+                    ok = any(f"Closed at {s_}" in ts for s_ in STAMPS) or (k == "primaryData" and ts in STAMPS and d.get("marketStatus") == "Closed")
                     if ok and s.get("lastSalePrice"):
                         return float(s["lastSalePrice"].replace("$", "").replace(",", "")), "nasdaq"
                 break

@@ -1,0 +1,33 @@
+{
+ "t": "REVB",
+ "name": "Revelation Biosciences Inc",
+ "query": "Revelation Biosciences",
+ "n_studies": 1,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Kidney disease",
+   "area": "Other",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.1633,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "Intravenous Gemini"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06863467"
+   ],
+   "lead_title": "Evaluation of the Safety and Tolerability of Gemini in Subjects With Stage 3-4 Chronic Kidney Disease.",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

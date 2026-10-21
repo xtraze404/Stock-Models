@@ -1,0 +1,103 @@
+{
+ "t": "IPHA",
+ "name": "Innate Pharma SA",
+ "query": "Innate Pharma",
+ "n_studies": 28,
+ "n_used": 6,
+ "programs": [
+  {
+   "bucket": "Head and neck cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 1000,
+   "owned": true,
+   "partners": [
+    "AstraZeneca"
+   ],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Monalizumab",
+    "Anti-PD(L)1"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04590963",
+    "NCT02643550"
+   ],
+   "lead_title": "Assessment of Efficacy and Safety of Monalizumab Plus Cetuximab Compared to Placebo Plus Cetuximab in Recurrent or Metas",
+   "niche": false
+  },
+  {
+   "bucket": "Lung cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [],
+   "n_trials": 1,
+   "next_readout": "2027-06",
+   "lead_ncts": [
+    "NCT05742607"
+   ],
+   "lead_title": "IPH5201 and Durvalumab in Patients With Resectable Non-Small Cell Lung Cancer (MATISSE)",
+   "niche": false
+  },
+  {
+   "bucket": "Lymphoma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "lacutamab",
+    "IPH4102"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT03902184",
+    "NCT05321147"
+   ],
+   "lead_title": "IPH4102/Lacutamab Alone or in Combination With Chemotherapy in Patients With Advanced T Cell Lymphoma",
+   "niche": false
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "IPH4502"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-04",
+   "lead_ncts": [
+    "NCT06781983"
+   ],
+   "lead_title": "Safety and Tolerability of IPH4502 in Patients With Advanced Solid Tumors",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

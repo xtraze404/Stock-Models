@@ -1,0 +1,62 @@
+{
+ "t": "BLTE",
+ "name": "Belite Bio, Inc",
+ "query": "Belite Bio",
+ "n_studies": 7,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Geographic atrophy",
+   "area": "Ophthalmology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4664,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Tinlarebant"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-06-30",
+   "lead_ncts": [
+    "NCT05949593"
+   ],
+   "lead_title": "Phase 3, Randomized, Placebo-Controlled Study of Tinlarebant to Explore Safety and Efficacy in Geographic Atrophy",
+   "niche": false
+  },
+  {
+   "bucket": "Inherited retinal disease",
+   "area": "Ophthalmology",
+   "rate_class": "rare",
+   "stage": 3.0,
+   "pos": 0.5653,
+   "peak": 500,
+   "owned": true,
+   "partners": [
+    "RBP4 Pty Ltd"
+   ],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Tinlarebant",
+    "tinlarebant"
+   ],
+   "n_trials": 3,
+   "next_readout": "2028-02",
+   "lead_ncts": [
+    "NCT05244304",
+    "NCT06388083",
+    "NCT05266014"
+   ],
+   "lead_title": "Phase 3, Randomized, Placebo-Controlled Study of Tinlarebant to Explore Safety and Efficacy in Adolescent Stargardt Dise",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Retinal disease (AMD / DME)"
+ ]
+}

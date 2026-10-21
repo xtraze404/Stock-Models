@@ -1,0 +1,56 @@
+{
+ "t": "KYTX",
+ "name": "Kyverna Therapeutics, Inc.",
+ "query": "Kyverna Therapeutics",
+ "n_studies": 12,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Myasthenia gravis / neuromuscular",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 2.5,
+   "pos": 0.3776,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2030,
+   "drugs": [
+    "KYV-101"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-09",
+   "lead_ncts": [
+    "NCT06193889"
+   ],
+   "lead_title": "KYSA-6: A Study of Anti-CD19 Chimeric Antigen Receptor T-Cell Therapy, in Patients With Generalized Myasthenia Gravis",
+   "niche": false
+  },
+  {
+   "bucket": "Multiple sclerosis",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1234,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "KYV-101",
+    "Anti-CD20 mAB"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-04",
+   "lead_ncts": [
+    "NCT06384976"
+   ],
+   "lead_title": "KYSA-7: A Study of Anti-CD19 CAR T-Cell Therapy, in Subjects With Refractory Primary and Secondary Progressive Multiple ",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

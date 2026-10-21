@@ -1,0 +1,34 @@
+{
+ "t": "GRCE",
+ "name": "Grace Therapeutics, Inc",
+ "query": "Grace Therapeutics",
+ "n_studies": 8,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Subarachnoid hemorrhage (GTx-104)",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 3.5,
+   "peak": 300,
+   "owned": true,
+   "launch": 2027,
+   "drugs": [
+    "GTx-104 (IV nimodipine)"
+   ],
+   "reg": "NDA PDUFA Apr 23, 2026; outcome not found",
+   "partners": [],
+   "n_trials": 0,
+   "next_readout": null,
+   "lead_ncts": [],
+   "lead_title": "",
+   "pos": 0.936,
+   "share": 0.4
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Muscular dystrophy / SMA"
+ ],
+ "overrides": true
+}

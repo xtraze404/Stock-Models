@@ -1,0 +1,62 @@
+{
+ "t": "ABEO",
+ "name": "Abeona Therapeutics Inc",
+ "query": "Abeona Therapeutics",
+ "n_studies": 13,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Dermatology (other)",
+   "area": "Other",
+   "rate_class": "area",
+   "stage": 4.0,
+   "pos": 1.0,
+   "peak": 500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2026,
+   "drugs": [
+    "LZRSE-Col7A1 Engineered Autologous Epidermal Sheets",
+    "EB-101 Surgical application of RDEB wounds",
+    "Non-conforming pz-cel surgical application to RDEB wounds"
+   ],
+   "n_trials": 4,
+   "next_readout": "2031-11",
+   "lead_ncts": [
+    "NCT07717736",
+    "NCT04227106",
+    "NCT05725018"
+   ],
+   "lead_title": "Phase 4 Master Protocol for Patients Prescribed Prademagene Zamikeracel for the Treatment of Wounds",
+   "niche": false
+  },
+  {
+   "bucket": "Rare metabolic / lysosomal",
+   "area": "Metabolic",
+   "rate_class": "rare",
+   "stage": 2.5,
+   "pos": 0.3776,
+   "peak": 700,
+   "owned": false,
+   "partners": [
+    "Ultragenyx Pharmaceutical Inc"
+   ],
+   "share": 0.12,
+   "launch": 2030,
+   "drugs": [
+    "UX111",
+    "Prophylactic Immunomodulatory (IM) Therapy"
+   ],
+   "n_trials": 1,
+   "next_readout": "2029-03",
+   "lead_ncts": [
+    "NCT02716246"
+   ],
+   "lead_title": "Phase I/II/III Gene Transfer Clinical Trial of scAAV9.U1a.hSGSH",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

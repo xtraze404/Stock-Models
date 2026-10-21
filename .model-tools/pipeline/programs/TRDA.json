@@ -1,0 +1,36 @@
+{
+ "t": "TRDA",
+ "name": "Entrada Therapeutics, Inc.",
+ "query": "Entrada Therapeutics",
+ "n_studies": 4,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Muscular dystrophy / SMA",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 2.0,
+   "pos": 0.2521,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "ENTR-601-45",
+    "ENTR-601-44"
+   ],
+   "n_trials": 3,
+   "next_readout": "2029-03-01",
+   "lead_ncts": [
+    "NCT07682129",
+    "NCT07038824",
+    "NCT07037862"
+   ],
+   "lead_title": "Long-Term Extension Study in Participants With Duchenne Muscular Dystrophy Amenable to Exon Skipping to Evaluate the Saf",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

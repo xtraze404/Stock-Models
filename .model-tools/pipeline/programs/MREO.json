@@ -1,0 +1,13 @@
+{
+ "t": "MREO",
+ "name": "Mereo BioPharma Group PLC",
+ "query": "Mereo BioPharma",
+ "n_studies": 51,
+ "n_used": 2,
+ "programs": [],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Solid tumors (basket)",
+  "Cystic fibrosis / bronchiectasis"
+ ]
+}

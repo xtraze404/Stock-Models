@@ -1,0 +1,103 @@
+{
+ "t": "ACET",
+ "name": "ADICET Bio, Inc.",
+ "query": "ADICET",
+ "n_studies": 6,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Rheumatoid / spondyloarthritis",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.1065,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "ADI-001",
+    "Fludarabine"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-03-30",
+   "lead_ncts": [
+    "NCT07100873"
+   ],
+   "lead_title": "A Phase 1 Study of ADI-001 in Rheumatoid Arthritis",
+   "niche": false
+  },
+  {
+   "bucket": "Prostate cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "ADI-212",
+    "Fludarabine"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-10",
+   "lead_ncts": [
+    "NCT07793435"
+   ],
+   "lead_title": "A Phase 1/2 Trial of ADI-212 in mCRPC",
+   "niche": false
+  },
+  {
+   "bucket": "Lupus / Sjogren's",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.1065,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "ADI-001",
+    "Fludarabine"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT06375993"
+   ],
+   "lead_title": "A Phase 1 Study of Prulacabtagene Leucel (Prula-cel, Formerly ADI-001) in Autoimmune Disease",
+   "niche": false
+  },
+  {
+   "bucket": "Kidney cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "ADI-270",
+    "Fludarabine"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT06480565"
+   ],
+   "lead_title": "A Phase 1/2 Trial of ADI-270 in ccRCC",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

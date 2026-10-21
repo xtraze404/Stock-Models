@@ -1,0 +1,37 @@
+{
+ "t": "LTGO",
+ "name": "Latigo Biotherapeutics, Inc.",
+ "query": "Latigo Biotherapeutics",
+ "n_studies": 8,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Migraine / pain",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1234,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "suzetrigine 100mg",
+    "LTG-001 SDD",
+    "LTG-001 Formulation A Prototype 1"
+   ],
+   "n_trials": 5,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06774625",
+    "NCT07102459",
+    "NCT06600607"
+   ],
+   "lead_title": "This is a Study Evaluating the Efficacy and Safety of LTG-001 for Acute Pain After Surgical Removal of Impacted Third Mo",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

@@ -1,0 +1,55 @@
+{
+ "t": "CUE",
+ "name": "Cue Biopharma, Inc.",
+ "query": "Cue Biopharma",
+ "n_studies": 5,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Colorectal cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "CUE-102"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05360680"
+   ],
+   "lead_title": "A Phase 1 in Patients With HLA-A*0201+ and WT1+ Recurrent/Metastatic Cancers",
+   "niche": false
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "CUE-101"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT03978689"
+   ],
+   "lead_title": "A Phase 1 Study in Patients With HPV16+ Recurrent/ Metastatic Head and Neck Squamous Cell Carcinoma",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

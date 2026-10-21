@@ -1,0 +1,13 @@
+{
+ "t": "PCSA",
+ "name": "Processa Pharmaceuticals Inc",
+ "query": "Processa Pharmaceuticals",
+ "n_studies": 10,
+ "n_used": 2,
+ "programs": [],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Celiac / GI",
+  "Solid tumors (basket)"
+ ]
+}

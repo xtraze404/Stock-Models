@@ -1,0 +1,36 @@
+{
+ "t": "LPCN",
+ "name": "Lipocine Inc",
+ "query": "Lipocine",
+ "n_studies": 9,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Depression / mood",
+   "area": "Psychiatry",
+   "rate_class": "chronic",
+   "stage": 3.0,
+   "pos": 0.551,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "LPCN 1154A"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-08",
+   "lead_ncts": [
+    "NCT06979544",
+    "NCT07822321"
+   ],
+   "lead_title": "A Study to Assess the Safety and Efficacy of Oral LPCN 1154A in Women With Severe PPD",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "MASH / liver fibrosis"
+ ]
+}

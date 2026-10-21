@@ -1,0 +1,62 @@
+{
+ "t": "IMTX",
+ "name": "Immatics N.V.",
+ "query": "Immatics",
+ "n_studies": 18,
+ "n_used": 8,
+ "programs": [
+  {
+   "bucket": "Melanoma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "IMA203",
+    "mRNA-4203",
+    "lifileucel"
+   ],
+   "n_trials": 2,
+   "next_readout": "2028-01",
+   "lead_ncts": [
+    "NCT06743126",
+    "NCT06946225"
+   ],
+   "lead_title": "SUPRAME-ACTengine\u00ae IMA203 vs. Investigator's Choice of Treatment in Previously Treated, Unresectable or Metastatic Cutan",
+   "niche": false
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "Fludarabine",
+    "Cyclophosphamide",
+    "IMA201 Product"
+   ],
+   "n_trials": 6,
+   "next_readout": "2027-09",
+   "lead_ncts": [
+    "NCT05958121",
+    "NCT03686124",
+    "NCT02876510"
+   ],
+   "lead_title": "IMA402 T Cell-Engaging Receptor Molecule (TCER\u00ae) in Recurrent and/or Refractory Solid Tumors",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

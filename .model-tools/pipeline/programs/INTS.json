@@ -1,0 +1,36 @@
+{
+ "t": "INTS",
+ "name": "Intensity Therapeutics Inc",
+ "query": "Intensity Therapeutics",
+ "n_studies": 3,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Sarcoma / GIST",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 600,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "INT230-6",
+    "Eribulin"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-12",
+   "lead_ncts": [
+    "NCT06263231"
+   ],
+   "lead_title": "A Study to Investigate Efficacy & Safety of Intratumoral INT230-6 Compared to US Standard of Care in Adults With Soft Ti",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Solid tumors (basket)"
+ ]
+}

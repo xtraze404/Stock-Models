@@ -1,0 +1,36 @@
+{
+ "t": "EQ",
+ "name": "Equillium Inc",
+ "query": "Equillium",
+ "n_studies": 5,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "IBD (UC / Crohn's)",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.1065,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "EQ504"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-04",
+   "lead_ncts": [
+    "NCT07869225"
+   ],
+   "lead_title": "A Phase I, Randomized, Double-Blind, Placebo-Controlled Study of EQ504 in Single and Multiple Ascending Doses in Healthy",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Asthma / COPD",
+  "Hidradenitis / alopecia / vitiligo"
+ ]
+}

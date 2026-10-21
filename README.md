@@ -7,5 +7,5 @@ Valuation models for the biotech and pharma names on the screener.
   - **DCF**: 10-year free-cash-flow model with bear/base/bull cases and sensitivity tables (an Options sheet for the reviewed large caps), or
   - **rNPV**: program-level risk-adjusted NPV for the PDUFA-event names, with an Options sheet, or
   - **Net cash**: for pre-revenue companies.
-- `.model-tools/`: the Python pipeline that builds, prices and checks the models from SEC XBRL data, Nasdaq/Cboe prices and option chains.
+- `.model-tools/`: the Python pipeline that builds, prices and checks the models from SEC XBRL data, Nasdaq/Cboe prices and option chains. The daily post-close update is one command, `refresh_daily.py`; its steps are documented in `.model-tools/README.md`.
 - `.model-tools/trader/`: a paper trader that rebalances a simulated $100k account to the Recommendations sheet each day (see its README).

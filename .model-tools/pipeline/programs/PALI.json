@@ -1,0 +1,35 @@
+{
+ "t": "PALI",
+ "name": "Palisade Bio Inc",
+ "query": "Palisade Bio",
+ "n_studies": 7,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "IBD (UC / Crohn's)",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1929,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "PALI-2108"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-10",
+   "lead_ncts": [
+    "NCT07845487",
+    "NCT06663605",
+    "NCT07428096"
+   ],
+   "lead_title": "A Trial to Investigate PALI-2108 Versus Placebo in Participants With Moderately to Severely Active Ulcerative Colitis",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

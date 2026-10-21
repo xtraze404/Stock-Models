@@ -1,0 +1,35 @@
+{
+ "t": "DARE",
+ "name": "Dare Bioscience Inc",
+ "query": "Dar\u00e9",
+ "n_studies": 12,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Viral infections (other)",
+   "area": "Infectious disease",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.2283,
+   "peak": 600,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Lopinavir / ritonavir"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-10",
+   "lead_ncts": [
+    "NCT07601074"
+   ],
+   "lead_title": "A Study of the Preliminary Efficacy of DARE-HPV to Treat High-risk Persistent Human Papillomavirus (hrHPV)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Women's health"
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "t": "CMPX",
+ "name": "Compass Therapeutics Inc.",
+ "query": "Compass Therapeutics",
+ "n_studies": 10,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Liver cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.5,
+   "pos": 0.2177,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2030,
+   "drugs": [
+    "CTX-009"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-08-31",
+   "lead_ncts": [
+    "NCT05506943"
+   ],
+   "lead_title": "A Study of CTX-009 in Combination With Paclitaxel in Adult Patients With Unresectable Advanced, Metastatic or Recurrent ",
+   "niche": false
+  },
+  {
+   "bucket": "Colorectal cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "CTX-009"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05513742"
+   ],
+   "lead_title": "A Study of CTX-009 in Adult Patients With Metastatic Colorectal Cancer",
+   "niche": false
+  },
+  {
+   "bucket": "Lung cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "CTX-8371"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT06150664"
+   ],
+   "lead_title": "A Phase 1 of CTX-8371 in Patients With Advanced Malignancies",
+   "niche": false
+  },
+  {
+   "bucket": "Thyroid / neuroendocrine cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 600,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "CTX-471"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-09",
+   "lead_ncts": [
+    "NCT07684170"
+   ],
+   "lead_title": "Study of CTX-471 in Patients With Neural Cell Adhesion Molecule (NCAM) Positive Neuroendocrine Neoplasms",
+   "niche": false
+  },
+  {
+   "bucket": "Gastric / esophageal cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "CTX-10726"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-04-01",
+   "lead_ncts": [
+    "NCT07419841"
+   ],
+   "lead_title": "A Phase 1 Study of the Safety and Tolerability of CTX-10726",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

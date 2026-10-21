@@ -1,0 +1,40 @@
+{
+ "t": "ABVX",
+ "name": "Abivax SA",
+ "query": "Abivax",
+ "n_studies": 23,
+ "n_used": 11,
+ "programs": [
+  {
+   "bucket": "IBD (UC / Crohn's)",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.6145,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "ABX464",
+    "Obefazimod",
+    "ABX464 100 mg"
+   ],
+   "n_trials": 8,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT05507203",
+    "NCT05507216",
+    "NCT05535946"
+   ],
+   "lead_title": "ABTECT-1 - ABX464 Treatment Evaluation for Ulcerative Colitis Therapy -1",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Liver cancer",
+  "Rheumatoid / spondyloarthritis"
+ ]
+}

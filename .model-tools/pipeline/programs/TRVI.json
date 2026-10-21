@@ -1,0 +1,37 @@
+{
+ "t": "TRVI",
+ "name": "Trevi Therapeutics, Inc.",
+ "query": "Trevi Therapeutics",
+ "n_studies": 17,
+ "n_used": 6,
+ "programs": [
+  {
+   "bucket": "Idiopathic pulmonary fibrosis",
+   "area": "Respiratory",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.6166,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "NAL ER"
+   ],
+   "n_trials": 5,
+   "next_readout": "2027-08",
+   "lead_ncts": [
+    "NCT07868419",
+    "NCT07671911",
+    "NCT04030026"
+   ],
+   "lead_title": "Idiopathic Pulmonary Fibrosis (IPF)-Related Chronic Cough Reduction With Nalbuphine (NAL) Extended-Release (ER) Tablets",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Hidradenitis / alopecia / vitiligo"
+ ]
+}

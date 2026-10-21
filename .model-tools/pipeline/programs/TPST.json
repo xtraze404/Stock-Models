@@ -1,0 +1,41 @@
+{
+ "t": "TPST",
+ "name": "Tempest Therapeutics Inc",
+ "query": "Tempest Therapeutics",
+ "n_studies": 4,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Liver cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 1200,
+   "owned": true,
+   "partners": [
+    "Hoffmann-La Roche"
+   ],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "TPST-1120",
+    "Tiragolumab",
+    "Tocilizumab"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-07-30",
+   "lead_ncts": [
+    "NCT06680258",
+    "NCT04524871",
+    "NCT03829436"
+   ],
+   "lead_title": "A Study of TPST-1120 With Atezolizumab Plus Bevacizumab in Patients With Unresectable or Metastatic HCC Not Previously T",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Solid tumors (basket)"
+ ]
+}

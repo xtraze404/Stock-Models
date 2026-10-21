@@ -1,0 +1,83 @@
+{
+ "t": "ARTV",
+ "name": "Artiva Biotherapeutics Inc",
+ "query": "Artiva Biotherapeutics",
+ "n_studies": 7,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Rare autoimmune",
+   "area": "Autoimmune",
+   "rate_class": "rare",
+   "stage": 2.0,
+   "pos": 0.2521,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Allogeneic NK Cells"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-01",
+   "lead_ncts": [
+    "NCT06991114"
+   ],
+   "lead_title": "AlloNK\u00ae, an Allogeneic Non-genetically Modified, Cord Blood-derived NK Cell Therapy, in Combination With Rituximab, Stud",
+   "niche": false
+  },
+  {
+   "bucket": "Lupus / Sjogren's",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.1065,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "AB-101",
+    "Cyclophosphamide"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-08",
+   "lead_ncts": [
+    "NCT06265220"
+   ],
+   "lead_title": "AB-101 in Combination With B-Cell Depleting mAb in Patients Who Failed Treatment for Class III or IV Lupus Nephritis or ",
+   "niche": false
+  },
+  {
+   "bucket": "Lymphoma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": true,
+   "partners": [
+    "GC Cell Corporation"
+   ],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "GCC2005",
+    "Cyclophosphamide",
+    "AB-101"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-08",
+   "lead_ncts": [
+    "NCT04673617",
+    "NCT06699771"
+   ],
+   "lead_title": "AB-101 as Monotherapy and With Immunotherapy in Patients With Relapsed/Refractory B-Cell Non-Hodgkin Lymphoma",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

@@ -1,0 +1,37 @@
+{
+ "t": "ACHV",
+ "name": "Achieve Life Sciences, Inc.",
+ "query": "Achieve Life Sciences",
+ "n_studies": 37,
+ "n_used": 5,
+ "programs": [
+  {
+   "bucket": "Anxiety / PTSD / addiction",
+   "area": "Psychiatry",
+   "rate_class": "area",
+   "stage": 3.5,
+   "pos": 0.912,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2027,
+   "drugs": [
+    "Cytisinicline"
+   ],
+   "n_trials": 5,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04576949",
+    "NCT05206370",
+    "NCT06435221"
+   ],
+   "lead_title": "A Study of Cytisinicline for Smoking Cessation in Adult Smokers",
+   "niche": false,
+   "reg": "CRL Jun 2026 (manufacturing only, no efficacy/safety issues); resubmission planned Q4 2026"
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [],
+ "overrides": true
+}

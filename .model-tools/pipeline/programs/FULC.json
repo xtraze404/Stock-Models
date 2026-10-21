@@ -1,0 +1,39 @@
+{
+ "t": "FULC",
+ "name": "Fulcrum Therapeutics, Inc.",
+ "query": "Fulcrum Therapeutics",
+ "n_studies": 10,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Sickle cell / thalassemia",
+   "area": "Hematology",
+   "rate_class": "rare",
+   "stage": 2.0,
+   "pos": 0.2521,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Pociredir oral capsule(s)",
+    "Pociredir",
+    "FTX-6058 - Two Dosing Periods"
+   ],
+   "n_trials": 3,
+   "next_readout": "2030-02-04",
+   "lead_ncts": [
+    "NCT07401823",
+    "NCT04586985",
+    "NCT05169580"
+   ],
+   "lead_title": "Open-Label Extension Study to Pioneer Study 6058-SCD-101",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Muscular dystrophy / SMA"
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "t": "RVMD",
+ "name": "Revolution Medicines, Inc.",
+ "query": "Revolution Medicines",
+ "n_studies": 25,
+ "n_used": 20,
+ "programs": [
+  {
+   "bucket": "Lung cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "RMC-6236",
+    "RMC-6291",
+    "zoldonrasib"
+   ],
+   "n_trials": 8,
+   "next_readout": "2026-12-31",
+   "lead_ncts": [
+    "NCT06881784",
+    "NCT07777822",
+    "NCT05054725"
+   ],
+   "lead_title": "Study of Daraxonrasib (RMC-6236) in Patients With RAS Mutated NSCLC (RASolve 301)",
+   "niche": false
+  },
+  {
+   "bucket": "Pancreatic cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 2500,
+   "owned": true,
+   "partners": [
+    "ParVation Therapeutics, Inc.",
+    "Tango Therapeutics, Inc."
+   ],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "daraxonrasib",
+    "RMC-6236",
+    "RMC-9805"
+   ],
+   "n_trials": 9,
+   "next_readout": "2027-06",
+   "lead_ncts": [
+    "NCT06625320",
+    "NCT07491445",
+    "NCT07621718"
+   ],
+   "lead_title": "Phase 3 Study of Daraxonrasib (RMC-6236) in Patients With Previously Treated Metastatic Pancreatic Ductal Adenocarcinoma",
+   "niche": false
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "Daraxonrasib",
+    "Elironrasib",
+    "RMC-4630"
+   ],
+   "n_trials": 3,
+   "next_readout": "2029-05",
+   "lead_ncts": [
+    "NCT03989115",
+    "NCT07397338",
+    "NCT04774952"
+   ],
+   "lead_title": "Dose-Esc/Exp RMC4630 & Cobi in Relapsed/Refractory Solid Tumors & RMC4630& Osi in EGFR+ Locally Adv/Meta NSCLC",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

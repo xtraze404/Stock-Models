@@ -1,0 +1,39 @@
+{
+ "t": "ALEC",
+ "name": "Alector, Inc.",
+ "query": "Alector",
+ "n_studies": 12,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Alzheimer's disease",
+   "area": "Neurology",
+   "rate_class": "chronic",
+   "stage": 2.0,
+   "pos": 0.1273,
+   "peak": 4000,
+   "owned": true,
+   "partners": [
+    "GlaxoSmithKline"
+   ],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "AL003",
+    "GSK4527226",
+    "AL001"
+   ],
+   "n_trials": 4,
+   "next_readout": "2028-09-15",
+   "lead_ncts": [
+    "NCT03987295",
+    "NCT04592874",
+    "NCT07105709"
+   ],
+   "lead_title": "A Phase 2 Study to Evaluate Safety of Long-term AL001 Dosing in Frontotemporal Dementia (FTD) Patients (INFRONT-2)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

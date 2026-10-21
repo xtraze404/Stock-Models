@@ -1,0 +1,132 @@
+{
+ "t": "ALXO",
+ "name": "ALX Oncology Holdings Inc",
+ "query": "ALX Oncology",
+ "n_studies": 13,
+ "n_used": 8,
+ "programs": [
+  {
+   "bucket": "Breast cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Evorpacept (ALX148)",
+    "Eribulin"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-12",
+   "lead_ncts": [
+    "NCT07007559"
+   ],
+   "lead_title": "ASPEN-09-03: A Study of Evorpacept in Combination With Trastuzumab and Chemotherapy in Metastatic HER2-Positive Breast C",
+   "niche": false
+  },
+  {
+   "bucket": "Gastric / esophageal cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.5,
+   "pos": 0.2177,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2030,
+   "drugs": [
+    "Evorpacept (ALX148)",
+    "Ramucirumab"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05002127"
+   ],
+   "lead_title": "A Study of Evorpacept (ALX148) in Patients With Advanced HER2+ Gastric Cancer (ASPEN-06)",
+   "niche": false
+  },
+  {
+   "bucket": "Head and neck cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "evorpacept",
+    "ALX2004"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-06",
+   "lead_ncts": [
+    "NCT04675333",
+    "NCT04675294",
+    "NCT07085091"
+   ],
+   "lead_title": "Evorpacept (ALX148) in Combination With Pembrolizumab and Chemotherapy in Patients With Advanced Head and Neck Squamous ",
+   "niche": false
+  },
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": true,
+   "partners": [
+    "Jazz Pharmaceuticals"
+   ],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "Evorpacept (ALX148)",
+    "Zanidatamab",
+    "Evorpacept"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05027139",
+    "NCT03013218"
+   ],
+   "lead_title": "A Study of Zanidatamab (ZW25) With Evorpacept (ALX148) in Patients With Advanced HER2-expressing Cancer",
+   "niche": false
+  },
+  {
+   "bucket": "Bladder / urothelial cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "Evorpacept",
+    "Enfortumab Vedotin"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05524545"
+   ],
+   "lead_title": "A Study of Evorpacept (ALX148) With Enfortumab Vedotin for Subjects With Urothelial Carcinoma (ASPEN-07)",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

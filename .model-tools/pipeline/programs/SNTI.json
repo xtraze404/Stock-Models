@@ -1,0 +1,33 @@
+{
+ "t": "SNTI",
+ "name": "Senti Biosciences Holdings Inc",
+ "query": "Senti Biosciences",
+ "n_studies": 2,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 600,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "SENTI-202"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06325748"
+   ],
+   "lead_title": "SENTI-202: Off-the-shelf Logic Gated CAR NK Cell Therapy in Adults With CD33 and/or FLT3 Blood Cancers Including AML/MDS",
+   "niche": true
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

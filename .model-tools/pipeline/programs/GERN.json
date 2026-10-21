@@ -1,0 +1,39 @@
+{
+ "t": "GERN",
+ "name": "Geron Corporation",
+ "query": "Geron",
+ "n_studies": 24,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Myelofibrosis / MDS / MPN",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 4,
+   "pos": 1.0,
+   "peak": 1000,
+   "owned": true,
+   "partners": [
+    "GCP-Service International West GmbH"
+   ],
+   "share": 0.4,
+   "launch": 2024,
+   "drugs": [
+    "Rytelo (imetelstat)"
+   ],
+   "n_trials": 4,
+   "next_readout": "2027-02",
+   "lead_ncts": [
+    "NCT04576156",
+    "NCT02598661",
+    "NCT05583552"
+   ],
+   "lead_title": "A Study Comparing Imetelstat Versus Best Available Therapy for the Treatment of Intermediate-2 or High-risk Myelofibrosi",
+   "niche": false,
+   "reg": "RYTELO (imetelstat) approved in lower-risk MDS; myelofibrosis Phase 3 ongoing"
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [],
+ "overrides": true
+}

@@ -1,0 +1,12 @@
+{
+ "t": "FBLG",
+ "name": "Fibrobiologics Inc",
+ "query": "Fibrobiologics",
+ "n_studies": 2,
+ "n_used": 1,
+ "programs": [],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Multiple sclerosis"
+ ]
+}

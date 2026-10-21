@@ -1,0 +1,87 @@
+{
+ "t": "CADL",
+ "name": "Candel Therapeutics Inc",
+ "query": "Candel Therapeutics",
+ "n_studies": 14,
+ "n_used": 8,
+ "programs": [
+  {
+   "bucket": "Lung cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "CAN-2409 + valacyclovir",
+    "Aglatimagene besadenovec",
+    "Aglatimagene Besadenovec"
+   ],
+   "n_trials": 3,
+   "next_readout": "2031-10-22",
+   "lead_ncts": [
+    "NCT07660094",
+    "NCT04495153",
+    "NCT03131037"
+   ],
+   "lead_title": "Aglatimagene Besadenovec + Prodrug and Pembrolizumab vs Docetaxel for Stage IV Non-Squamous NSCLC Progressing on Pembrol",
+   "niche": false
+  },
+  {
+   "bucket": "Prostate cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "aglatimagene besadenovec + valacyclovir",
+    "Aglatimagene besadenovec + valacyclovir",
+    "aglatimagene besadenovec"
+   ],
+   "n_trials": 3,
+   "next_readout": "2027-02",
+   "lead_ncts": [
+    "NCT01436968",
+    "NCT02768363",
+    "NCT07332000"
+   ],
+   "lead_title": "Phase 3 Study of ProstAtak\u00ae Immunotherapy With Standard Radiation Therapy for Localized Prostate Cancer",
+   "niche": false
+  },
+  {
+   "bucket": "Pancreatic cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 2500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Aglatimagene besadenovec"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT02446093"
+   ],
+   "lead_title": "Neoadjuvant CAN-2409 in Combination With Chemoradiation or SBRT for Borderline Resectable Pancreatic Adenocarcinoma",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Brain cancer"
+ ]
+}

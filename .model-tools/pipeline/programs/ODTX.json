@@ -1,0 +1,35 @@
+{
+ "t": "ODTX",
+ "name": "Odyssey Therapeutics Inc",
+ "query": "Odyssey Therapeutics",
+ "n_studies": 2,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "IBD (UC / Crohn's)",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1929,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "OD-07656",
+    "Vedolizumab"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06850727",
+    "NCT06206811"
+   ],
+   "lead_title": "Safety and Efficacy of OD-07656 and of Subsequent Vedolizumab Therapy in Moderately to Severely Active Ulcerative Coliti",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

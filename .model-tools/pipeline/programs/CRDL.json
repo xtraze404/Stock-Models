@@ -1,0 +1,33 @@
+{
+ "t": "CRDL",
+ "name": "Cardiol Therapeutics Inc",
+ "query": "Cardiol Therapeutics",
+ "n_studies": 4,
+ "n_used": 1,
+ "programs": [
+  {
+   "bucket": "Cardiomyopathy",
+   "area": "Cardiovascular",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.0956,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "CardiolRx"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05180240"
+   ],
+   "lead_title": "Impact of CardiolRx on Myocardial Recovery in Patients With Acute Myocarditis",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

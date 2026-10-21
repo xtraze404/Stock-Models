@@ -1,0 +1,13 @@
+{
+ "t": "MCRB",
+ "name": "Seres Therapeutics, Inc.",
+ "query": "Seres Therapeutics",
+ "n_studies": 9,
+ "n_used": 2,
+ "programs": [],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Bacterial / fungal infections",
+  "Transplant / GVHD"
+ ]
+}

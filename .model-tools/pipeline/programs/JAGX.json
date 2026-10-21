@@ -1,0 +1,13 @@
+{
+ "t": "JAGX",
+ "name": "Jaguar Health Inc",
+ "query": "Napo Pharmaceuticals",
+ "n_studies": 6,
+ "n_used": 2,
+ "programs": [],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Solid tumors (basket)",
+  "HIV / hepatitis"
+ ]
+}

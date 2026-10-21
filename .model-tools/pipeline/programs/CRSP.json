@@ -1,0 +1,199 @@
+{
+ "t": "CRSP",
+ "name": "CRISPR Therapeutics AG",
+ "query": "CRISPR Therapeutics",
+ "n_studies": 21,
+ "n_used": 15,
+ "programs": [
+  {
+   "bucket": "Sickle cell / thalassemia",
+   "area": "Hematology",
+   "rate_class": "rare",
+   "stage": 4,
+   "pos": 1.0,
+   "peak": 1000,
+   "owned": false,
+   "partners": [
+    "Vertex Pharmaceuticals Incorporated"
+   ],
+   "share": 0.16,
+   "launch": 2024,
+   "drugs": [
+    "Casgevy (exa-cel)"
+   ],
+   "n_trials": 5,
+   "next_readout": "2027-06-06",
+   "lead_ncts": [
+    "NCT05329649",
+    "NCT05356195",
+    "NCT04208529"
+   ],
+   "lead_title": "Evaluation of Safety and Efficacy of CTX001 in Pediatric Participants With Severe Sickle Cell Disease (SCD)",
+   "niche": false,
+   "reg": "Casgevy approved (SCD, TDT); label expanded to ages 2+ in Jul 2026; CRISPR shares 40% of program profits with Vertex"
+  },
+  {
+   "bucket": "Cystic fibrosis / bronchiectasis",
+   "area": "Respiratory",
+   "rate_class": "rare",
+   "stage": 1.5,
+   "pos": 0.207,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "CTX460"
+   ],
+   "n_trials": 1,
+   "next_readout": "2030-06-30",
+   "lead_ncts": [
+    "NCT07850076"
+   ],
+   "lead_title": "A Trial Evaluating the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Efficacy of CTX460 in Adults With E",
+   "niche": false
+  },
+  {
+   "bucket": "Hypertension",
+   "area": "Cardiovascular",
+   "rate_class": "chronic",
+   "stage": 1.5,
+   "pos": 0.0863,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "CTX340"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-07-01",
+   "lead_ncts": [
+    "NCT07758634"
+   ],
+   "lead_title": "A Trial Evaluating Safety, Tolerability and Efficacy of CTX340 in Participants With Hypertension",
+   "niche": false
+  },
+  {
+   "bucket": "Multiple sclerosis",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0852,
+   "peak": 2000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "CTX112"
+   ],
+   "n_trials": 1,
+   "next_readout": "2029-12-30",
+   "lead_ncts": [
+    "NCT07804004"
+   ],
+   "lead_title": "A Safety and Efficacy Study Evaluating CTX112 in Subjects With Refractory Neurologic Autoimmune Disease",
+   "niche": false
+  },
+  {
+   "bucket": "Rare autoimmune",
+   "area": "Autoimmune",
+   "rate_class": "rare",
+   "stage": 1.5,
+   "pos": 0.207,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "CTX112"
+   ],
+   "n_trials": 1,
+   "next_readout": "2033-12",
+   "lead_ncts": [
+    "NCT07549698"
+   ],
+   "lead_title": "Safety and Preliminary Efficacy of CTX112 in Adult Participants With Relapsed/Refractory Hematologic Autoimmune Disease",
+   "niche": false
+  },
+  {
+   "bucket": "Lipids / cardiometabolic",
+   "area": "Cardiovascular",
+   "rate_class": "chronic",
+   "stage": 1.0,
+   "pos": 0.0585,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "CTX310"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-06",
+   "lead_ncts": [
+    "NCT07491172"
+   ],
+   "lead_title": "A Safety and Tolerability Trial Evaluating CTX310 in Participants With Refractory Dyslipidemias",
+   "niche": false
+  },
+  {
+   "bucket": "Lupus / Sjogren's",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.1065,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "CTX112"
+   ],
+   "n_trials": 1,
+   "next_readout": "2031-12-31",
+   "lead_ncts": [
+    "NCT06925542"
+   ],
+   "lead_title": "A Safety and Efficacy Study Evaluating CTX112 in Adult Subjects With Refractory Autoimmune Disease",
+   "niche": false
+  },
+  {
+   "bucket": "Lymphoma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.0754,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "CTX131",
+    "CTX112"
+   ],
+   "n_trials": 2,
+   "next_readout": "2030-01",
+   "lead_ncts": [
+    "NCT06492304",
+    "NCT05643742"
+   ],
+   "lead_title": "A Safety and Efficacy Study Evaluating CTX131 in Adult Subjects With Relapsed/Refractory Hematologic Malignancies",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [
+  "Kidney cancer"
+ ],
+ "stale_programs": [
+  "Type 2 diabetes"
+ ],
+ "overrides": true
+}

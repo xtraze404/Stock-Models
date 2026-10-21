@@ -1,0 +1,60 @@
+{
+ "t": "LTRN",
+ "name": "Lantern Pharma Inc",
+ "query": "Lantern Pharma",
+ "n_studies": 6,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.108,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "LP-300",
+    "LP-184",
+    "Olaparib"
+   ],
+   "n_trials": 2,
+   "next_readout": "2026-12",
+   "lead_ncts": [
+    "NCT05456256",
+    "NCT05933265"
+   ],
+   "lead_title": "A Study of LP-300 With Carboplatin and Pemetrexed in Never Smokers With Advanced Lung Adenocarcinoma",
+   "niche": false
+  },
+  {
+   "bucket": "Lymphoma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "LP-284"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-11-30",
+   "lead_ncts": [
+    "NCT06132503"
+   ],
+   "lead_title": "Safety, Pharmacokinetics, and Clinical Activity of LP-284 in Adult Patients With Relapsed or Refractory Lymphomas and So",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Prostate cancer"
+ ]
+}

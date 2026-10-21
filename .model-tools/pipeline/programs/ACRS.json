@@ -1,0 +1,40 @@
+{
+ "t": "ACRS",
+ "name": "Aclaris Therapeutics, Inc.",
+ "query": "Aclaris Therapeutics",
+ "n_studies": 36,
+ "n_used": 7,
+ "programs": [
+  {
+   "bucket": "Atopic dermatitis",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1929,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "ATI-2138",
+    "ATI-045",
+    "ATI-1777 2.0% w/w"
+   ],
+   "n_trials": 4,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04598269",
+    "NCT05432596",
+    "NCT06585202"
+   ],
+   "lead_title": "Study of ATI-1777 in Adult Patients With Moderate or Severe Atopic Dermatitis",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Rheumatoid / spondyloarthritis",
+  "Hidradenitis / alopecia / vitiligo"
+ ]
+}

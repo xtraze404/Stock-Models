@@ -1,0 +1,39 @@
+{
+ "t": "APMD",
+ "name": "Apnimed Inc",
+ "query": "Apnimed",
+ "n_studies": 19,
+ "n_used": 7,
+ "programs": [
+  {
+   "bucket": "Movement / sleep disorders",
+   "area": "Neurology",
+   "rate_class": "area",
+   "stage": 3.5,
+   "pos": 0.867,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2027,
+   "drugs": [
+    "AD109",
+    "Atomoxetine",
+    "AD504"
+   ],
+   "n_trials": 7,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04580394",
+    "NCT04631107",
+    "NCT04645524"
+   ],
+   "lead_title": "Crossover Trial of AD109 in Obstructive Sleep Apnea",
+   "niche": false,
+   "reg": "NDA for AD109 in obstructive sleep apnea, PDUFA Feb 28, 2027"
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [],
+ "overrides": true
+}

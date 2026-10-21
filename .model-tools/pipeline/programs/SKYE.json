@@ -1,0 +1,36 @@
+{
+ "t": "SKYE",
+ "name": "Skye Bioscience, Inc.",
+ "query": "Skye Bioscience",
+ "n_studies": 2,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Obesity",
+   "area": "Metabolic",
+   "rate_class": "chronic",
+   "stage": 2.0,
+   "pos": 0.1273,
+   "peak": 6000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Nimacimab injection",
+    "Nimacimab 300 mg injection"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-11-20",
+   "lead_ncts": [
+    "NCT06577090"
+   ],
+   "lead_title": "Study to Evaluate the Effect on Obesity of QW Nimacimab and QW Nimacimab Co-administered With Semaglutide vs Placebo",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Eye disease (other)"
+ ]
+}

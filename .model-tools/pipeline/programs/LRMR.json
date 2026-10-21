@@ -1,0 +1,36 @@
+{
+ "t": "LRMR",
+ "name": "Larimar Therapeutics, Inc.",
+ "query": "Larimar Therapeutics",
+ "n_studies": 8,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Muscular dystrophy / SMA",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 3.0,
+   "pos": 0.5653,
+   "peak": 1000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "CTI-1601",
+    "Nomlabofusp"
+   ],
+   "n_trials": 4,
+   "next_readout": "2027-01",
+   "lead_ncts": [
+    "NCT07778836",
+    "NCT05579691",
+    "NCT06447025"
+   ],
+   "lead_title": "A Study to Evaluate the Efficacy and Safety of Subcutaneous Nomlabofusp in Subjects With Friedreich's Ataxia",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

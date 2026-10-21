@@ -1,0 +1,59 @@
+{
+ "t": "BBOT",
+ "name": "BridgeBio Oncology Therapeutics Inc",
+ "query": "BridgeBio Oncology Therapeutics",
+ "n_studies": 3,
+ "n_used": 3,
+ "programs": [
+  {
+   "bucket": "Lung cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "BBO-10203",
+    "BBO-8520",
+    "BBO-11818"
+   ],
+   "n_trials": 2,
+   "next_readout": "2027-08",
+   "lead_ncts": [
+    "NCT06917079",
+    "NCT06343402"
+   ],
+   "lead_title": "BBO-11818 in Adult Subjects With KRAS Mutant Cancer",
+   "niche": false
+  },
+  {
+   "bucket": "Breast cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "BBO-10203",
+    "Ribociclib"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-11",
+   "lead_ncts": [
+    "NCT06625775"
+   ],
+   "lead_title": "Open-Label Study of BBO-10203 in Subjects With Advanced Solid Tumors",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

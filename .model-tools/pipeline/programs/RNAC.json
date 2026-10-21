@@ -1,0 +1,79 @@
+{
+ "t": "RNAC",
+ "name": "Cartesian Therapeutics, Inc.",
+ "query": "Cartesian Therapeutics",
+ "n_studies": 12,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Myasthenia gravis / neuromuscular",
+   "area": "Neurology",
+   "rate_class": "rare",
+   "stage": 2.0,
+   "pos": 0.2521,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Descartes-08"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04146051"
+   ],
+   "lead_title": "Descartes-08 CAR-T Cells in Generalized Myasthenia Gravis (MG)",
+   "niche": false
+  },
+  {
+   "bucket": "Lupus / Sjogren's",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1929,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "Descartes-08"
+   ],
+   "n_trials": 1,
+   "next_readout": "2026-12-01",
+   "lead_ncts": [
+    "NCT06038474"
+   ],
+   "lead_title": "Descartes-08 for Patients With Systemic Lupus Erythematosus",
+   "niche": false
+  },
+  {
+   "bucket": "Rare autoimmune",
+   "area": "Autoimmune",
+   "rate_class": "rare",
+   "stage": 1.5,
+   "pos": 0.207,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "Descartes-08"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-12",
+   "lead_ncts": [
+    "NCT07089121"
+   ],
+   "lead_title": "Descartes-08 for Children, Adolescents, and Young Adults With Autoimmune Disorders",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Multiple myeloma"
+ ]
+}

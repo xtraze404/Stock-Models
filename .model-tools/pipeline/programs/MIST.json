@@ -1,0 +1,61 @@
+{
+ "t": "MIST",
+ "name": "Milestone Pharmaceuticals Inc",
+ "query": "Milestone Pharmaceuticals",
+ "n_studies": 11,
+ "n_used": 6,
+ "programs": [
+  {
+   "bucket": "Thrombosis / cardiovascular",
+   "area": "Cardiovascular",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4554,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Etripamil"
+   ],
+   "n_trials": 2,
+   "next_readout": "2028-12",
+   "lead_ncts": [
+    "NCT06716021",
+    "NCT04467905"
+   ],
+   "lead_title": "ReVeRA-301: Etripamil in Atrial Fibrillation Phase 3",
+   "niche": false
+  },
+  {
+   "bucket": "Rare hematology",
+   "area": "Hematology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.715,
+   "peak": 700,
+   "owned": true,
+   "partners": [
+    "Corxel Pharmaceuticals"
+   ],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "Etripamil NS 70 mg",
+    "Etripamil NS"
+   ],
+   "n_trials": 4,
+   "next_readout": "2027-06-01",
+   "lead_ncts": [
+    "NCT04072835",
+    "NCT05410860",
+    "NCT04952610"
+   ],
+   "lead_title": "Safety Study of Etripamil Nasal Spray for Patients With Paroxysmal Supraventricular Tachycardia. NODE-303",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

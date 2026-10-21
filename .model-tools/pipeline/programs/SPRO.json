@@ -1,0 +1,38 @@
+{
+ "t": "SPRO",
+ "name": "Spero Therapeutics, Inc.",
+ "query": "Spero Therapeutics",
+ "n_studies": 24,
+ "n_used": 2,
+ "programs": [
+  {
+   "bucket": "Bacterial / fungal infections",
+   "area": "Infectious disease",
+   "rate_class": "area",
+   "stage": 4,
+   "pos": 1.0,
+   "peak": 500,
+   "owned": false,
+   "partners": [
+    "GSK"
+   ],
+   "share": 0.12,
+   "launch": 2026,
+   "drugs": [
+    "Utebzi (tebipenem HBr)"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT06059846",
+    "NCT05496374"
+   ],
+   "lead_title": "A Study of Oral Tebipenem Pivoxil Hydrobromide (TBP-PI-HBr) Compared to Intravenous Imipenem-cilastatin in Participants ",
+   "niche": false,
+   "reg": "Utebzi approved Jun 17, 2026 for complicated UTI; GSK commercializes (Spero receives milestones and royalties)"
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [],
+ "overrides": true
+}

@@ -1,0 +1,39 @@
+{
+ "t": "CRBP",
+ "name": "Corbus Pharmaceuticals Holdings, Inc.",
+ "query": "Corbus Pharmaceuticals",
+ "n_studies": 11,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Solid tumors (basket)",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 3.0,
+   "pos": 0.4388,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2029,
+   "drugs": [
+    "CRB-701",
+    "capcitabine",
+    "Anti-PD-1"
+   ],
+   "n_trials": 3,
+   "next_readout": "2026-11-01",
+   "lead_ncts": [
+    "NCT07768189",
+    "NCT06603844",
+    "NCT06265727"
+   ],
+   "lead_title": "A Study to Evaluate CRB-701 Compared to Investigator's Choice Therapy in Previously Treated Oropharyngeal Squamous Cell ",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Rare autoimmune"
+ ]
+}

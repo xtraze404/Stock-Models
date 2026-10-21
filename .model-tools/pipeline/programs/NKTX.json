@@ -1,0 +1,101 @@
+{
+ "t": "NKTX",
+ "name": "Nkarta, Inc.",
+ "query": "Nkarta",
+ "n_studies": 5,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "Lupus / Sjogren's",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 1.5,
+   "pos": 0.1434,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "NKX019",
+    "Fludarabine, Cyclophosphamide"
+   ],
+   "n_trials": 1,
+   "next_readout": "2027-04",
+   "lead_ncts": [
+    "NCT06557265"
+   ],
+   "lead_title": "A Phase 1/2 Study of NKX019 in Subjects With Autoimmune Disease (Ntrust-1)",
+   "niche": false
+  },
+  {
+   "bucket": "Rare autoimmune",
+   "area": "Autoimmune",
+   "rate_class": "rare",
+   "stage": 1.5,
+   "pos": 0.207,
+   "peak": 800,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2032,
+   "drugs": [
+    "NKX019",
+    "Fludarabine"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-10",
+   "lead_ncts": [
+    "NCT06733935"
+   ],
+   "lead_title": "A Phase 1/2 Study of NKX019 in Subjects With Immune-Mediated Diseases (Ntrust-2)",
+   "niche": false
+  },
+  {
+   "bucket": "Leukemia",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "NKX101 - CAR NK cell therapy"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04623944"
+   ],
+   "lead_title": "NKX101, Intravenous Allogeneic CAR NK Cells, in Adults With AML or MDS",
+   "niche": false
+  },
+  {
+   "bucket": "Lymphoma",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1500,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "NKX019"
+   ],
+   "n_trials": 1,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT05020678"
+   ],
+   "lead_title": "NKX019, Intravenous Allogeneic Chimeric Antigen Receptor Natural Killer Cells (CAR NK), in Adults With B-cell Cancers",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": []
+}

@@ -1,0 +1,13 @@
+{
+ "t": "CALC",
+ "name": "CalciMedica Inc",
+ "query": "CalciMedica",
+ "n_studies": 8,
+ "n_used": 2,
+ "programs": [],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Bacterial / fungal infections",
+  "Pancreatic cancer"
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "t": "STTK",
+ "name": "Shattuck Labs Inc",
+ "query": "Shattuck Labs",
+ "n_studies": 7,
+ "n_used": 4,
+ "programs": [
+  {
+   "bucket": "IBD (UC / Crohn's)",
+   "area": "Autoimmune",
+   "rate_class": "area",
+   "stage": 2.0,
+   "pos": 0.1929,
+   "peak": 3000,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2031,
+   "drugs": [
+    "SL-325"
+   ],
+   "n_trials": 1,
+   "next_readout": "2028-07",
+   "lead_ncts": [
+    "NCT07753850"
+   ],
+   "lead_title": "A Study of SL-325 in Crohn's Disease Patients",
+   "niche": false
+  },
+  {
+   "bucket": "Ovarian cancer",
+   "area": "Oncology",
+   "rate_class": "area",
+   "stage": 1.0,
+   "pos": 0.0527,
+   "peak": 1200,
+   "owned": true,
+   "partners": [],
+   "share": 0.4,
+   "launch": 2033,
+   "drugs": [
+    "SL-172154",
+    "Pegylated Liposomal Doxorubicin + SL-172154",
+    "Mirvetuximab + SL-172154"
+   ],
+   "n_trials": 2,
+   "next_readout": null,
+   "lead_ncts": [
+    "NCT04406623",
+    "NCT05483933"
+   ],
+   "lead_title": "Phase 1 Study of SL-172154 (SIRP\u03b1-Fc-CD40L) in Subjects With Ovarian Cancer",
+   "niche": false
+  }
+ ],
+ "dropped_programs": [],
+ "stale_programs": [
+  "Solid tumors (basket)"
+ ]
+}
