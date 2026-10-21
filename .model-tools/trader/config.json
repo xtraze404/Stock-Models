@@ -1,0 +1,14 @@
+{
+  "start_cash": 100000.0,
+  "band": 0.0075,
+  "min_trade_usd": 250.0,
+  "slippage_bps": 5.0,
+  "borrow_rate": 0.02,
+  "borrow_overrides": {},
+  "max_sheet_age_days": 4,
+  "split_guard": 0.6,
+  "max_missing_prices": 0.1,
+  "aliases": {
+    "QNCX": "IRLA"
+  }
+}
