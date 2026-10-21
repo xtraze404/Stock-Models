@@ -1,0 +1,2818 @@
+{
+"LLY": {
+"px": 1286.835,
+"src": "nasdaq"
+},
+"JNJ": {
+"px": 259.4,
+"src": "nasdaq"
+},
+"ABBV": {
+"px": 289.15,
+"src": "nasdaq"
+},
+"MRK": {
+"px": 148.3,
+"src": "nasdaq"
+},
+"NVS": {
+"px": null,
+"src": null
+},
+"AZN": {
+"px": 168.82,
+"src": "nasdaq"
+},
+"AMGN": {
+"px": 438.94,
+"src": "nasdaq"
+},
+"GILD": {
+"px": 156.51,
+"src": "nasdaq"
+},
+"NVO": {
+"px": 39.345,
+"src": "nasdaq"
+},
+"PFE": {
+"px": 30.13,
+"src": "nasdaq"
+},
+"VRTX": {
+"px": 514.65,
+"src": "nasdaq"
+},
+"BMY": {
+"px": 61.715,
+"src": "nasdaq"
+},
+"GSK": {
+"px": 50.645,
+"src": "nasdaq"
+},
+"SNY": {
+"px": 41.4,
+"src": "nasdaq"
+},
+"MRNA": {
+"px": 242.08,
+"src": "nasdaq"
+},
+"REGN": {
+"px": 807.48,
+"src": "nasdaq"
+},
+"TAK": {
+"px": null,
+"src": null
+},
+"NTRA": {
+"px": 405.92,
+"src": "nasdaq"
+},
+"ARGX": {
+"px": 869.72,
+"src": "nasdaq"
+},
+"TEVA": {
+"px": 40.855,
+"src": "nasdaq"
+},
+"HLN": {
+"px": 10.17,
+"src": "cboe"
+},
+"ONC": {
+"px": 384.5,
+"src": "cboe"
+},
+"RVMD": {
+"px": 196.55,
+"src": "nasdaq"
+},
+"RPRX": {
+"px": 62.25,
+"src": "nasdaq"
+},
+"BIIB": {
+"px": 243.1,
+"src": "nasdaq"
+},
+"ZTS": {
+"px": 80.04,
+"src": "nasdaq"
+},
+"ALNY": {
+"px": 230.71,
+"src": "nasdaq"
+},
+"ROIV": {
+"px": 34.92,
+"src": "nasdaq"
+},
+"GMAB": {
+"px": 39.07,
+"src": "nasdaq"
+},
+"UTHR": {
+"px": 553.88,
+"src": "nasdaq"
+},
+"INCY": {
+"px": 116.615,
+"src": "nasdaq"
+},
+"BNTX": {
+"px": 91.17,
+"src": "nasdaq"
+},
+"VTRS": {
+"px": 18.65,
+"src": "nasdaq"
+},
+"INSM": {
+"px": 95.67,
+"src": "nasdaq"
+},
+"EXEL": {
+"px": 64.39,
+"src": "nasdaq"
+},
+"ASND": {
+"px": null,
+"src": null
+},
+"HALO": {
+"px": 124.37,
+"src": "nasdaq"
+},
+"NBIX": {
+"px": 142.0,
+"src": "nasdaq"
+},
+"JAZZ": {
+"px": 213.76,
+"src": "nasdaq"
+},
+"SMMT": {
+"px": 16.09,
+"src": "nasdaq"
+},
+"BBIO": {
+"px": 67.55,
+"src": "nasdaq"
+},
+"KNSA": {
+"px": 83.17,
+"src": "nasdaq"
+},
+"CORT": {
+"px": 116.45,
+"src": "nasdaq"
+},
+"ELAN": {
+"px": 22.7,
+"src": "nasdaq"
+},
+"RDY": {
+"px": 13.26,
+"src": "cboe"
+},
+"BMRN": {
+"px": 56.44,
+"src": "cboe"
+},
+"MDGL": {
+"px": 467.54,
+"src": "nasdaq"
+},
+"IBRX": {
+"px": 8.77,
+"src": "nasdaq"
+},
+"PCVX": {
+"px": 66.23,
+"src": "nasdaq"
+},
+"KRYS": {
+"px": 325.42,
+"src": "nasdaq"
+},
+"KYMR": {
+"px": 113.46,
+"src": "nasdaq"
+},
+"CAI": {
+"px": 31.11,
+"src": "nasdaq"
+},
+"CYTK": {
+"px": 63.95,
+"src": "nasdaq"
+},
+"AXSM": {
+"px": 159.58,
+"src": "nasdaq"
+},
+"PTGX": {
+"px": 137.99,
+"src": "nasdaq"
+},
+"TWST": {
+"px": 142.7,
+"src": "nasdaq"
+},
+"TGTX": {
+"px": 54.53,
+"src": "nasdaq"
+},
+"ARWR": {
+"px": 58.92,
+"src": "nasdaq"
+},
+"IONS": {
+"px": 45.4,
+"src": "nasdaq"
+},
+"PRAX": {
+"px": 264.49,
+"src": "nasdaq"
+},
+"SYRE": {
+"px": 91.4,
+"src": "nasdaq"
+},
+"ABVX": {
+"px": 92.59,
+"src": "nasdaq"
+},
+"ALKS": {
+"px": 44.11,
+"src": "nasdaq"
+},
+"IOVA": {
+"px": 14.86,
+"src": "nasdaq"
+},
+"AMRX": {
+"px": 19.84,
+"src": "cboe"
+},
+"RYTM": {
+"px": 90.2,
+"src": "nasdaq"
+},
+"LGND": {
+"px": 306.4,
+"src": "nasdaq"
+},
+"BLTE": {
+"px": null,
+"src": null
+},
+"COGT": {
+"px": 31.24,
+"src": "nasdaq"
+},
+"IMVT": {
+"px": 28.59,
+"src": "cboe"
+},
+"KOD": {
+"px": 92.97,
+"src": "nasdaq"
+},
+"CGON": {
+"px": 61.93,
+"src": "nasdaq"
+},
+"GRAL": {
+"px": 124.67,
+"src": "cboe"
+},
+"BLRX": {
+"px": 2.2145,
+"src": "cboe"
+},
+"MIRM": {
+"px": 85.07,
+"src": "nasdaq"
+},
+"PTCT": {
+"px": 62.92,
+"src": "nasdaq"
+},
+"SRRK": {
+"px": 41.36,
+"src": "nasdaq"
+},
+"ORKA": {
+"px": null,
+"src": null
+},
+"CRSP": {
+"px": 49.88,
+"src": "nasdaq"
+},
+"RGC": {
+"px": 10.45,
+"src": "nasdaq"
+},
+"ERAS": {
+"px": 14.62,
+"src": "nasdaq"
+},
+"TVTX": {
+"px": 52.3,
+"src": "nasdaq"
+},
+"MANE": {
+"px": 127.23,
+"src": "nasdaq"
+},
+"DFTX": {
+"px": 35.09,
+"src": "nasdaq"
+},
+"GOSS": {
+"px": 9.58,
+"src": "nasdaq"
+},
+"EWTX": {
+"px": 39.75,
+"src": "nasdaq"
+},
+"DNTH": {
+"px": 78.75,
+"src": "nasdaq"
+},
+"INDV": {
+"px": 34.77,
+"src": "cboe"
+},
+"TNGX": {
+"px": 25.255,
+"src": "cboe"
+},
+"ARQT": {
+"px": 32.82,
+"src": "nasdaq"
+},
+"TLX": {
+"px": null,
+"src": null
+},
+"OGN": {
+"px": 13.755,
+"src": "nasdaq"
+},
+"RLAY": {
+"px": 18.45,
+"src": "nasdaq"
+},
+"VCYT": {
+"px": 44.79,
+"src": "cboe"
+},
+"LEGN": {
+"px": 19.01,
+"src": "nasdaq"
+},
+"CDNA": {
+"px": 69.2,
+"src": "cboe"
+},
+"ACAD": {
+"px": 20.44,
+"src": "nasdaq"
+},
+"XENE": {
+"px": 36.27,
+"src": "nasdaq"
+},
+"IDYA": {
+"px": 35.36,
+"src": "cboe"
+},
+"LQDA": {
+"px": 36.35,
+"src": "nasdaq"
+},
+"TARS": {
+"px": 71.225,
+"src": "cboe"
+},
+"VKTX": {
+"px": 26.71,
+"src": "nasdaq"
+},
+"AMLX": {
+"px": 28.77,
+"src": "nasdaq"
+},
+"RCUS": {
+"px": 23.75,
+"src": "nasdaq"
+},
+"DNLI": {
+"px": 18.93,
+"src": "nasdaq"
+},
+"PBLS": {
+"px": 27.08,
+"src": "nasdaq"
+},
+"CELC": {
+"px": 60.0,
+"src": "nasdaq"
+},
+"ELVN": {
+"px": 41.25,
+"src": "nasdaq"
+},
+"DYN": {
+"px": 16.27,
+"src": "nasdaq"
+},
+"ZLAB": {
+"px": null,
+"src": null
+},
+"NRIX": {
+"px": 26.1,
+"src": "nasdaq"
+},
+"HCM": {
+"px": 14.74,
+"src": "cboe"
+},
+"BEAM": {
+"px": 24.93,
+"src": "nasdaq"
+},
+"ADMA": {
+"px": 11.23,
+"src": "nasdaq"
+},
+"MBX": {
+"px": 53.5,
+"src": "nasdaq"
+},
+"NAMS": {
+"px": 21.5,
+"src": "nasdaq"
+},
+"PBH": {
+"px": 49.35,
+"src": "nasdaq"
+},
+"BHC": {
+"px": 6.415,
+"src": "nasdaq"
+},
+"PRGO": {
+"px": 16.17,
+"src": "nasdaq"
+},
+"PGEN": {
+"px": 6.83,
+"src": "nasdaq"
+},
+"HRMY": {
+"px": 38.7,
+"src": "nasdaq"
+},
+"SUPN": {
+"px": 41.23,
+"src": "nasdaq"
+},
+"AUPH": {
+"px": 16.74,
+"src": "nasdaq"
+},
+"IRON": {
+"px": 79.48,
+"src": "nasdaq"
+},
+"CLDX": {
+"px": 30.29,
+"src": "nasdaq"
+},
+"VRDN": {
+"px": null,
+"src": null
+},
+"VCEL": {
+"px": 40.58,
+"src": "nasdaq"
+},
+"SLS": {
+"px": 11.98,
+"src": "nasdaq"
+},
+"VERA": {
+"px": 30.06,
+"src": "nasdaq"
+},
+"BCRX": {
+"px": 7.94,
+"src": "nasdaq"
+},
+"LKFT": {
+"px": null,
+"src": null
+},
+"TRLV": {
+"px": 10.78,
+"src": "nasdaq"
+},
+"XERS": {
+"px": null,
+"src": null
+},
+"IMNM": {
+"px": 17.92,
+"src": "nasdaq"
+},
+"AGIO": {
+"px": 36.64,
+"src": "nasdaq"
+},
+"BGM": {
+"px": null,
+"src": null
+},
+"NVAX": {
+"px": 11.43,
+"src": "nasdaq"
+},
+"RXRX": {
+"px": 3.66,
+"src": "nasdaq"
+},
+"PHVS": {
+"px": 30.9,
+"src": "nasdaq"
+},
+"SRPT": {
+"px": 19.17,
+"src": "nasdaq"
+},
+"MLYS": {
+"px": 21.58,
+"src": "nasdaq"
+},
+"PURR": {
+"px": 9.15,
+"src": "nasdaq"
+},
+"ZYME": {
+"px": 26.91,
+"src": "nasdaq"
+},
+"SEPN": {
+"px": 39.35,
+"src": "cboe"
+},
+"PVLA": {
+"px": 123.92,
+"src": "nasdaq"
+},
+"MESO": {
+"px": 12.41,
+"src": "nasdaq"
+},
+"XNCR": {
+"px": 24.94,
+"src": "cboe"
+},
+"TRVI": {
+"px": 12.83,
+"src": "nasdaq"
+},
+"URGN": {
+"px": null,
+"src": null
+},
+"VIR": {
+"px": 10.74,
+"src": "nasdaq"
+},
+"BRVE": {
+"px": null,
+"src": null
+},
+"ANIP": {
+"px": 72.67,
+"src": "cboe"
+},
+"BHVN": {
+"px": 11.82,
+"src": "nasdaq"
+},
+"ZBIO": {
+"px": 28.18,
+"src": "cboe"
+},
+"NTLA": {
+"px": 11.84,
+"src": "nasdaq"
+},
+"PAHC": {
+"px": 38.8,
+"src": "nasdaq"
+},
+"ALVO": {
+"px": null,
+"src": null
+},
+"STOK": {
+"px": null,
+"src": null
+},
+"NUVB": {
+"px": 4.765,
+"src": "nasdaq"
+},
+"GENB": {
+"px": 12.9,
+"src": "cboe"
+},
+"MAZE": {
+"px": 32.45,
+"src": "nasdaq"
+},
+"IMCR": {
+"px": 32.6,
+"src": "cboe"
+},
+"OCUL": {
+"px": 6.65,
+"src": "nasdaq"
+},
+"GPCR": {
+"px": 22.88,
+"src": "nasdaq"
+},
+"INVA": {
+"px": 21.28,
+"src": "nasdaq"
+},
+"CMPS": {
+"px": 11.9,
+"src": "nasdaq"
+},
+"KLRA": {
+"px": 12.89,
+"src": "nasdaq"
+},
+"PCRX": {
+"px": 36.38,
+"src": "nasdaq"
+},
+"ETON": {
+"px": 50.19,
+"src": "nasdaq"
+},
+"AAPG": {
+"px": 15.89,
+"src": "nasdaq"
+},
+"RARE": {
+"px": 16.02,
+"src": "nasdaq"
+},
+"ABSI": {
+"px": 9.07,
+"src": "nasdaq"
+},
+"COAG": {
+"px": null,
+"src": null
+},
+"ANAB": {
+"px": 45.43,
+"src": "nasdaq"
+},
+"QURE": {
+"px": 22.715,
+"src": "nasdaq"
+},
+"RAPP": {
+"px": 29.37,
+"src": "nasdaq"
+},
+"INBX": {
+"px": 95.3,
+"src": "nasdaq"
+},
+"ORIC": {
+"px": 13.78,
+"src": "nasdaq"
+},
+"TRAX": {
+"px": 41.25,
+"src": "nasdaq"
+},
+"NKTR": {
+"px": 39.22,
+"src": "nasdaq"
+},
+"KARD": {
+"px": 13.51,
+"src": "nasdaq"
+},
+"LBRX": {
+"px": 41.0,
+"src": "nasdaq"
+},
+"CRON": {
+"px": 3.28,
+"src": "nasdaq"
+},
+"TSHA": {
+"px": 4.11,
+"src": "nasdaq"
+},
+"OMER": {
+"px": null,
+"src": null
+},
+"BCAX": {
+"px": null,
+"src": null
+},
+"SNDX": {
+"px": 13.25,
+"src": "nasdaq"
+},
+"VOR": {
+"px": null,
+"src": null
+},
+"DMRA": {
+"px": null,
+"src": null
+},
+"SVRA": {
+"px": 4.76,
+"src": "cboe"
+},
+"GHRS": {
+"px": 19.165,
+"src": "cboe"
+},
+"TYRA": {
+"px": 20.47,
+"src": "nasdaq"
+},
+"AMPH": {
+"px": 25.94,
+"src": "cboe"
+},
+"AVLN": {
+"px": null,
+"src": null
+},
+"NBTX": {
+"px": 24.14,
+"src": "nasdaq"
+},
+"REPL": {
+"px": 11.42,
+"src": "cboe"
+},
+"HROW": {
+"px": 28.07,
+"src": "nasdaq"
+},
+"JANX": {
+"px": null,
+"src": null
+},
+"MNKD": {
+"px": 3.1,
+"src": "nasdaq"
+},
+"SPTX": {
+"px": null,
+"src": null
+},
+"GRML": {
+"px": 6.2,
+"src": "nasdaq"
+},
+"LTGO": {
+"px": 15.25,
+"src": "nasdaq"
+},
+"IMTX": {
+"px": 7.51,
+"src": "nasdaq"
+},
+"MGTX": {
+"px": null,
+"src": null
+},
+"RIGL": {
+"px": 48.11,
+"src": "nasdaq"
+},
+"ANRO": {
+"px": 24.415,
+"src": "nasdaq"
+},
+"JBIO": {
+"px": 14.86,
+"src": "nasdaq"
+},
+"ODTX": {
+"px": 18.99,
+"src": "nasdaq"
+},
+"ABUS": {
+"px": 4.33,
+"src": "nasdaq"
+},
+"CGEM": {
+"px": 14.83,
+"src": "cboe"
+},
+"GLUE": {
+"px": null,
+"src": null
+},
+"SGP": {
+"px": null,
+"src": null
+},
+"AVBP": {
+"px": 18.85,
+"src": "nasdaq"
+},
+"ARDX": {
+"px": 3.21,
+"src": "nasdaq"
+},
+"MLTX": {
+"px": 10.32,
+"src": "nasdaq"
+},
+"KURA": {
+"px": 9.98,
+"src": "nasdaq"
+},
+"AKTS": {
+"px": null,
+"src": null
+},
+"CRVS": {
+"px": 10.23,
+"src": "nasdaq"
+},
+"ALMS": {
+"px": 6.7,
+"src": "nasdaq"
+},
+"VSTM": {
+"px": 9.34,
+"src": "nasdaq"
+},
+"APMD": {
+"px": null,
+"src": null
+},
+"COLL": {
+"px": 23.33,
+"src": "cboe"
+},
+"OBX": {
+"px": 13.25,
+"src": "nasdaq"
+},
+"GERN": {
+"px": 1.24,
+"src": "nasdaq"
+},
+"SANA": {
+"px": 2.36,
+"src": "cboe"
+},
+"FDMT": {
+"px": 13.1,
+"src": "nasdaq"
+},
+"ANNX": {
+"px": 3.83,
+"src": "nasdaq"
+},
+"GYRE": {
+"px": 6.17,
+"src": "nasdaq"
+},
+"LXRX": {
+"px": null,
+"src": null
+},
+"ATTO": {
+"px": null,
+"src": null
+},
+"PHAR": {
+"px": null,
+"src": null
+},
+"ACHV": {
+"px": 6.51,
+"src": "nasdaq"
+},
+"MDXG": {
+"px": 4.23,
+"src": "nasdaq"
+},
+"DSGN": {
+"px": 11.1,
+"src": "cboe"
+},
+"AVTX": {
+"px": null,
+"src": null
+},
+"AURA": {
+"px": 6.56,
+"src": "cboe"
+},
+"PRME": {
+"px": 3.92,
+"src": "nasdaq"
+},
+"CADL": {
+"px": 8.64,
+"src": "nasdaq"
+},
+"CLYM": {
+"px": 10.8,
+"src": "nasdaq"
+},
+"IRWD": {
+"px": 3.63,
+"src": "nasdaq"
+},
+"IMMX": {
+"px": 8.91,
+"src": "nasdaq"
+},
+"NVCT": {
+"px": 20.59,
+"src": "nasdaq"
+},
+"WVE": {
+"px": 3.385,
+"src": "cboe"
+},
+"ZVRA": {
+"px": 10.47,
+"src": "nasdaq"
+},
+"SLDB": {
+"px": 6.4,
+"src": "cboe"
+},
+"OLMA": {
+"px": 7.25,
+"src": "nasdaq"
+},
+"IVA": {
+"px": 3.26,
+"src": "nasdaq"
+},
+"CRMD": {
+"px": 7.57,
+"src": "nasdaq"
+},
+"PHAT": {
+"px": 7.31,
+"src": "nasdaq"
+},
+"STTK": {
+"px": 5.84,
+"src": "cboe"
+},
+"DBVT": {
+"px": 9.48,
+"src": "nasdaq"
+},
+"VALN": {
+"px": null,
+"src": null
+},
+"AQST": {
+"px": 4.05,
+"src": "nasdaq"
+},
+"SGMT": {
+"px": 9.74,
+"src": "nasdaq"
+},
+"PBYI": {
+"px": 10.76,
+"src": "cboe"
+},
+"CTMX": {
+"px": 2.51,
+"src": "nasdaq"
+},
+"FTH": {
+"px": 20.79,
+"src": "nasdaq"
+},
+"ACRS": {
+"px": null,
+"src": null
+},
+"BLSM": {
+"px": null,
+"src": null
+},
+"EOLS": {
+"px": 7.37,
+"src": "nasdaq"
+},
+"IMMP": {
+"px": 3.26,
+"src": "nasdaq"
+},
+"NGNE": {
+"px": 25.4,
+"src": "nasdaq"
+},
+"MNPR": {
+"px": 74.23,
+"src": "nasdaq"
+},
+"ENTX": {
+"px": 3.02,
+"src": "nasdaq"
+},
+"RGNX": {
+"px": 7.4,
+"src": "nasdaq"
+},
+"ARVN": {
+"px": 7.66,
+"src": "nasdaq"
+},
+"ALLO": {
+"px": 1.33,
+"src": "nasdaq"
+},
+"NNNN": {
+"px": 3.73,
+"src": "nasdaq"
+},
+"TLRY": {
+"px": 3.03,
+"src": "nasdaq"
+},
+"KMDA": {
+"px": 7.85,
+"src": "cboe"
+},
+"SLN": {
+"px": 19.61,
+"src": "nasdaq"
+},
+"CBIO": {
+"px": 13.07,
+"src": "nasdaq"
+},
+"OCS": {
+"px": null,
+"src": null
+},
+"PRTA": {
+"px": 8.5,
+"src": "nasdaq"
+},
+"ALT": {
+"px": 2.3,
+"src": "nasdaq"
+},
+"AUTL": {
+"px": 1.66,
+"src": "nasdaq"
+},
+"OVID": {
+"px": null,
+"src": null
+},
+"YDES": {
+"px": 5.84,
+"src": "nasdaq"
+},
+"ASMB": {
+"px": null,
+"src": null
+},
+"EIKN": {
+"px": 8.18,
+"src": "nasdaq"
+},
+"DMAC": {
+"px": 8.67,
+"src": "cboe"
+},
+"SPRY": {
+"px": 4.29,
+"src": "nasdaq"
+},
+"TECX": {
+"px": 21.825,
+"src": "cboe"
+},
+"RCEL": {
+"px": 13.8,
+"src": "nasdaq"
+},
+"PROK": {
+"px": 1.44,
+"src": "nasdaq"
+},
+"SCTX": {
+"px": null,
+"src": null
+},
+"CAPR": {
+"px": 6.755,
+"src": "cboe"
+},
+"MYGN": {
+"px": 5.54,
+"src": "nasdaq"
+},
+"EDIT": {
+"px": 2.58,
+"src": "cboe"
+},
+"ZURA": {
+"px": 4.0,
+"src": "cboe"
+},
+"KYTX": {
+"px": 6.04,
+"src": "nasdaq"
+},
+"GALT": {
+"px": 3.43,
+"src": "nasdaq"
+},
+"MPLT": {
+"px": 8.24,
+"src": "nasdaq"
+},
+"AVIR": {
+"px": 4.465,
+"src": "nasdaq"
+},
+"INDP": {
+"px": 2.96,
+"src": "nasdaq"
+},
+"FENC": {
+"px": 10.46,
+"src": "cboe"
+},
+"RZLT": {
+"px": 3.7,
+"src": "cboe"
+},
+"TTRX": {
+"px": 10.47,
+"src": "nasdaq"
+},
+"EPRX": {
+"px": 7.59,
+"src": "nasdaq"
+},
+"RLMD": {
+"px": 3.36,
+"src": "nasdaq"
+},
+"CCCC": {
+"px": null,
+"src": null
+},
+"SNDL": {
+"px": 1.28,
+"src": "nasdaq"
+},
+"EBS": {
+"px": 6.29,
+"src": "cboe"
+},
+"ENTA": {
+"px": 11.67,
+"src": "nasdaq"
+},
+"IRD": {
+"px": 4.01,
+"src": "nasdaq"
+},
+"GTBP": {
+"px": 7.31,
+"src": "nasdaq"
+},
+"CGC": {
+"px": 0.72,
+"src": "nasdaq"
+},
+"ARTV": {
+"px": 6.56,
+"src": "nasdaq"
+},
+"BNTC": {
+"px": 9.04,
+"src": "cboe"
+},
+"ARCT": {
+"px": 10.98,
+"src": "nasdaq"
+},
+"IBO": {
+"px": 3.2,
+"src": "nasdaq"
+},
+"FULC": {
+"px": 3.72,
+"src": "cboe"
+},
+"CYPH": {
+"px": 2.81,
+"src": "nasdaq"
+},
+"SRZN": {
+"px": 25.14,
+"src": "nasdaq"
+},
+"AGEN": {
+"px": 6.42,
+"src": "nasdaq"
+},
+"PALI": {
+"px": null,
+"src": null
+},
+"ANIK": {
+"px": 20.44,
+"src": "cboe"
+},
+"CATX": {
+"px": 2.3,
+"src": "cboe"
+},
+"OCGN": {
+"px": 0.8125,
+"src": "nasdaq"
+},
+"XFOR": {
+"px": null,
+"src": null
+},
+"PRLD": {
+"px": 3.53,
+"src": "nasdaq"
+},
+"RCKT": {
+"px": 2.34,
+"src": "nasdaq"
+},
+"EYPT": {
+"px": 0.4052,
+"src": "nasdaq"
+},
+"INCR": {
+"px": 4.43,
+"src": "cboe"
+},
+"ABEO": {
+"px": 4.6,
+"src": "nasdaq"
+},
+"LCTX": {
+"px": null,
+"src": null
+},
+"IPSC": {
+"px": 1.64,
+"src": "nasdaq"
+},
+"VNDA": {
+"px": 4.17,
+"src": "nasdaq"
+},
+"ACIU": {
+"px": 2.49,
+"src": "cboe"
+},
+"BCYC": {
+"px": null,
+"src": null
+},
+"CABA": {
+"px": null,
+"src": null
+},
+"VOGX": {
+"px": null,
+"src": null
+},
+"AMRN": {
+"px": 11.48,
+"src": "nasdaq"
+},
+"IMRX": {
+"px": 3.73,
+"src": "nasdaq"
+},
+"IKT": {
+"px": 1.71,
+"src": "nasdaq"
+},
+"SABS": {
+"px": 2.88,
+"src": "cboe"
+},
+"HELP": {
+"px": 10.94,
+"src": "cboe"
+},
+"SIGA": {
+"px": 3.15,
+"src": "cboe"
+},
+"LXEO": {
+"px": 3.02,
+"src": "nasdaq"
+},
+"BBOT": {
+"px": 2.72,
+"src": "nasdaq"
+},
+"ACB": {
+"px": 3.97,
+"src": "nasdaq"
+},
+"HITI": {
+"px": 2.65,
+"src": "cboe"
+},
+"QTTB": {
+"px": 8.62,
+"src": "nasdaq"
+},
+"TLSI": {
+"px": null,
+"src": null
+},
+"BIOA": {
+"px": 5.28,
+"src": "cboe"
+},
+"KROS": {
+"px": 11.4,
+"src": "nasdaq"
+},
+"FATE": {
+"px": 2.06,
+"src": "nasdaq"
+},
+"GLSI": {
+"px": 16.24,
+"src": "nasdaq"
+},
+"PLX": {
+"px": 2.635,
+"src": "nasdaq"
+},
+"MGNX": {
+"px": 3.49,
+"src": "nasdaq"
+},
+"LRMR": {
+"px": 2.44,
+"src": "nasdaq"
+},
+"ALEC": {
+"px": null,
+"src": null
+},
+"MDCX": {
+"px": 2.72,
+"src": "nasdaq"
+},
+"LIMN": {
+"px": 3.19,
+"src": "nasdaq"
+},
+"LYEL": {
+"px": 9.7,
+"src": "nasdaq"
+},
+"RNAC": {
+"px": 6.395,
+"src": "nasdaq"
+},
+"CAMP": {
+"px": null,
+"src": null
+},
+"CGEN": {
+"px": 2.14,
+"src": "nasdaq"
+},
+"EVMN": {
+"px": 5.35,
+"src": "nasdaq"
+},
+"XGN": {
+"px": 7.41,
+"src": "cboe"
+},
+"TRDA": {
+"px": 4.99,
+"src": "cboe"
+},
+"AKBA": {
+"px": 0.6181,
+"src": "nasdaq"
+},
+"ELDN": {
+"px": 2.255,
+"src": "nasdaq"
+},
+"IVVD": {
+"px": null,
+"src": null
+},
+"STRO": {
+"px": null,
+"src": null
+},
+"PEPG": {
+"px": 2.875,
+"src": "cboe"
+},
+"ADCT": {
+"px": 1.53,
+"src": "nasdaq"
+},
+"SLGL": {
+"px": 65.81,
+"src": "nasdaq"
+},
+"ACOG": {
+"px": 8.58,
+"src": "cboe"
+},
+"SION": {
+"px": 4.15,
+"src": "cboe"
+},
+"ORMP": {
+"px": 4.15,
+"src": "nasdaq"
+},
+"WHWK": {
+"px": 3.19,
+"src": "nasdaq"
+},
+"CTNM": {
+"px": null,
+"src": null
+},
+"DTIL": {
+"px": 6.56,
+"src": "cboe"
+},
+"CMPX": {
+"px": 0.8333,
+"src": "nasdaq"
+},
+"CHRS": {
+"px": 1.0,
+"src": "nasdaq"
+},
+"PRQR": {
+"px": 1.38,
+"src": "cboe"
+},
+"ZNTL": {
+"px": null,
+"src": null
+},
+"MDWD": {
+"px": 12.1,
+"src": "cboe"
+},
+"KRSA": {
+"px": 31.03,
+"src": "nasdaq"
+},
+"UPB": {
+"px": null,
+"src": null
+},
+"MENS": {
+"px": null,
+"src": null
+},
+"PYXS": {
+"px": 1.84,
+"src": "nasdaq"
+},
+"CNTN": {
+"px": null,
+"src": null
+},
+"ALXO": {
+"px": null,
+"src": null
+},
+"NBP": {
+"px": null,
+"src": null
+},
+"CURX": {
+"px": null,
+"src": null
+},
+"MOLN": {
+"px": null,
+"src": null
+},
+"DERM": {
+"px": 5.22,
+"src": "nasdaq"
+},
+"IPHA": {
+"px": null,
+"src": null
+},
+"TARA": {
+"px": 2.56,
+"src": "cboe"
+},
+"RNA": {
+"px": 7.98,
+"src": "nasdaq"
+},
+"NKTX": {
+"px": null,
+"src": null
+},
+"ORGO": {
+"px": 1.02,
+"src": "nasdaq"
+},
+"ANTX": {
+"px": 3.56,
+"src": "cboe"
+},
+"NGEN": {
+"px": null,
+"src": null
+},
+"TLSA": {
+"px": null,
+"src": null
+},
+"ARMP": {
+"px": 3.18,
+"src": "nasdaq"
+},
+"KRRO": {
+"px": 9.44,
+"src": "nasdaq"
+},
+"ABOS": {
+"px": null,
+"src": null
+},
+"AVXL": {
+"px": 1.36,
+"src": "nasdaq"
+},
+"CUE": {
+"px": null,
+"src": null
+},
+"HUMA": {
+"px": 0.406,
+"src": "cboe"
+},
+"OTLK": {
+"px": 0.52,
+"src": "nasdaq"
+},
+"VYGR": {
+"px": null,
+"src": null
+},
+"SPRB": {
+"px": null,
+"src": null
+},
+"NRXP": {
+"px": 2.62,
+"src": "nasdaq"
+},
+"NERV": {
+"px": 2.53,
+"src": "nasdaq"
+},
+"HURA": {
+"px": null,
+"src": null
+},
+"ENGN": {
+"px": 1.67,
+"src": "nasdaq"
+},
+"CRDL": {
+"px": 1.15,
+"src": "cboe"
+},
+"FHTX": {
+"px": 2.01,
+"src": "nasdaq"
+},
+"GNLX": {
+"px": 2.5,
+"src": "nasdaq"
+},
+"PYPD": {
+"px": 5.15,
+"src": "nasdaq"
+},
+"CPIX": {
+"px": 7.96,
+"src": "nasdaq"
+},
+"MSLE": {
+"px": 7.0,
+"src": "nasdaq"
+},
+"VTVT": {
+"px": null,
+"src": null
+},
+"FRNM": {
+"px": null,
+"src": null
+},
+"CLLS": {
+"px": 0.99,
+"src": "nasdaq"
+},
+"IFRX": {
+"px": 1.54,
+"src": "nasdaq"
+},
+"TNXP": {
+"px": 5.78,
+"src": "nasdaq"
+},
+"LENZ": {
+"px": null,
+"src": null
+},
+"INO": {
+"px": 1.01,
+"src": "nasdaq"
+},
+"COYA": {
+"px": 4.21,
+"src": "cboe"
+},
+"CBUS": {
+"px": 1.39,
+"src": "nasdaq"
+},
+"IMDX": {
+"px": null,
+"src": null
+},
+"NRSN": {
+"px": null,
+"src": null
+},
+"BDTX": {
+"px": 2.07,
+"src": "nasdaq"
+},
+"ICCC": {
+"px": null,
+"src": null
+},
+"ADAG": {
+"px": null,
+"src": null
+},
+"ATRA": {
+"px": null,
+"src": null
+},
+"IMUX": {
+"px": 7.41,
+"src": "cboe"
+},
+"PLYX": {
+"px": null,
+"src": null
+},
+"UNCY": {
+"px": 3.8,
+"src": "nasdaq"
+},
+"ANIX": {
+"px": 2.68,
+"src": "nasdaq"
+},
+"QUCY": {
+"px": null,
+"src": null
+},
+"TNYA": {
+"px": null,
+"src": null
+},
+"RANI": {
+"px": 0.6528,
+"src": "cboe"
+},
+"RLYB": {
+"px": null,
+"src": null
+},
+"NMRA": {
+"px": null,
+"src": null
+},
+"MIST": {
+"px": 0.7185,
+"src": "nasdaq"
+},
+"CRBP": {
+"px": null,
+"src": null
+},
+"CNXU": {
+"px": null,
+"src": null
+},
+"OKUR": {
+"px": 2.36,
+"src": "nasdaq"
+},
+"AARD": {
+"px": null,
+"src": null
+},
+"ALP": {
+"px": null,
+"src": null
+},
+"PTHS": {
+"px": null,
+"src": null
+},
+"NTRB": {
+"px": null,
+"src": null
+},
+"EQ": {
+"px": 1.38,
+"src": "nasdaq"
+},
+"OKYO": {
+"px": 1.37,
+"src": "nasdaq"
+},
+"PMN": {
+"px": 8.09,
+"src": "nasdaq"
+},
+"TELO": {
+"px": null,
+"src": null
+},
+"RFL": {
+"px": 1.31,
+"src": "nasdaq"
+},
+"CTOR": {
+"px": null,
+"src": null
+},
+"LEXX": {
+"px": null,
+"src": null
+},
+"ACRV": {
+"px": null,
+"src": null
+},
+"CRDF": {
+"px": 0.9315,
+"src": "nasdaq"
+},
+"NTHI": {
+"px": null,
+"src": null
+},
+"MNOV": {
+"px": 1.36,
+"src": "cboe"
+},
+"CGTX": {
+"px": 0.7338,
+"src": "nasdaq"
+},
+"HRTX": {
+"px": 0.3545,
+"src": "nasdaq"
+},
+"MAIA": {
+"px": null,
+"src": null
+},
+"ZYBT": {
+"px": null,
+"src": null
+},
+"SPRO": {
+"px": null,
+"src": null
+},
+"OSTX": {
+"px": 1.27,
+"src": "nasdaq"
+},
+"PMVP": {
+"px": 1.39,
+"src": "nasdaq"
+},
+"XBIT": {
+"px": null,
+"src": null
+},
+"ONCY": {
+"px": null,
+"src": null
+},
+"CING": {
+"px": null,
+"src": null
+},
+"PDSB": {
+"px": 0.9605,
+"src": "cboe"
+},
+"NMAD": {
+"px": null,
+"src": null
+},
+"FBIO": {
+"px": 1.94,
+"src": "nasdaq"
+},
+"VRCA": {
+"px": null,
+"src": null
+},
+"BMEA": {
+"px": 0.7356,
+"src": "nasdaq"
+},
+"GANX": {
+"px": 1.19,
+"src": "cboe"
+},
+"CNTB": {
+"px": null,
+"src": null
+},
+"ALPS": {
+"px": 0.33,
+"src": "nasdaq"
+},
+"XLO": {
+"px": null,
+"src": null
+},
+"PLRX": {
+"px": 0.9124,
+"src": "cboe"
+},
+"TLPH": {
+"px": null,
+"src": null
+},
+"SKYE": {
+"px": 1.62,
+"src": "nasdaq"
+},
+"RNTX": {
+"px": null,
+"src": null
+},
+"RNXT": {
+"px": null,
+"src": null
+},
+"YARW": {
+"px": 20.21,
+"src": "nasdaq"
+},
+"BOLD": {
+"px": null,
+"src": null
+},
+"KLRS": {
+"px": null,
+"src": null
+},
+"TENX": {
+"px": 1.63,
+"src": "cboe"
+},
+"INKT": {
+"px": null,
+"src": null
+},
+"CRBU": {
+"px": 0.519,
+"src": "nasdaq"
+},
+"LONA": {
+"px": null,
+"src": null
+},
+"ATHE": {
+"px": null,
+"src": null
+},
+"IBIO": {
+"px": null,
+"src": null
+},
+"HYPD": {
+"px": null,
+"src": null
+},
+"ENLV": {
+"px": 0.2237,
+"src": "nasdaq"
+},
+"MREO": {
+"px": null,
+"src": null
+},
+"HOWL": {
+"px": null,
+"src": null
+},
+"CLGN": {
+"px": null,
+"src": null
+},
+"ELTX": {
+"px": 1.57,
+"src": "nasdaq"
+},
+"APLM": {
+"px": null,
+"src": null
+},
+"TVGN": {
+"px": 6.43,
+"src": "nasdaq"
+},
+"INMB": {
+"px": 1.6,
+"src": "nasdaq"
+},
+"IMA": {
+"px": null,
+"src": null
+},
+"SER": {
+"px": null,
+"src": null
+},
+"SDEV": {
+"px": 0.8935,
+"src": "nasdaq"
+},
+"LGVN": {
+"px": 1.5,
+"src": "nasdaq"
+},
+"ACET": {
+"px": 4.52,
+"src": "cboe"
+},
+"ANVS": {
+"px": 0.9932,
+"src": "nasdaq"
+},
+"ALDX": {
+"px": null,
+"src": null
+},
+"DWTX": {
+"px": null,
+"src": null
+},
+"CELU": {
+"px": null,
+"src": null
+},
+"TIL": {
+"px": null,
+"src": null
+},
+"CLNN": {
+"px": 3.73,
+"src": "nasdaq"
+},
+"GRCE": {
+"px": 1.98,
+"src": "nasdaq"
+},
+"VERU": {
+"px": 2.38,
+"src": "nasdaq"
+},
+"BTMD": {
+"px": null,
+"src": null
+},
+"BRTX": {
+"px": 1.56,
+"src": "nasdaq"
+},
+"EXOZ": {
+"px": null,
+"src": null
+},
+"BSEM": {
+"px": 1.64,
+"src": "nasdaq"
+},
+"SCYX": {
+"px": null,
+"src": null
+},
+"MTNB": {
+"px": null,
+"src": null
+},
+"CALC": {
+"px": 1.065,
+"src": "nasdaq"
+},
+"IXHL": {
+"px": 2.78,
+"src": "nasdaq"
+},
+"NNVC": {
+"px": null,
+"src": null
+},
+"ELUT": {
+"px": 0.8105,
+"src": "nasdaq"
+},
+"LITS": {
+"px": null,
+"src": null
+},
+"FLNA": {
+"px": 0.6885,
+"src": "nasdaq"
+},
+"CRVO": {
+"px": null,
+"src": null
+},
+"ATNM": {
+"px": 1.395,
+"src": "nasdaq"
+},
+"QNCX": {
+"px": 40.27,
+"src": "nasdaq"
+},
+"BIAF": {
+"px": null,
+"src": null
+},
+"CVM": {
+"px": 1.56,
+"src": "nasdaq"
+},
+"ALGS": {
+"px": null,
+"src": null
+},
+"GRDX": {
+"px": null,
+"src": null
+},
+"MGX": {
+"px": null,
+"src": null
+},
+"BCTX": {
+"px": null,
+"src": null
+},
+"CPHI": {
+"px": null,
+"src": null
+},
+"ATOS": {
+"px": 2.54,
+"src": "nasdaq"
+},
+"RNAZ": {
+"px": 1.66,
+"src": "nasdaq"
+},
+"NXTC": {
+"px": 5.44,
+"src": "nasdaq"
+},
+"NSRX": {
+"px": null,
+"src": null
+},
+"MIRA": {
+"px": null,
+"src": null
+},
+"SHPH": {
+"px": null,
+"src": null
+},
+"IGC": {
+"px": 0.245,
+"src": "cboe"
+},
+"VBIO": {
+"px": null,
+"src": null
+},
+"MCRB": {
+"px": 2.31,
+"src": "cboe"
+},
+"EDSA": {
+"px": 2.82,
+"src": "nasdaq"
+},
+"LNAI": {
+"px": 0.515,
+"src": "nasdaq"
+},
+"ABVC": {
+"px": 0.93,
+"src": "cboe"
+},
+"SCLX": {
+"px": 2.53,
+"src": "nasdaq"
+},
+"FFR": {
+"px": null,
+"src": null
+},
+"EVAX": {
+"px": 4.05,
+"src": "nasdaq"
+},
+"BYSI": {
+"px": 0.5227,
+"src": "nasdaq"
+},
+"CNTX": {
+"px": 0.2438,
+"src": "nasdaq"
+},
+"TXMD": {
+"px": null,
+"src": null
+},
+"KYNB": {
+"px": null,
+"src": null
+},
+"AYTU": {
+"px": null,
+"src": null
+},
+"COCP": {
+"px": null,
+"src": null
+},
+"ESLA": {
+"px": 0.4,
+"src": "nasdaq"
+},
+"JAGX": {
+"px": 2.63,
+"src": "nasdaq"
+},
+"XTLB": {
+"px": null,
+"src": null
+},
+"NEUP": {
+"px": null,
+"src": null
+},
+"MRKR": {
+"px": null,
+"src": null
+},
+"ATYR": {
+"px": 0.1733,
+"src": "nasdaq"
+},
+"AKTX": {
+"px": 9.29,
+"src": "cboe"
+},
+"JSPR": {
+"px": 0.4999,
+"src": "nasdaq"
+},
+"KAPA": {
+"px": null,
+"src": null
+},
+"GNTA": {
+"px": null,
+"src": null
+},
+"TCRX": {
+"px": null,
+"src": null
+},
+"DYAI": {
+"px": 0.3851,
+"src": "nasdaq"
+},
+"PLRZ": {
+"px": null,
+"src": null
+},
+"ACTU": {
+"px": null,
+"src": null
+},
+"ALLR": {
+"px": null,
+"src": null
+},
+"KTTA": {
+"px": null,
+"src": null
+},
+"BCDA": {
+"px": null,
+"src": null
+},
+"LPCN": {
+"px": null,
+"src": null
+},
+"NCEL": {
+"px": null,
+"src": null
+},
+"TVRD": {
+"px": 0.992,
+"src": "nasdaq"
+},
+"RKTO": {
+"px": 0.5311,
+"src": "nasdaq"
+},
+"HIND": {
+"px": null,
+"src": null
+},
+"CNSY": {
+"px": 1.68,
+"src": "nasdaq"
+},
+"CTXR": {
+"px": 0.4175,
+"src": "nasdaq"
+},
+"ARTL": {
+"px": null,
+"src": null
+},
+"BFRI": {
+"px": 0.804,
+"src": "nasdaq"
+},
+"AEON": {
+"px": null,
+"src": null
+},
+"ASBP": {
+"px": null,
+"src": null
+},
+"KZIA": {
+"px": 7.88,
+"src": "nasdaq"
+},
+"ENSC": {
+"px": null,
+"src": null
+},
+"PTN": {
+"px": null,
+"src": null
+},
+"PASG": {
+"px": null,
+"src": null
+},
+"DARE": {
+"px": 0.689,
+"src": "nasdaq"
+},
+"PLUR": {
+"px": null,
+"src": null
+},
+"INAB": {
+"px": null,
+"src": null
+},
+"INTS": {
+"px": null,
+"src": null
+},
+"CLRB": {
+"px": null,
+"src": null
+},
+"KPRX": {
+"px": null,
+"src": null
+},
+"MDXH": {
+"px": 0.1944,
+"src": "nasdaq"
+},
+"QNTM": {
+"px": null,
+"src": null
+},
+"GDTC": {
+"px": null,
+"src": null
+},
+"PHIO": {
+"px": null,
+"src": null
+},
+"TPST": {
+"px": null,
+"src": null
+},
+"PBM": {
+"px": null,
+"src": null
+},
+"TOVX": {
+"px": null,
+"src": null
+},
+"LSTA": {
+"px": null,
+"src": null
+},
+"CMMB": {
+"px": null,
+"src": null
+},
+"ADIL": {
+"px": null,
+"src": null
+},
+"MTVA": {
+"px": 1.29,
+"src": "nasdaq"
+},
+"VTGN": {
+"px": null,
+"src": null
+},
+"KPTI": {
+"px": 0.3586,
+"src": "nasdaq"
+},
+"LTRN": {
+"px": null,
+"src": null
+},
+"BIVI": {
+"px": null,
+"src": null
+},
+"IMCC": {
+"px": 1.4,
+"src": "nasdaq"
+},
+"BOLT": {
+"px": null,
+"src": null
+},
+"RGNT": {
+"px": null,
+"src": null
+},
+"IMRN": {
+"px": null,
+"src": null
+},
+"SNGX": {
+"px": null,
+"src": null
+},
+"APRE": {
+"px": null,
+"src": null
+},
+"INM": {
+"px": null,
+"src": null
+},
+"XCUR": {
+"px": null,
+"src": null
+},
+"CNSP": {
+"px": null,
+"src": null
+},
+"SNTI": {
+"px": null,
+"src": null
+},
+"TCRT": {
+"px": null,
+"src": null
+},
+"FBLG": {
+"px": null,
+"src": null
+},
+"ALZN": {
+"px": null,
+"src": null
+},
+"TRAW": {
+"px": null,
+"src": null
+},
+"ENVB": {
+"px": null,
+"src": null
+},
+"BGMS": {
+"px": null,
+"src": null
+},
+"APUS": {
+"px": null,
+"src": null
+},
+"HLSQ": {
+"px": 0.2323,
+"src": "nasdaq"
+},
+"ACXP": {
+"px": null,
+"src": null
+},
+"IMNN": {
+"px": null,
+"src": null
+},
+"AQB": {
+"px": null,
+"src": null
+},
+"MBRX": {
+"px": 6.19,
+"src": "nasdaq"
+},
+"SNOA": {
+"px": null,
+"src": null
+},
+"PULM": {
+"px": null,
+"src": null
+},
+"AIM": {
+"px": 0.1679,
+"src": "nasdaq"
+},
+"CDIO": {
+"px": null,
+"src": null
+},
+"CELZ": {
+"px": null,
+"src": null
+},
+"GELS": {
+"px": null,
+"src": null
+},
+"PCSA": {
+"px": null,
+"src": null
+},
+"XBIO": {
+"px": null,
+"src": null
+},
+"QCLS": {
+"px": null,
+"src": null
+},
+"AZTR": {
+"px": null,
+"src": null
+},
+"NCNA": {
+"px": null,
+"src": null
+},
+"YCBD": {
+"px": null,
+"src": null
+},
+"CVKD": {
+"px": null,
+"src": null
+},
+"PMCB": {
+"px": 0.3422,
+"src": "cboe"
+},
+"KALA": {
+"px": null,
+"src": null
+},
+"ERNA": {
+"px": 2.24,
+"src": "nasdaq"
+},
+"SNES": {
+"px": 0.6893,
+"src": "nasdaq"
+},
+"DRMA": {
+"px": null,
+"src": null
+},
+"EVGN": {
+"px": null,
+"src": null
+},
+"APVO": {
+"px": null,
+"src": null
+},
+"SXTP": {
+"px": null,
+"src": null
+},
+"GRI": {
+"px": null,
+"src": null
+},
+"EOCN": {
+"px": null,
+"src": null
+},
+"MBIO": {
+"px": null,
+"src": null
+},
+"SCNI": {
+"px": null,
+"src": null
+},
+"RDHL": {
+"px": 0.5073,
+"src": "nasdaq"
+},
+"CANF": {
+"px": null,
+"src": null
+},
+"AKAN": {
+"px": 1.08,
+"src": "nasdaq"
+},
+"UPC": {
+"px": null,
+"src": null
+},
+"VIVS": {
+"px": null,
+"src": null
+},
+"HCWB": {
+"px": null,
+"src": null
+},
+"CLDI": {
+"px": null,
+"src": null
+},
+"JUNS": {
+"px": null,
+"src": null
+},
+"PPCB": {
+"px": null,
+"src": null
+},
+"OGEN": {
+"px": null,
+"src": null
+},
+"REVB": {
+"px": null,
+"src": null
+},
+"ONCO": {
+"px": null,
+"src": null
+},
+"SILO": {
+"px": null,
+"src": null
+},
+"GOVX": {
+"px": 0.2271,
+"src": "nasdaq"
+},
+"GNPX": {
+"px": 2.13,
+"src": "nasdaq"
+},
+"LABT": {
+"px": null,
+"src": null
+},
+"BBLG": {
+"px": null,
+"src": null
+},
+"PPBT": {
+"px": 1.085,
+"src": "cboe"
+},
+"BDRX": {
+"px": null,
+"src": null
+},
+"CMND": {
+"px": null,
+"src": null
+},
+"SBFM": {
+"px": null,
+"src": null
+},
+"CRIS": {
+"px": null,
+"src": null
+},
+"SLXN": {
+"px": null,
+"src": null
+},
+"DCOY": {
+"px": null,
+"src": null
+},
+"PRFX": {
+"px": null,
+"src": null
+},
+"SPRC": {
+"px": null,
+"src": null
+},
+"SXTC": {
+"px": 0.0653,
+"src": "nasdaq"
+},
+"ADRX": {
+"px": null,
+"src": null
+},
+"ADXN": {
+"px": null,
+"src": null
+},
+"AGMB": {
+"px": null,
+"src": null
+},
+"ANL": {
+"px": null,
+"src": null
+},
+"BNR": {
+"px": null,
+"src": null
+},
+"CUVL": {
+"px": null,
+"src": null
+},
+"DRUG": {
+"px": null,
+"src": null
+},
+"ETRA": {
+"px": null,
+"src": null
+},
+"GRFS": {
+"px": null,
+"src": null
+},
+"NIKI": {
+"px": 2.03,
+"src": "nasdaq"
+},
+"OGI": {
+"px": null,
+"src": null
+},
+"OPTH": {
+"px": null,
+"src": null
+},
+"QNRX": {
+"px": 4.04,
+"src": "nasdaq"
+},
+"RADX": {
+"px": null,
+"src": null
+},
+"SERA": {
+"px": null,
+"src": null
+},
+"SLBT": {
+"px": null,
+"src": null
+},
+"VCRE": {
+"px": null,
+"src": null
+},
+"VRXA": {
+"px": null,
+"src": null
+},
+"XRTX": {
+"px": null,
+"src": null
+},
+"DNN": {
+"px": 2.28,
+"src": "nasdaq"
+}
+}

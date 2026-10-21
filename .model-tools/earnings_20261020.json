@@ -1,0 +1,3185 @@
+{
+"LLY": {
+"date": "2026-10-29",
+"status": "expected",
+"when": "before open"
+},
+"JNJ": null,
+"ABBV": {
+"date": "2026-10-30",
+"status": "expected",
+"when": "before open"
+},
+"MRK": {
+"date": "2026-10-29",
+"status": "expected",
+"when": "before open"
+},
+"NVS": {
+"date": "2026-10-27",
+"status": "expected",
+"when": "before open"
+},
+"AZN": {
+"date": "2026-10-30",
+"status": "expected",
+"when": "before open"
+},
+"AMGN": {
+"date": "2026-11-03",
+"status": "expected",
+"when": "after close"
+},
+"GILD": {
+"date": "2026-10-29",
+"status": "expected",
+"when": "after close"
+},
+"NVO": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"PFE": {
+"date": "2026-11-03",
+"status": "expected",
+"when": "before open"
+},
+"VRTX": {
+"date": "2026-11-02",
+"status": "expected",
+"when": "after close"
+},
+"BMY": {
+"date": "2026-10-29",
+"status": "expected",
+"when": "before open"
+},
+"GSK": {
+"date": "2026-10-28",
+"status": "expected",
+"when": "before open"
+},
+"SNY": {
+"date": "2026-10-30",
+"status": "expected",
+"when": "before open"
+},
+"MRNA": {
+"date": "2026-11-06",
+"status": "expected",
+"when": "before open"
+},
+"REGN": {
+"date": "2026-10-30",
+"status": "expected",
+"when": "before open"
+},
+"TAK": {
+"date": "2026-10-29",
+"status": "expected",
+"when": "before open"
+},
+"NTRA": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"ARGX": {
+"date": "2026-10-22",
+"status": "expected",
+"when": "before open"
+},
+"TEVA": {
+"date": "2026-11-03",
+"status": "expected",
+"when": "before open"
+},
+"HLN": {
+"date": "2026-10-29",
+"status": "expected",
+"when": "before open"
+},
+"ONC": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"RVMD": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"RPRX": {
+"date": "2026-11-04",
+"status": "expected",
+"when": "before open"
+},
+"BIIB": {
+"date": "2026-10-28",
+"status": "expected",
+"when": "before open"
+},
+"ZTS": {
+"date": "2026-11-05",
+"status": "expected",
+"when": "before open"
+},
+"ALNY": {
+"date": "2026-10-29",
+"status": "expected",
+"when": "before open"
+},
+"ROIV": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"GMAB": {
+"date": "2026-11-05",
+"status": "expected",
+"when": "before open"
+},
+"UTHR": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"INCY": {
+"date": "2026-10-29",
+"status": "expected",
+"when": "before open"
+},
+"BNTX": {
+"date": "2026-11-03",
+"status": "expected",
+"when": "before open"
+},
+"VTRS": {
+"date": "2026-11-05",
+"status": "expected",
+"when": "before open"
+},
+"INSM": {
+"date": "2026-10-29",
+"status": "expected",
+"when": "before open"
+},
+"EXEL": {
+"date": "2026-10-29",
+"status": "expected",
+"when": "after close"
+},
+"ASND": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"HALO": {
+"date": "2026-11-02",
+"status": "estimated",
+"when": ""
+},
+"NBIX": {
+"date": "2026-11-02",
+"status": "expected",
+"when": "after close"
+},
+"JAZZ": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"SMMT": null,
+"BBIO": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"KNSA": {
+"date": "2026-10-27",
+"status": "estimated",
+"when": ""
+},
+"CORT": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"ELAN": {
+"date": "2026-11-06",
+"status": "expected",
+"when": "before open"
+},
+"RDY": {
+"date": "2026-10-23",
+"status": "estimated",
+"when": ""
+},
+"BMRN": {
+"date": "2026-10-26",
+"status": "estimated",
+"when": ""
+},
+"MDGL": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"IBRX": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"PCVX": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"KRYS": {
+"date": "2026-11-02",
+"status": "estimated",
+"when": ""
+},
+"KYMR": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"CAI": {
+"date": "2026-11-04",
+"status": "expected",
+"when": "after close"
+},
+"CYTK": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"AXSM": {
+"date": "2026-11-02",
+"status": "expected",
+"when": "before open"
+},
+"PTGX": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"TWST": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"TGTX": {
+"date": "2026-11-02",
+"status": "estimated",
+"when": ""
+},
+"ARWR": {
+"date": "2026-11-24",
+"status": "estimated",
+"when": ""
+},
+"IONS": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"PRAX": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"SYRE": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"ABVX": null,
+"ALKS": {
+"date": "2026-10-27",
+"status": "estimated",
+"when": ""
+},
+"IOVA": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"AMRX": {
+"date": "2026-11-03",
+"status": "expected",
+"when": "before open"
+},
+"RYTM": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"LGND": {
+"date": "2026-10-29",
+"status": "expected",
+"when": "before open"
+},
+"BLTE": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"COGT": {
+"date": "2026-11-06",
+"status": "estimated",
+"when": ""
+},
+"IMVT": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"KOD": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"CGON": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"GRAL": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"BLRX": {
+"date": "2026-11-23",
+"status": "estimated",
+"when": ""
+},
+"MIRM": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"PTCT": {
+"date": "2026-10-29",
+"status": "expected",
+"when": "after close"
+},
+"SRRK": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"ORKA": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"CRSP": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"RGC": null,
+"ERAS": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"TVTX": {
+"date": "2026-10-29",
+"status": "estimated",
+"when": ""
+},
+"MANE": {
+"date": "2026-11-10",
+"status": "estimated",
+"when": ""
+},
+"DFTX": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"GOSS": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"EWTX": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"DNTH": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"INDV": {
+"date": "2026-10-29",
+"status": "estimated",
+"when": ""
+},
+"TNGX": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"ARQT": {
+"date": "2026-10-27",
+"status": "estimated",
+"when": ""
+},
+"TLX": null,
+"OGN": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"RLAY": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"VCYT": {
+"date": "2026-11-04",
+"status": "expected",
+"when": "after close"
+},
+"LEGN": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"CDNA": {
+"date": "2026-10-29",
+"status": "expected",
+"when": "after close"
+},
+"ACAD": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"XENE": {
+"date": "2026-11-02",
+"status": "estimated",
+"when": ""
+},
+"IDYA": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"LQDA": {
+"date": "2026-11-02",
+"status": "estimated",
+"when": ""
+},
+"TARS": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"VKTX": {
+"date": "2026-10-28",
+"status": "estimated",
+"when": ""
+},
+"AMLX": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"RCUS": {
+"date": "2026-10-27",
+"status": "estimated",
+"when": ""
+},
+"DNLI": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"PBLS": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"CELC": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"ELVN": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"DYN": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"ZLAB": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"NRIX": null,
+"HCM": null,
+"BEAM": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"ADMA": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"MBX": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"NAMS": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"PBH": {
+"date": "2026-11-05",
+"status": "expected",
+"when": "before open"
+},
+"BHC": {
+"date": "2026-10-28",
+"status": "expected",
+"when": "after close"
+},
+"PRGO": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"PGEN": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"HRMY": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"SUPN": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"AUPH": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"IRON": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"CLDX": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"VRDN": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"VCEL": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"SLS": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"VERA": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"BCRX": {
+"date": "2026-11-02",
+"status": "estimated",
+"when": ""
+},
+"LKFT": null,
+"TRLV": {
+"date": "2026-11-05",
+"status": "expected",
+"when": "before open"
+},
+"XERS": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"IMNM": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"AGIO": {
+"date": "2026-11-05",
+"status": "expected",
+"when": "before open"
+},
+"BGM": null,
+"NVAX": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"RXRX": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"PHVS": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"SRPT": {
+"date": "2026-11-02",
+"status": "estimated",
+"when": ""
+},
+"MLYS": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"PURR": null,
+"ZYME": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"SEPN": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"PVLA": {
+"date": "2026-11-10",
+"status": "estimated",
+"when": ""
+},
+"MESO": null,
+"XNCR": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"TRVI": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"URGN": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"VIR": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"BRVE": {
+"date": "2026-12-08",
+"status": "estimated",
+"when": ""
+},
+"ANIP": {
+"date": "2026-11-06",
+"status": "estimated",
+"when": ""
+},
+"BHVN": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"ZBIO": null,
+"NTLA": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"PAHC": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"ALVO": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"STOK": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"NUVB": {
+"date": "2026-11-02",
+"status": "estimated",
+"when": ""
+},
+"GENB": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"MAZE": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"IMCR": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"OCUL": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"GPCR": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"INVA": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"CMPS": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"KLRA": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"PCRX": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"ETON": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"AAPG": null,
+"RARE": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"ABSI": {
+"date": "2026-11-12",
+"status": "expected",
+"when": "before open"
+},
+"COAG": {
+"date": "2026-11-10",
+"status": "estimated",
+"when": ""
+},
+"ANAB": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"QURE": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"RAPP": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"INBX": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"ORIC": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"TRAX": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"NKTR": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"KARD": {
+"date": "2026-11-10",
+"status": "estimated",
+"when": ""
+},
+"LBRX": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"CRON": {
+"date": "2026-11-05",
+"status": "expected",
+"when": "before open"
+},
+"TSHA": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"OMER": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"BCAX": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"SNDX": {
+"date": "2026-11-02",
+"status": "estimated",
+"when": ""
+},
+"VOR": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"DMRA": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"SVRA": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"GHRS": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"TYRA": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"AMPH": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"AVLN": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"NBTX": null,
+"REPL": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"HROW": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"JANX": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"MNKD": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"SPTX": {
+"date": "2026-11-02",
+"status": "estimated",
+"when": ""
+},
+"GRML": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"LTGO": {
+"date": "2026-12-03",
+"status": "estimated",
+"when": ""
+},
+"IMTX": {
+"date": "2026-11-16",
+"status": "estimated",
+"when": ""
+},
+"MGTX": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"RIGL": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"ANRO": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"JBIO": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"ODTX": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"ABUS": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"CGEM": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"GLUE": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"SGP": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"AVBP": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"ARDX": {
+"date": "2026-10-29",
+"status": "estimated",
+"when": ""
+},
+"MLTX": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"KURA": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"AKTS": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"CRVS": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"ALMS": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"VSTM": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"APMD": {
+"date": "2026-12-08",
+"status": "estimated",
+"when": ""
+},
+"COLL": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"OBX": null,
+"GERN": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"SANA": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"FDMT": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"ANNX": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"GYRE": {
+"date": "2026-11-06",
+"status": "estimated",
+"when": ""
+},
+"LXRX": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"ATTO": {
+"date": "2026-12-02",
+"status": "estimated",
+"when": ""
+},
+"PHAR": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"ACHV": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"MDXG": {
+"date": "2026-10-28",
+"status": "expected",
+"when": "after close"
+},
+"DSGN": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"AVTX": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"AURA": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"PRME": {
+"date": "2026-11-06",
+"status": "estimated",
+"when": ""
+},
+"CADL": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"CLYM": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"IRWD": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"IMMX": {
+"date": "2026-11-06",
+"status": "estimated",
+"when": ""
+},
+"NVCT": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"WVE": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"ZVRA": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"SLDB": {
+"date": "2026-11-02",
+"status": "estimated",
+"when": ""
+},
+"OLMA": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"IVA": null,
+"CRMD": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"PHAT": {
+"date": "2026-10-29",
+"status": "estimated",
+"when": ""
+},
+"STTK": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"DBVT": {
+"date": "2026-10-27",
+"status": "estimated",
+"when": ""
+},
+"VALN": {
+"date": "2026-11-19",
+"status": "estimated",
+"when": ""
+},
+"AQST": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"SGMT": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"PBYI": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"CTMX": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"FTH": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"ACRS": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"BLSM": null,
+"EOLS": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"IMMP": null,
+"NGNE": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"MNPR": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"ENTX": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"RGNX": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"ARVN": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"ALLO": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"NNNN": null,
+"TLRY": null,
+"KMDA": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"SLN": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"CBIO": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"OCS": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"PRTA": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"ALT": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"AUTL": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"OVID": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"YDES": null,
+"ASMB": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"EIKN": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"DMAC": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"SPRY": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"TECX": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"RCEL": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"PROK": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"SCTX": {
+"date": "2026-12-02",
+"status": "estimated",
+"when": ""
+},
+"CAPR": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"MYGN": {
+"date": "2026-11-04",
+"status": "expected",
+"when": "after close"
+},
+"EDIT": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"ZURA": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"KYTX": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"GALT": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"MPLT": {
+"date": "2026-12-03",
+"status": "estimated",
+"when": ""
+},
+"AVIR": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"INDP": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"FENC": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"RZLT": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"TTRX": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"EPRX": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"RLMD": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"CCCC": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"SNDL": {
+"date": "2026-10-27",
+"status": "expected",
+"when": "before open"
+},
+"EBS": {
+"date": "2026-11-02",
+"status": "expected",
+"when": "after close"
+},
+"ENTA": {
+"date": "2026-11-16",
+"status": "estimated",
+"when": ""
+},
+"IRD": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"GTBP": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"CGC": {
+"date": "2026-11-06",
+"status": "estimated",
+"when": ""
+},
+"ARTV": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"BNTC": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"ARCT": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"IBO": {
+"date": "2026-11-06",
+"status": "estimated",
+"when": ""
+},
+"FULC": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"CYPH": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"SRZN": {
+"date": "2026-11-06",
+"status": "estimated",
+"when": ""
+},
+"AGEN": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"PALI": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"ANIK": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"CATX": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"OCGN": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"XFOR": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"PRLD": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"RCKT": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"EYPT": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"INCR": null,
+"ABEO": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"LCTX": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"IPSC": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"VNDA": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"ACIU": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"BCYC": {
+"date": "2026-10-29",
+"status": "estimated",
+"when": ""
+},
+"CABA": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"VOGX": null,
+"AMRN": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"IMRX": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"IKT": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"SABS": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"HELP": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"SIGA": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"LXEO": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"BBOT": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"ACB": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"HITI": null,
+"QTTB": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"TLSI": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"BIOA": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"KROS": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"FATE": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"GLSI": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"PLX": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"MGNX": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"LRMR": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"ALEC": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"MDCX": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"LIMN": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"LYEL": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"RNAC": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"CAMP": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"CGEN": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"EVMN": {
+"date": "2026-12-10",
+"status": "estimated",
+"when": ""
+},
+"XGN": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"TRDA": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"AKBA": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"ELDN": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"IVVD": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"STRO": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"PEPG": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"ADCT": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"SLGL": {
+"date": "2026-11-19",
+"status": "estimated",
+"when": ""
+},
+"ACOG": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"SION": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"ORMP": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"WHWK": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"CTNM": {
+"date": "2026-10-29",
+"status": "estimated",
+"when": ""
+},
+"DTIL": {
+"date": "2026-11-02",
+"status": "estimated",
+"when": ""
+},
+"CMPX": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"CHRS": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"PRQR": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"ZNTL": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"MDWD": {
+"date": "2026-11-19",
+"status": "estimated",
+"when": ""
+},
+"KRSA": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"UPB": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"MENS": null,
+"PYXS": {
+"date": "2026-11-02",
+"status": "estimated",
+"when": ""
+},
+"CNTN": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"ALXO": {
+"date": "2026-11-06",
+"status": "estimated",
+"when": ""
+},
+"NBP": null,
+"CURX": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"MOLN": {
+"date": "2026-10-29",
+"status": "expected",
+"when": "before open"
+},
+"DERM": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"IPHA": null,
+"TARA": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"RNA": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"NKTX": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"ORGO": {
+"date": "2026-11-05",
+"status": "expected",
+"when": "after close"
+},
+"ANTX": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"NGEN": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"TLSA": null,
+"ARMP": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"KRRO": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"ABOS": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"AVXL": {
+"date": "2026-11-24",
+"status": "estimated",
+"when": ""
+},
+"CUE": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"HUMA": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"OTLK": null,
+"VYGR": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"SPRB": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"NRXP": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"NERV": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"HURA": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"ENGN": null,
+"CRDL": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"FHTX": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"GNLX": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"PYPD": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"CPIX": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"MSLE": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"VTVT": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"FRNM": {
+"date": "2026-11-10",
+"status": "expected",
+"when": "after close"
+},
+"CLLS": {
+"date": "2026-11-06",
+"status": "estimated",
+"when": ""
+},
+"IFRX": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"TNXP": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"LENZ": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"INO": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"COYA": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"CBUS": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"IMDX": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"NRSN": null,
+"BDTX": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"ICCC": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"ADAG": null,
+"ATRA": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"IMUX": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"PLYX": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"UNCY": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"ANIX": null,
+"QUCY": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"TNYA": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"RANI": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"RLYB": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"NMRA": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"MIST": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"CRBP": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"CNXU": null,
+"OKUR": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"AARD": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"ALP": null,
+"PTHS": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"NTRB": {
+"date": "2026-12-09",
+"status": "estimated",
+"when": ""
+},
+"EQ": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"OKYO": null,
+"PMN": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"TELO": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"RFL": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"CTOR": null,
+"LEXX": {
+"date": "2026-11-25",
+"status": "estimated",
+"when": ""
+},
+"ACRV": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"CRDF": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"NTHI": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"MNOV": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"CGTX": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"HRTX": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"MAIA": {
+"date": "2026-11-06",
+"status": "estimated",
+"when": ""
+},
+"ZYBT": null,
+"SPRO": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"OSTX": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"PMVP": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"XBIT": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"ONCY": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"CING": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"PDSB": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"NMAD": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"FBIO": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"VRCA": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"BMEA": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"GANX": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"CNTB": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"ALPS": null,
+"XLO": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"PLRX": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"TLPH": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"SKYE": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"RNTX": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"RNXT": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"YARW": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"BOLD": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"KLRS": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"TENX": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"INKT": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"CRBU": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"LONA": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"ATHE": null,
+"IBIO": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"HYPD": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"ENLV": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"MREO": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"HOWL": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"CLGN": {
+"date": "2026-11-25",
+"status": "estimated",
+"when": ""
+},
+"ELTX": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"APLM": null,
+"TVGN": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"INMB": {
+"date": "2026-10-29",
+"status": "estimated",
+"when": ""
+},
+"IMA": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"SER": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"SDEV": {
+"date": "2026-11-06",
+"status": "estimated",
+"when": ""
+},
+"LGVN": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"ACET": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"ANVS": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"ALDX": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"DWTX": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"CELU": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"TIL": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"CLNN": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"GRCE": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"VERU": null,
+"BTMD": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"BRTX": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"EXOZ": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"BSEM": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"SCYX": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"MTNB": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"CALC": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"IXHL": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"NNVC": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"ELUT": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"LITS": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"FLNA": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"CRVO": {
+"date": "2026-11-06",
+"status": "estimated",
+"when": ""
+},
+"ATNM": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"QNCX": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"BIAF": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"CVM": null,
+"ALGS": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"GRDX": {
+"date": "2026-11-18",
+"status": "estimated",
+"when": ""
+},
+"MGX": {
+"date": "2026-11-10",
+"status": "estimated",
+"when": ""
+},
+"BCTX": {
+"date": "2026-10-21",
+"status": "estimated",
+"when": ""
+},
+"CPHI": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"ATOS": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"RNAZ": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"NXTC": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"NSRX": null,
+"MIRA": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"SHPH": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"IGC": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"VBIO": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"MCRB": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"EDSA": {
+"date": "2026-12-11",
+"status": "estimated",
+"when": ""
+},
+"LNAI": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"ABVC": {
+"date": "2026-10-30",
+"status": "estimated",
+"when": ""
+},
+"SCLX": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"FFR": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"EVAX": {
+"date": "2026-11-19",
+"status": "expected",
+"when": "before open"
+},
+"BYSI": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"CNTX": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"TXMD": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"KYNB": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"AYTU": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"COCP": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"ESLA": null,
+"JAGX": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"XTLB": null,
+"NEUP": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"MRKR": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"ATYR": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"AKTX": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"JSPR": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"KAPA": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"GNTA": null,
+"TCRX": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"DYAI": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"PLRZ": null,
+"ACTU": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"ALLR": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"KTTA": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"BCDA": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"LPCN": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"NCEL": null,
+"TVRD": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"RKTO": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"HIND": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"CNSY": {
+"date": "2026-10-29",
+"status": "estimated",
+"when": ""
+},
+"CTXR": null,
+"ARTL": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"BFRI": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"AEON": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"ASBP": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"KZIA": null,
+"ENSC": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"PTN": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"PASG": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"DARE": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"PLUR": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"INAB": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"INTS": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"CLRB": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"KPRX": {
+"date": "2026-11-06",
+"status": "estimated",
+"when": ""
+},
+"MDXH": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"QNTM": {
+"date": "2026-11-06",
+"status": "estimated",
+"when": ""
+},
+"GDTC": null,
+"PHIO": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"TPST": {
+"date": "2026-11-04",
+"status": "estimated",
+"when": ""
+},
+"PBM": null,
+"TOVX": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"LSTA": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"CMMB": {
+"date": "2026-10-22",
+"status": "estimated",
+"when": ""
+},
+"ADIL": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"MTVA": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"VTGN": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"KPTI": {
+"date": "2026-11-02",
+"status": "estimated",
+"when": ""
+},
+"LTRN": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"BIVI": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"IMCC": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"BOLT": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"RGNT": null,
+"IMRN": null,
+"SNGX": {
+"date": "2026-11-06",
+"status": "estimated",
+"when": ""
+},
+"APRE": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"INM": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"XCUR": {
+"date": "2026-11-06",
+"status": "estimated",
+"when": ""
+},
+"CNSP": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"SNTI": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"TCRT": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"FBLG": {
+"date": "2026-10-30",
+"status": "estimated",
+"when": ""
+},
+"ALZN": {
+"date": "2026-12-08",
+"status": "estimated",
+"when": ""
+},
+"TRAW": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"ENVB": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"BGMS": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"APUS": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"HLSQ": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"ACXP": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"IMNN": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"AQB": {
+"date": "2026-10-27",
+"status": "estimated",
+"when": ""
+},
+"MBRX": null,
+"SNOA": {
+"date": "2026-11-03",
+"status": "estimated",
+"when": ""
+},
+"PULM": null,
+"AIM": {
+"date": "2026-11-16",
+"status": "estimated",
+"when": ""
+},
+"CDIO": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"CELZ": {
+"date": "2026-11-06",
+"status": "estimated",
+"when": ""
+},
+"GELS": null,
+"PCSA": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"XBIO": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"QCLS": {
+"date": "2026-11-18",
+"status": "estimated",
+"when": ""
+},
+"AZTR": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"NCNA": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"YCBD": null,
+"CVKD": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"PMCB": null,
+"KALA": {
+"date": "2026-11-18",
+"status": "estimated",
+"when": ""
+},
+"ERNA": {
+"date": "2026-11-06",
+"status": "estimated",
+"when": ""
+},
+"SNES": {
+"date": "2026-11-09",
+"status": "estimated",
+"when": ""
+},
+"DRMA": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"EVGN": {
+"date": "2026-11-19",
+"status": "estimated",
+"when": ""
+},
+"APVO": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"SXTP": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"GRI": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"EOCN": {
+"date": "2026-11-25",
+"status": "estimated",
+"when": ""
+},
+"MBIO": {
+"date": "2026-11-06",
+"status": "estimated",
+"when": ""
+},
+"SCNI": {
+"date": "2026-11-23",
+"status": "estimated",
+"when": ""
+},
+"RDHL": null,
+"CANF": null,
+"AKAN": null,
+"UPC": null,
+"VIVS": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"HCWB": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"CLDI": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"JUNS": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"PPCB": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"OGEN": {
+"date": "2026-11-06",
+"status": "estimated",
+"when": ""
+},
+"REVB": null,
+"ONCO": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"SILO": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"GOVX": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"GNPX": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"LABT": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"BBLG": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"PPBT": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"BDRX": null,
+"CMND": null,
+"SBFM": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"CRIS": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"SLXN": {
+"date": "2026-11-11",
+"status": "estimated",
+"when": ""
+},
+"DCOY": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"PRFX": null,
+"SPRC": null,
+"SXTC": null,
+"ADRX": null,
+"ADXN": {
+"date": "2026-12-03",
+"status": "estimated",
+"when": ""
+},
+"AGMB": null,
+"ANL": null,
+"BNR": {
+"date": "2026-11-19",
+"status": "estimated",
+"when": ""
+},
+"CUVL": null,
+"DRUG": null,
+"ETRA": null,
+"GRFS": null,
+"NIKI": null,
+"OGI": null,
+"OPTH": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+},
+"QNRX": {
+"date": "2026-11-05",
+"status": "estimated",
+"when": ""
+},
+"RADX": null,
+"SERA": {
+"date": "2026-11-12",
+"status": "estimated",
+"when": ""
+},
+"SLBT": null,
+"VCRE": null,
+"VRXA": null,
+"XRTX": {
+"date": "2026-11-13",
+"status": "estimated",
+"when": ""
+}
+}

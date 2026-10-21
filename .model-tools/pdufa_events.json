@@ -1,0 +1,58 @@
+{
+"INO": {
+"drug": "INO-3107",
+"date": "Oct 30, 2026"
+},
+"AGIO": {
+"drug": "mitapivat in sickle cell disease",
+"date": "Nov 1, 2026"
+},
+"CYTK": {
+"drug": "MAPLE-HCM label",
+"date": "Nov 14, 2026"
+},
+"SMMT": {
+"drug": "ivonescimab in EGFRm NSCLC",
+"date": "Nov 14, 2026"
+},
+"SVRA": {
+"drug": "MOLBREEVI",
+"date": "Nov 22, 2026"
+},
+"CAPR": {
+"drug": "deramiocel",
+"date": "Nov 22, 2026"
+},
+"BBIO": {
+"drug": "BBP-418",
+"date": "Nov 27, 2026"
+},
+"PYPD": {
+"drug": "D-PLEX\u2081\u2080\u2080",
+"date": "Nov 28, 2026"
+},
+"COGT": {
+"drug": "bezuclastinib in GIST",
+"date": "Nov 30, 2026"
+},
+"ANAB": {
+"drug": "Quimilza",
+"date": "Dec 12, 2026"
+},
+"VNDA": {
+"drug": "Quimilza",
+"date": "Dec 12, 2026"
+},
+"CORT": {
+"drug": "relacorilant in hypercortisolism",
+"date": "Dec 17, 2026"
+},
+"MLYS": {
+"drug": "lorundrostat",
+"date": "Dec 22, 2026"
+},
+"PRAX": {
+"drug": "relutrigine",
+"date": "Dec 27, 2026"
+}
+}

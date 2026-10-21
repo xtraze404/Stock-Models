@@ -1,0 +1,433 @@
+{
+ "NVO": {
+  "g": [
+   -0.03,
+   -0.08,
+   -0.02,
+   0.02,
+   0.03,
+   -0.03,
+   -0.05,
+   0.0,
+   0.02,
+   0.025
+  ],
+  "m0": null,
+  "m10": [
+   0.27,
+   0.32,
+   0.37
+  ],
+  "q": 0.045,
+  "near": "270115",
+  "long": "280121",
+  "why": [
+   "2026 guidance: adjusted sales and operating profit **0% to \u22126% at CER** (raised in August from \u22124% to \u221212%). The basic model had +6.4%.",
+   "2027: the Medicare negotiated price for semaglutide (\\$274 a month, 71% off list) takes effect, and the US list price drops to \\$675. Novo says net price is unchanged, but most-favoured-nation clauses and Medicaid cuts are pressuring realized prices. Reviewed at \u22128%.",
+   "Semaglutide compound patents have already expired in some international markets, and US exclusivity runs to about 2031\u201332. Reviewed with dips in 2031\u201332 before oral Wegovy, CagriSema and amycretin carry growth.",
+   "GAAP operating margin falls from 41% to **32%** by 2035 (bear 27%, bull 37%) as price resets outpace volume."
+  ],
+  "src": [
+   [
+    "Q2 2026 financial report (6-K)",
+    "https://www.sec.gov/Archives/edgar/data/0000353278/000035327826000023/caq22026.htm"
+   ],
+   [
+    "Raised 2026 outlook (Yahoo Finance)",
+    "https://finance.yahoo.com/healthcare/articles/novo-nordisk-raises-adjusted-sales-163300244.html"
+   ],
+   [
+    "2027 list-price cut (Fierce Pharma)",
+    "https://www.fiercepharma.com/pharma/novo-knock-down-ozempic-wegovy-list-prices-27-self-pay-channels-unaffected"
+   ],
+   [
+    "Medicare negotiated price (The Hill)",
+    "https://thehill.com/policy/healthcare/5752255-novo-nordisk-cuts-drug-prices/"
+   ]
+  ],
+  "basic": {
+   "ps": 77.04,
+   "up": "+98%",
+   "bear": 44.57,
+   "bull": 144.86,
+   "m10": 0.43
+  }
+ },
+ "PFE": {
+  "g": [
+   -0.017,
+   -0.04,
+   -0.09,
+   -0.03,
+   0.02,
+   0.04,
+   0.04,
+   0.03,
+   0.03,
+   0.025
+  ],
+  "m0": null,
+  "m10": [
+   0.21,
+   0.26,
+   0.3
+  ],
+  "q": 0.058,
+  "near": "270115",
+  "long": "280121",
+  "why": [
+   "2026 guidance: revenue **\\$60.5\u201362.5B** (midpoint \u22121.7% vs. 2025). The basic model had +3.9%.",
+   "Analysts put about **\\$17B** of revenue at risk from patent expiries through 2028\u20132030: Ibrance and Xtandi around 2027, Eliquis in 2028, part of the Prevnar franchise. Pfizer only says the impact accelerates from 2026 to 2030. Reviewed with declines of \u22124% / \u22129% / \u22123% in 2027\u201329, then recovery as Seagen ADCs, Metsera obesity assets and launches build.",
+   "Pfizer reports amortization, restructuring and other deductions below the cost lines. The XBRL-derived 2025 margin (36%) is therefore before about \\$5B of amortization, and the reviewed target is **26%** (bear 21%, bull 30%).",
+   "Dividend yield is about 5.8% (\\$1.72 a year), with an 89% cash payout ratio."
+  ],
+  "src": [
+   [
+    "Q2 2026 results (8-K)",
+    "https://www.sec.gov/Archives/edgar/data/78003/000007800326000094/pfe-6282026xex99.htm"
+   ],
+   [
+    "10-Q Q2 2026: LOE impact 2026\u20132030",
+    "https://www.sec.gov/Archives/edgar/data/0000078003/000007800326000095/pfe-20260628.htm"
+   ],
+   [
+    "Patent cliff estimate (Tickeron)",
+    "https://tickeron.com/ticker/PFE/forecasts-predictions/"
+   ],
+   [
+    "Dividend comparison (TIKR, Oct 2026)",
+    "https://www.tikr.com/blog/better-dividend-stock-pfizer-vs-gsk"
+   ]
+  ],
+  "basic": {
+   "ps": 50.64,
+   "up": "+71%",
+   "bear": 25.39,
+   "bull": 104.14,
+   "m10": 0.33
+  }
+ },
+ "GSK": {
+  "g": [
+   0.04,
+   0.04,
+   0.0,
+   -0.02,
+   0.02,
+   0.04,
+   0.03,
+   0.03,
+   0.025,
+   0.025
+  ],
+  "m0": null,
+  "m10": [
+   0.2,
+   0.25,
+   0.3
+  ],
+  "q": 0.032,
+  "near": "270115",
+  "long": "280121",
+  "why": [
+   "2026 guidance: turnover **+3\u20135%**, core operating profit +7\u20139%, reaffirmed with Q2.",
+   "Dolutegravir loses exclusivity **2028\u20132030**; it's the largest HIV franchise (about \u00a32.1B a quarter). Reviewed at 0% / \u22122% in 2028\u201329, offset partly by long-acting cabotegravir.",
+   "GSK targets **more than \u00a340B of sales by 2031** (about 3\u20134% a year) and a stable to improving margin through the patent cliff, helped by a \u00a31.9B cost programme. Reviewed GAAP margin target **25%** (bear 20%, bull 30%) vs. a core margin above 31%."
+  ],
+  "src": [
+   [
+    "Q2 2026 results",
+    "https://www.gsk.com/media/jayh41pz/q2-2026-results-announcement.pdf"
+   ],
+   [
+    "Q2 2026 6-K",
+    "https://www.sec.gov/Archives/edgar/data/0001131399/000165495426004051/a2755c.htm"
+   ],
+   [
+    "Cost programme and 2031 target (Yahoo Finance)",
+    "https://finance.yahoo.com/healthcare/articles/gsk-q2-2026-earnings-beat-120814425.html"
+   ]
+  ],
+  "basic": {
+   "ps": 67.05,
+   "up": "+35%",
+   "bear": 33.77,
+   "bull": 140.08,
+   "m10": 0.23
+  }
+ },
+ "SNY": {
+  "g": [
+   0.1,
+   0.07,
+   0.06,
+   0.05,
+   0.04,
+   -0.02,
+   -0.03,
+   0.01,
+   0.02,
+   0.025
+  ],
+  "m0": 0.18,
+  "m10": [
+   0.2,
+   0.25,
+   0.3
+  ],
+  "q": 0.054,
+  "near": "270115",
+  "long": "280121",
+  "why": [
+   "2026 guidance raised to **about +10%** sales growth at CER (Q2 sales +17.8%, Dupixent +37.6%). The basic model had +6.2%.",
+   "Sanofi targets about **\u20ac25B of Dupixent** and \u20ac10B from launches by 2030. Dupixent's US exclusivity ends around 2031, so the review shows declines in 2031\u201332.",
+   "The 2025 GAAP margin (14.5%) includes impairments and amortization. Reviewed start 18% (3-year median), target **25%** (bear 20%, bull 30%); business operating margin runs near 30%."
+  ],
+  "src": [
+   [
+    "Q2 2026 press release (6-K)",
+    "https://www.sec.gov/Archives/edgar/data/0001121404/000112140426000008/pressreleaseq22026english.htm"
+   ],
+   [
+    "Sanofi Q2 2026 release",
+    "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-30-05-30-00-3335767"
+   ]
+  ],
+  "basic": {
+   "ps": 56.0,
+   "up": "+38%",
+   "bear": 27.63,
+   "bull": 117.08,
+   "m10": 0.2
+  }
+ },
+ "ZTS": {
+  "g": [
+   -0.026,
+   0.02,
+   0.04,
+   0.05,
+   0.05,
+   0.045,
+   0.04,
+   0.035,
+   0.03,
+   0.025
+  ],
+  "m0": 0.35,
+  "m10": [
+   0.32,
+   0.36,
+   0.39
+  ],
+  "q": 0.025,
+  "near": "270115",
+  "long": "280121",
+  "why": [
+   "2026 guidance cut in August: revenue **\\$9.12\u20139.32B** (organic \u22123% to \u22121%) and adjusted EPS \\$6.15\u20136.25, down from \\$6.85\u20137.00. US revenue \u22127% on fewer vet visits and competition in dermatology and parasiticides. The basic model had +1.2%.",
+   "Librela plus its long-acting successor fell 8% in Q2. Reviewed with a recovery to +4\u20135% from 2028 as international growth (+6%) continues.",
+   "The EPS cut implies the margin drops to about **35%** in 2026 (from 39%); the reviewed target is 36% (bear 32%, bull 39%)."
+  ],
+  "src": [
+   [
+    "Q2 2026 results (8-K)",
+    "https://www.sec.gov/Archives/edgar/data/0001555280/000155528026000038/exhibit99q22026.htm"
+   ],
+   [
+    "Guidance cut (Investing.com)",
+    "https://www.investing.com/news/company-news/zoetis-q2-2026-slides-show-mixed-results-guidance-cut-93CH-4843210"
+   ]
+  ],
+  "basic": {
+   "ps": 102.99,
+   "up": "+30%",
+   "bear": 55.4,
+   "bull": 198.49,
+   "m10": 0.39
+  }
+ },
+ "INCY": {
+  "g": [
+   0.12,
+   0.05,
+   0.03,
+   -0.28,
+   -0.08,
+   0.06,
+   0.06,
+   0.05,
+   0.04,
+   0.03
+  ],
+  "m0": null,
+  "m10": [
+   0.15,
+   0.2,
+   0.25
+  ],
+  "q": 0.0,
+  "near": "270115",
+  "long": "271217",
+  "why": [
+   "2026 guidance raised to **\\$5.13\u20135.26B** of net product sales (Jakafi \\$3.22\u20133.27B, Opzelura \\$1.05\u20131.10B), plus royalties.",
+   "**Jakafi's US patent coverage ends in December 2028** (composition of matter plus pediatric exclusivity). Jakafi is over 60% of sales, so the review has revenue \u221228% in 2029 and \u22128% in 2030. The basic model grew it at 21%, fading.",
+   "Incyte targets **\\$3\u20134B from the business excluding Jakafi by 2030**. The reviewed path reaches about \\$4.1B of total revenue in 2030, and the margin target drops to **20%** (from 30%) after losing its highest-margin product."
+  ],
+  "src": [
+   [
+    "Q2 2026 results (8-K)",
+    "https://www.sec.gov/Archives/edgar/data/0000879169/000087916926000053/incy-q22026xexx991.htm"
+   ],
+   [
+    "10-K: ruxolitinib patent coverage to Dec 2028",
+    "https://www.sec.gov/Archives/edgar/data/879169/000087916924000045/incy-20231231.htm"
+   ]
+  ],
+  "basic": {
+   "ps": 199.7,
+   "up": "+77%",
+   "bear": 120.31,
+   "bull": 364.22,
+   "m10": 0.23
+  }
+ },
+ "HALO": {
+  "g": [
+   0.34,
+   0.12,
+   0.06,
+   -0.12,
+   -0.1,
+   0.0,
+   0.03,
+   0.03,
+   0.025,
+   0.025
+  ],
+  "m0": 0.5,
+  "m10": [
+   0.38,
+   0.45,
+   0.52
+  ],
+  "q": 0.0,
+  "near": "261218",
+  "long": "271217",
+  "why": [
+   "2026 guidance raised to **\\$1.835\u20131.910B** of revenue (royalties \\$1.220\u20131.245B, adjusted EBITDA \\$1.225\u20131.280B): about +34%. Darzalex SC and Vyvgart Hytrulo drive it.",
+   "ENHANZE royalties step down country by country when the rHuPH20 patents expire. Investors focus on **2027\u20132029**, and the 10-Q says Janssen's own Darzalex patents don't delay the step-down. Reviewed at \u221212% / \u221210% in 2029\u201330, then flat as MDASE and Hypercon deals build.",
+   "The GAAP margin was depressed by acquisition amortization (TTM 36%) while adjusted EBITDA runs at about 67%. Reviewed start 50%, target **45%** (bear 38%, bull 52%)."
+  ],
+  "src": [
+   [
+    "Q2 2026 results (8-K)",
+    "https://www.sec.gov/Archives/edgar/data/0001159036/000115903626000103/ex991q220268-k.htm"
+   ],
+   [
+    "10-Q Q2 2026: royalty step-down terms",
+    "https://www.sec.gov/Archives/edgar/data/0001159036/000115903626000104/halo-20260630.htm"
+   ],
+   [
+    "Patent-cliff concern (Kavout)",
+    "https://www.kavout.com/market-lens/halozyme-s-record-quarter-is-fully-priced-for-its-royalty-engine-s-limits"
+   ]
+  ],
+  "basic": {
+   "ps": 182.82,
+   "up": "+50%",
+   "bear": 103.47,
+   "bull": 330.46,
+   "m10": 0.38
+  }
+ },
+ "NBIX": {
+  "g": [
+   0.35,
+   0.15,
+   0.08,
+   0.02,
+   0.03,
+   0.04,
+   0.04,
+   0.03,
+   0.03,
+   0.025
+  ],
+  "m0": 0.24,
+  "m10": [
+   0.26,
+   0.32,
+   0.38
+  ],
+  "q": 0.0,
+  "near": "270115",
+  "long": "271217",
+  "why": [
+   "2026: Ingrezza guidance raised to **\\$2.825\u20132.875B**, Crenessity \\$184M in Q2 (about 15% of diagnosed CAH patients), and VYKAT XR from the Soleno deal (closed May 18, about \\$94M a quarter pro forma). Total \u2248 \\$3.85B, +35%.",
+   "Ingrezza qualified for the small-biotech exception; it can be selected for Medicare negotiation from 2027, with the price applying in **2029**, and Teva's Austedo already has a negotiated price. Reviewed growth slows to +2% in 2029.",
+   "The margin target rises to **32%** (bear 26%, bull 38%) as Crenessity and VYKAT scale; the basic model used 23%."
+  ],
+  "src": [
+   [
+    "Q2 2026 results",
+    "https://www.prnewswire.com/news-releases/neurocrine-biosciences-reports-second-quarter-2026-financial-results-302839431.html"
+   ],
+   [
+    "10-Q Q1 2026: IRA small-biotech exception",
+    "https://www.sec.gov/Archives/edgar/data/0000914475/000091447526000026/nbix-20260331.htm"
+   ]
+  ],
+  "basic": {
+   "ps": 185.85,
+   "up": "+37%",
+   "bear": 105.35,
+   "bull": 342.63,
+   "m10": 0.23
+  }
+ },
+ "RDY": {
+  "g": [
+   0.032,
+   -0.03,
+   0.07,
+   0.07,
+   0.06,
+   0.05,
+   0.04,
+   0.035,
+   0.03,
+   0.025
+  ],
+  "m0": 0.16,
+  "m10": [
+   0.15,
+   0.19,
+   0.22
+  ],
+  "q": 0.0065,
+  "near": "261218",
+  "long": "270319",
+  "why": [
+   "SEC XBRL stops at FY2025 (March 2025), so the basic model projected +15% for FY2026. Actual FY2026 revenue was **\u20b933,593 crore, +3.2%**, with EBITDA 22.8% (24.7% adjusted).",
+   "Q1 FY2027 revenue was **\u22125.6%**: North America generics fell 41% as generic Revlimid fell away, and a \u20b9240 crore semaglutide API charge hit margins. Reviewed FY2027 at \u22123%, then +7% as India (+17%) and emerging markets carry growth.",
+   "The reviewed margin starts at 16% (FY2026, after one-offs) with a target of **19%** (bear 15%, bull 22%)."
+  ],
+  "src": [
+   [
+    "FY2026 results (press release)",
+    "https://in.marketscreener.com/news/dr-reddy-laboratories-reddya-s-q4-full-year-fy26-financial-results-ce7f5bdeda8cf62c"
+   ],
+   [
+    "Q1 FY2027 results 6-K (Stock Titan)",
+    "https://www.stocktitan.net/sec-filings/RDY/6-k-dr-reddys-laboratories-ltd-current-report-foreign-issuer-26cbd5f786ff.html"
+   ]
+  ],
+  "basic": {
+   "ps": 17.93,
+   "up": "+39%",
+   "bear": 10.3,
+   "bull": 32.93,
+   "m10": 0.23
+  }
+ }
+}

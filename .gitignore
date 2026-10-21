@@ -1,0 +1,26 @@
+# macOS / Excel
+.DS_Store
+~$*
+
+# Python
+__pycache__/
+*.pyc
+.model-tools/venv/
+
+# Re-downloadable or regenerated data
+.model-tools/basic/raw/
+.model-tools/basic/hist/
+.model-tools/basic/rawopt/
+.model-tools/basic/out/
+.model-tools/basic/calc/
+.model-tools/basic/cached/
+.model-tools/basic/backup/
+.model-tools/basic/snapshot/
+.model-tools/basic/notes/
+.model-tools/basic/notes_hub/
+.model-tools/basic/report/
+.model-tools/reprice_out/
+.model-tools/screener/
+.model-tools/recover/
+*.log
+logs_*.txt
