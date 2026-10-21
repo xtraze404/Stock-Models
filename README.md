@@ -8,5 +8,3 @@ Valuation models for the biotech and pharma names on the screener.
   - **rNPV**: program-level risk-adjusted NPV for the PDUFA-event names, with an Options sheet, or
   - **Net cash**: for pre-revenue companies.
 - `.model-tools/`: the Python pipeline that builds, prices and checks the models from SEC XBRL data, Nasdaq/Cboe prices and option chains.
-
-Model output, not investment advice.
